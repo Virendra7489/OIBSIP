@@ -1,0 +1,991 @@
+order_id,customer_id,customer_name,gender,age,city,order_date,product_category,unit_price,quantity,discount_pct,payment_method,delivery_status,total_amount
+ORD-00001,1087,Manish Jain,Female,31,Bhopal,2024-01-01,Electronics,5487.0,1,0.0,Cash on Delivery,Delivered,5487.0
+ORD-00002,1126,Rohan Gupta,Female,24,Bhopal,2024-01-02,Sports,2016.0,3,5.0,UPI,Delivered,5745.6
+ORD-00003,1078,Sneha Singh,Male,40,Bhopal,2024-01-03,Home & Kitchen,2216.0,1,0.0,Debit Card,Shipped,2216.0
+ORD-00004,1228,Amit Joshi,Female,47,Bhopal,2024-01-03,Beauty,853.0,2,25.0,UPI,Delivered,1279.5
+ORD-00005,1032,Anjali Yadav,Male,19,Indore,2024-01-04,Home & Kitchen,2036.0,1,20.0,Credit Card,Delivered,1628.8
+ORD-00006,1248,Neha Gupta,Unknown,33,Indore,2024-01-04,Sports,1610.0,2,5.0,UPI,Pending,3059.0
+ORD-00007,1105,Neha Jain,Female,40,Pune,2024-01-04,Electronics,10185.0,1,5.0,UPI,Delivered,9675.75
+ORD-00008,1169,Vikram Patel,Male,43,Bhopal,2024-01-05,Electronics,8648.0,3,5.0,Credit Card,Delivered,24646.8
+ORD-00009,1048,Ritu Malviya,Male,39,Delhi,2024-01-05,Sports,1346.0,1,0.0,UPI,Shipped,1346.0
+ORD-00010,1116,Pooja Mishra,Male,44,Delhi,2024-01-05,Sports,1876.0,5,0.0,UPI,Delivered,9380.0
+ORD-00011,1227,Pooja Sharma,Female,38,Bhopal,2024-01-06,Clothing,808.0,3,0.0,Credit Card,Delivered,2424.0
+ORD-00012,1082,Sneha Gupta,Female,46,Mumbai,2024-01-06,Clothing,762.0,1,0.0,Credit Card,Delivered,762.0
+ORD-00013,1040,Amit Singh,Female,41,Bangalore,2024-01-06,Home & Kitchen,2395.0,1,10.0,UPI,Delivered,2155.5
+ORD-00014,1157,Aditya Malviya,Female,32,Pune,2024-01-07,Clothing,1156.0,2,0.0,Credit Card,Delivered,2312.0
+ORD-00015,1049,Karan Singh,Female,29,Mumbai,2024-01-07,Electronics,9808.0,1,0.0,UPI,Delivered,9808.0
+ORD-00016,1095,Karan Patel,Male,37,Indore,2024-01-07,Beauty,471.0,2,5.0,Credit Card,Delivered,894.9
+ORD-00017,1136,Neha Sharma,Male,24,Indore,2024-01-07,Clothing,1194.0,4,5.0,UPI,Delivered,4537.2
+ORD-00018,1170,Karan Yadav,Male,52,Mumbai,2024-01-08,Books,423.0,2,0.0,Credit Card,Delivered,846.0
+ORD-00019,1192,Simran Malviya,Female,21,Indore,2024-01-08,Electronics,6203.0,1,0.0,UPI,Delivered,6203.0
+ORD-00020,1203,Pooja Joshi,Female,21,Bhopal,2024-01-08,Electronics,9466.0,2,0.0,Credit Card,Delivered,18932.0
+ORD-00021,1254,Rahul Malviya,Female,38,Bangalore,2024-01-09,Books,362.0,1,0.0,Credit Card,Returned,362.0
+ORD-00022,1020,Neha Singh,Female,29,Mumbai,2024-01-09,Clothing,896.0,5,15.0,Net Banking,Delivered,3808.0
+ORD-00023,1109,Vivaan Sharma,Male,29,Bangalore,2024-01-09,Books,245.0,2,20.0,Credit Card,Delivered,392.0
+ORD-00024,1001,Vivaan Jain,Female,46,Indore,2024-01-09,Electronics,8532.0,3,5.0,Cash on Delivery,Delivered,24316.2
+ORD-00025,1003,Sneha Mishra,Female,38,Bangalore,2024-01-10,Sports,1518.0,3,5.0,UPI,Delivered,4326.3
+ORD-00026,1064,Vivaan Jain,Male,19,Indore,2024-01-10,Books,262.0,1,15.0,UPI,Delivered,222.7
+ORD-00027,1180,Vivaan Jain,Male,25,Bhopal,2024-01-10,Beauty,468.0,1,10.0,UPI,Shipped,421.2
+ORD-00028,1269,Pooja Verma,Male,38,Bhopal,2024-01-11,Electronics,11670.0,1,0.0,UPI,Delivered,11670.0
+ORD-00029,1233,Aarav Yadav,Male,36,Delhi,2024-01-12,Clothing,771.0,4,0.0,Debit Card,Delivered,3084.0
+ORD-00030,1194,Vivaan Mishra,Male,51,Delhi,2024-01-12,Clothing,828.0,2,5.0,Cash on Delivery,Delivered,1573.2
+ORD-00031,1234,Rohan Joshi,Female,32,Bangalore,2024-01-12,Home & Kitchen,1602.0,3,10.0,Credit Card,Pending,4325.4
+ORD-00032,1052,Deepak Sharma,Male,24,Mumbai,2024-01-12,Clothing,1268.0,2,0.0,Debit Card,Delivered,2536.0
+ORD-00033,1252,Vikram Mishra,Male,46,Indore,2024-01-12,Electronics,8853.0,4,0.0,UPI,Delivered,35412.0
+ORD-00034,1268,Amit Verma,Male,35,Bhopal,2024-01-13,Clothing,1285.0,2,0.0,UPI,Shipped,2570.0
+ORD-00035,1029,Rahul Verma,Female,39,Indore,2024-01-13,Clothing,783.0,2,0.0,Cash on Delivery,Pending,1566.0
+ORD-00036,1141,Neha Gupta,Female,41,Indore,2024-01-13,Clothing,633.0,3,5.0,UPI,Delivered,1804.05
+ORD-00037,1250,Simran Gupta,Male,34,Bhopal,2024-01-14,Electronics,8805.0,2,10.0,UPI,Returned,15849.0
+ORD-00038,1143,Sneha Yadav,Female,24,Indore,2024-01-14,Clothing,820.0,2,5.0,Net Banking,Pending,1558.0
+ORD-00039,1253,Neha Gupta,Male,19,Delhi,2024-01-14,Home & Kitchen,2379.0,2,0.0,Net Banking,Delivered,4758.0
+ORD-00040,1281,Rahul Sharma,Male,38,Delhi,2024-01-14,Clothing,940.0,1,0.0,Debit Card,Shipped,940.0
+ORD-00041,1143,Sneha Yadav,Female,24,Indore,2024-01-15,Clothing,923.0,4,15.0,UPI,Delivered,3138.2
+ORD-00042,1018,Ritu Sharma,Female,21,Indore,2024-01-15,Home & Kitchen,2654.0,1,5.0,Cash on Delivery,Delivered,2521.3
+ORD-00043,1103,Pooja Malviya,Female,32,Mumbai,2024-01-16,Beauty,714.0,1,0.0,UPI,Delivered,714.0
+ORD-00044,1065,Amit Singh,Female,41,Bangalore,2024-01-16,Clothing,759.0,1,0.0,Credit Card,Pending,759.0
+ORD-00045,1143,Sneha Yadav,Female,24,Indore,2024-01-16,Home & Kitchen,1872.0,2,0.0,UPI,Delivered,3744.0
+ORD-00046,1176,Rahul Sharma,Male,24,Pune,2024-01-16,Sports,1394.0,2,15.0,Net Banking,Delivered,2369.8
+ORD-00047,1140,Vivaan Sharma,Female,19,Bangalore,2024-01-17,Home & Kitchen,2382.0,1,20.0,Net Banking,Delivered,1905.6
+ORD-00048,1059,Aarav Verma,Male,31,Indore,2024-01-17,Sports,1521.0,1,10.0,Debit Card,Delivered,1368.9
+ORD-00049,1091,Simran Verma,Female,39,Indore,2024-01-17,Beauty,571.0,2,5.0,UPI,Cancelled,1084.9
+ORD-00050,1204,Sneha Verma,Male,33,Mumbai,2024-01-17,Electronics,8870.0,5,5.0,Credit Card,Shipped,42132.5
+ORD-00051,1009,Rahul Verma,Male,54,Indore,2024-01-18,Clothing,575.0,1,0.0,UPI,Delivered,575.0
+ORD-00052,1065,Amit Singh,Female,41,Bangalore,2024-01-18,Books,235.0,5,10.0,Cash on Delivery,Cancelled,1057.5
+ORD-00053,1268,Amit Verma,Male,35,Bhopal,2024-01-19,Sports,2698.0,2,10.0,UPI,Pending,4856.4
+ORD-00054,1030,Isha Singh,Male,42,Bangalore,2024-01-19,Home & Kitchen,1196.0,1,0.0,UPI,Delivered,1196.0
+ORD-00055,1125,Manish Sharma,Female,32,Bangalore,2024-01-19,Electronics,8235.0,4,20.0,Debit Card,Delivered,26352.0
+ORD-00056,1063,Ritu Joshi,Male,39,Indore,2024-01-19,Home & Kitchen,1629.0,3,5.0,Credit Card,Delivered,4642.65
+ORD-00057,1032,Anjali Yadav,Male,19,Indore,2024-01-19,Electronics,6442.0,2,0.0,Cash on Delivery,Delivered,12884.0
+ORD-00058,1127,Rohan Patel,Male,33,Mumbai,2024-01-21,Books,269.0,2,0.0,UPI,Delivered,538.0
+ORD-00059,1157,Aditya Malviya,Female,32,Pune,2024-01-21,Home & Kitchen,2317.0,4,20.0,Cash on Delivery,Delivered,7414.4
+ORD-00060,1053,Manish Jain,Female,19,Bhopal,2024-01-21,Books,510.0,3,20.0,UPI,Cancelled,1224.0
+ORD-00061,1024,Sneha Mishra,Female,39,Bhopal,2024-01-21,Unknown,472.0,3,5.0,UPI,Delivered,1345.2
+ORD-00062,1041,Simran Gupta,Male,36,Bhopal,2024-01-22,Home & Kitchen,2635.0,5,25.0,Credit Card,Pending,9881.25
+ORD-00063,1196,Isha Verma,Female,37,Indore,2024-01-22,Home & Kitchen,2044.0,2,20.0,UPI,Cancelled,3270.4
+ORD-00064,1259,Ritu Sharma,Female,25,Mumbai,2024-01-23,Books,412.0,4,15.0,Credit Card,Delivered,1400.8
+ORD-00066,1097,Sanjay Patel,Female,21,Bhopal,2024-01-23,Beauty,802.0,1,5.0,UPI,Shipped,761.9
+ORD-00067,1104,Manish Yadav,Male,42,Bhopal,2024-01-24,Electronics,10703.0,1,15.0,Debit Card,Shipped,9097.55
+ORD-00068,1109,Vivaan Sharma,Male,29,Bangalore,2024-01-25,Unknown,1863.0,2,10.0,UPI,Delivered,3353.4
+ORD-00069,1074,Aarav Malviya,Male,52,Delhi,2024-01-25,Unknown,972.0,4,15.0,Debit Card,Delivered,3304.8
+ORD-00070,1017,Vivaan Joshi,Male,19,Indore,2024-01-25,Beauty,579.0,1,0.0,Debit Card,Delivered,579.0
+ORD-00071,1158,Karan Singh,Male,37,Bhopal,2024-01-25,Home & Kitchen,1251.0,3,15.0,UPI,Shipped,3190.05
+ORD-00072,1108,Isha Malviya,Female,30,Delhi,2024-01-25,Clothing,1078.0,1,25.0,Cash on Delivery,Shipped,808.5
+ORD-00073,1103,Pooja Malviya,Female,32,Mumbai,2024-01-26,Electronics,5042.0,2,0.0,UPI,Delivered,10084.0
+ORD-00074,1080,Rahul Jain,Female,25,Bhopal,2024-01-27,Clothing,763.0,2,25.0,UPI,Delivered,1144.5
+ORD-00075,1279,Isha Mishra,Female,34,Pune,2024-01-27,Books,240.0,1,5.0,UPI,Delivered,228.0
+ORD-00076,1184,Pooja Patel,Male,46,Indore,2024-01-27,Clothing,694.0,4,0.0,Cash on Delivery,Cancelled,2776.0
+ORD-00077,1126,Rohan Gupta,Female,24,Bhopal,2024-01-27,Electronics,9399.0,1,0.0,Credit Card,Cancelled,9399.0
+ORD-00078,1062,Kavya Gupta,Male,40,Indore,2024-01-27,Beauty,654.0,4,15.0,Credit Card,Shipped,2223.6
+ORD-00079,1241,Neha Mishra,Female,36,Bangalore,2024-01-28,Books,343.0,1,10.0,Net Banking,Delivered,308.7
+ORD-00080,1267,Rohan Malviya,Female,33,Delhi,2024-01-28,Electronics,5449.0,5,0.0,UPI,Delivered,27245.0
+ORD-00081,1010,Deepak Gupta,Male,22,Bhopal,2024-01-28,Clothing,891.0,2,10.0,Cash on Delivery,Delivered,1603.8
+ORD-00082,1279,Isha Mishra,Female,34,Pune,2024-01-29,Sports,2018.0,1,0.0,Debit Card,Delivered,2018.0
+ORD-00083,1210,Neha Joshi,Male,34,Indore,2024-01-29,Books,437.0,1,5.0,Net Banking,Delivered,415.15
+ORD-00084,1030,Isha Singh,Male,42,Bangalore,2024-01-29,Home & Kitchen,2018.0,1,20.0,Net Banking,Pending,1614.4
+ORD-00085,1226,Vikram Yadav,Male,37,Pune,2024-01-30,Clothing,938.0,2,10.0,Net Banking,Delivered,1688.4
+ORD-00086,1033,Sneha Patel,Female,39,Bangalore,2024-01-31,Clothing,934.0,4,15.0,UPI,Delivered,3175.6
+ORD-00087,1016,Pooja Malviya,Male,52,Indore,2024-01-31,Electronics,11757.0,2,10.0,Cash on Delivery,Returned,21162.6
+ORD-00088,1035,Vivaan Gupta,Male,36,Bhopal,2024-02-01,Books,448.0,2,25.0,Cash on Delivery,Delivered,672.0
+ORD-00089,1138,Sneha Gupta,Male,32,Indore,2024-02-01,Electronics,8378.0,2,0.0,Debit Card,Delivered,16756.0
+ORD-00090,1186,Priya Singh,Male,41,Mumbai,2024-02-02,Electronics,8250.0,2,0.0,UPI,Cancelled,16500.0
+ORD-00091,1123,Sanjay Sharma,Male,32,Delhi,2024-02-02,Books,218.0,3,0.0,Net Banking,Delivered,654.0
+ORD-00092,1037,Pooja Verma,Male,38,Indore,2024-02-02,Sports,3186.0,2,10.0,UPI,Delivered,5734.8
+ORD-00093,1060,Karan Verma,Female,32,Mumbai,2024-02-02,Books,311.0,3,10.0,Credit Card,Delivered,839.7
+ORD-00094,1256,Vikram Jain,Male,23,Indore,2024-02-03,Home & Kitchen,1495.0,5,15.0,Credit Card,Pending,6353.75
+ORD-00095,1289,Simran Joshi,Male,42,Delhi,2024-02-03,Home & Kitchen,2699.0,1,0.0,UPI,Delivered,2699.0
+ORD-00096,1227,Pooja Sharma,Female,38,Bhopal,2024-02-04,Clothing,1122.0,1,0.0,Debit Card,Delivered,1122.0
+ORD-00097,1032,Anjali Yadav,Male,19,Indore,2024-02-04,Clothing,578.0,1,10.0,UPI,Delivered,520.2
+ORD-00098,1246,Simran Mishra,Male,22,Mumbai,2024-02-04,Home & Kitchen,1180.0,2,25.0,Debit Card,Delivered,1770.0
+ORD-00099,1208,Aarav Singh,Female,34,Indore,2024-02-04,Clothing,561.0,1,0.0,Cash on Delivery,Shipped,561.0
+ORD-00100,1158,Karan Singh,Male,37,Bhopal,2024-02-05,Home & Kitchen,2051.0,5,0.0,UPI,Delivered,10255.0
+ORD-00101,1043,Sanjay Jain,Female,49,Indore,2024-02-05,Beauty,432.0,2,0.0,Debit Card,Delivered,864.0
+ORD-00102,1300,Sanjay Singh,Female,34,Indore,2024-02-05,Unknown,3168.0,2,5.0,UPI,Delivered,6019.2
+ORD-00103,1133,Vikram Joshi,Female,40,Delhi,2024-02-05,Electronics,11546.0,3,0.0,Cash on Delivery,Delivered,34638.0
+ORD-00104,1014,Sneha Mishra,Male,22,Mumbai,2024-02-06,Clothing,982.0,1,0.0,Net Banking,Delivered,982.0
+ORD-00105,1063,Ritu Joshi,Male,39,Indore,2024-02-06,Electronics,9240.0,4,10.0,UPI,Delivered,33264.0
+ORD-00106,1121,Aditya Joshi,Female,24,Bhopal,2024-02-07,Clothing,776.0,1,0.0,Debit Card,Delivered,776.0
+ORD-00107,1019,Ritu Mishra,Male,30,Bangalore,2024-02-07,Clothing,592.0,2,5.0,Credit Card,Delivered,1124.8
+ORD-00108,1098,Vikram Sharma,Male,42,Pune,2024-02-07,Electronics,16053.125,5,0.0,Credit Card,Pending,80265.62
+ORD-00109,1141,Neha Gupta,Female,41,Indore,2024-02-07,Books,242.0,3,20.0,Debit Card,Returned,580.8
+ORD-00110,1285,Sanjay Joshi,Female,20,Pune,2024-02-08,Home & Kitchen,1219.0,4,5.0,Credit Card,Delivered,4632.2
+ORD-00112,1174,Vikram Yadav,Male,34,Pune,2024-02-08,Electronics,4890.0,4,0.0,UPI,Delivered,19560.0
+ORD-00113,1275,Rahul Singh,Female,29,Indore,2024-02-09,Electronics,7925.0,2,10.0,UPI,Delivered,14265.0
+ORD-00114,1242,Neha Jain,Female,37,Indore,2024-02-09,Clothing,1113.0,2,20.0,Cash on Delivery,Delivered,1780.8
+ORD-00115,1278,Vikram Joshi,Female,37,Bhopal,2024-02-09,Electronics,10570.0,1,0.0,UPI,Cancelled,10570.0
+ORD-00116,1052,Deepak Sharma,Male,24,Mumbai,2024-02-09,Clothing,1029.0,1,0.0,Credit Card,Shipped,1029.0
+ORD-00117,1241,Neha Mishra,Female,36,Bangalore,2024-02-10,Sports,2997.0,2,0.0,UPI,Delivered,5994.0
+ORD-00118,1294,Kavya Sharma,Female,37,Bangalore,2024-02-10,Clothing,869.0,1,10.0,Cash on Delivery,Returned,782.1
+ORD-00119,1098,Vikram Sharma,Male,42,Pune,2024-02-10,Electronics,10911.0,3,20.0,Credit Card,Delivered,26186.4
+ORD-00120,1150,Neha Sharma,Female,37,Mumbai,2024-02-12,Unknown,1900.0,4,5.0,Credit Card,Delivered,7220.0
+ORD-00121,1160,Simran Jain,Female,42,Indore,2024-02-12,Home & Kitchen,1441.0,5,0.0,UPI,Delivered,7205.0
+ORD-00122,1149,Deepak Gupta,Male,49,Indore,2024-02-13,Home & Kitchen,2610.0,1,15.0,Credit Card,Delivered,2218.5
+ORD-00123,1087,Manish Jain,Female,31,Bhopal,2024-02-13,Clothing,763.0,5,15.0,Net Banking,Cancelled,3242.75
+ORD-00124,1292,Aditya Sharma,Male,28,Mumbai,2024-02-13,Beauty,405.0,1,0.0,Credit Card,Delivered,405.0
+ORD-00125,1287,Neha Sharma,Male,35,Indore,2024-02-14,Electronics,6547.0,2,0.0,Credit Card,Delivered,13094.0
+ORD-00126,1115,Rahul Verma,Male,32,Mumbai,2024-02-14,Clothing,837.0,4,5.0,Debit Card,Delivered,3180.6
+ORD-00127,1242,Neha Jain,Female,37,Indore,2024-02-14,Books,321.0,1,15.0,UPI,Cancelled,272.85
+ORD-00128,1120,Priya Singh,Female,19,Delhi,2024-02-15,Beauty,697.0,1,0.0,Credit Card,Delivered,697.0
+ORD-00129,1239,Deepak Sharma,Male,37,Bangalore,2024-02-15,Clothing,1255.0,1,10.0,UPI,Delivered,1129.5
+ORD-00130,1176,Rahul Sharma,Male,24,Pune,2024-02-16,Home & Kitchen,1554.0,2,15.0,UPI,Delivered,2641.8
+ORD-00131,1142,Kavya Gupta,Male,30,Delhi,2024-02-16,Electronics,8550.0,4,0.0,Debit Card,Cancelled,34200.0
+ORD-00132,1039,Priya Malviya,Male,21,Bangalore,2024-02-16,Electronics,7249.0,1,0.0,Cash on Delivery,Delivered,7249.0
+ORD-00133,1197,Anjali Joshi,Male,48,Delhi,2024-02-17,Electronics,10717.0,1,0.0,Net Banking,Delivered,10717.0
+ORD-00134,1097,Sanjay Patel,Female,21,Bhopal,2024-02-17,Books,260.0,2,20.0,Cash on Delivery,Pending,416.0
+ORD-00135,1066,Amit Joshi,Male,55,Bhopal,2024-02-17,Clothing,624.0,1,10.0,Credit Card,Delivered,561.6
+ORD-00136,1058,Rahul Joshi,Female,31,Pune,2024-02-17,Books,368.0,6,0.0,UPI,Delivered,2208.0
+ORD-00137,1295,Deepak Mishra,Male,24,Delhi,2024-02-18,Electronics,9638.0,5,0.0,Debit Card,Delivered,48190.0
+ORD-00138,1031,Simran Jain,Female,38,Indore,2024-02-18,Beauty,855.0,3,15.0,Net Banking,Delivered,2180.25
+ORD-00139,1240,Kavya Verma,Female,30,Bhopal,2024-02-18,Beauty,735.0,4,15.0,Debit Card,Delivered,2499.0
+ORD-00140,1260,Pooja Joshi,Male,31,Bangalore,2024-02-18,Electronics,10372.0,2,10.0,Credit Card,Delivered,18669.6
+ORD-00141,1010,Deepak Gupta,Male,22,Bhopal,2024-02-19,Electronics,7628.0,4,0.0,Debit Card,Delivered,30512.0
+ORD-00142,1177,Neha Gupta,Male,54,Delhi,2024-02-20,Electronics,5037.0,1,20.0,Cash on Delivery,Delivered,4029.6
+ORD-00143,1174,Vikram Yadav,Male,34,Pune,2024-02-21,Beauty,458.0,1,15.0,Net Banking,Delivered,389.3
+ORD-00144,1108,Isha Malviya,Female,30,Delhi,2024-02-21,Clothing,571.0,3,10.0,Cash on Delivery,Returned,1541.7
+ORD-00145,1201,Vikram Jain,Female,38,Indore,2024-02-21,Home & Kitchen,1613.0,1,10.0,Credit Card,Delivered,1451.7
+ORD-00146,1123,Sanjay Sharma,Male,32,Delhi,2024-02-21,Clothing,941.0,4,20.0,UPI,Delivered,3011.2
+ORD-00147,1132,Neha Yadav,Female,32,Indore,2024-02-21,Beauty,598.0,3,20.0,Credit Card,Delivered,1435.2
+ORD-00148,1130,Rohan Joshi,Female,25,Bhopal,2024-02-21,Home & Kitchen,1988.0,5,10.0,UPI,Shipped,8946.0
+ORD-00149,1241,Neha Mishra,Female,36,Bangalore,2024-02-22,Home & Kitchen,1859.0,1,5.0,Net Banking,Delivered,1766.05
+ORD-00150,1190,Anjali Malviya,Female,35,Bangalore,2024-02-22,Sports,2662.0,2,5.0,Credit Card,Delivered,5057.8
+ORD-00151,1114,Deepak Joshi,Female,37,Pune,2024-02-23,Electronics,9602.0,3,15.0,Credit Card,Delivered,24485.1
+ORD-00152,1279,Isha Mishra,Female,34,Pune,2024-02-24,Beauty,576.0,2,10.0,UPI,Delivered,1036.8
+ORD-00153,1241,Neha Mishra,Female,36,Bangalore,2024-02-24,Electronics,7293.0,2,0.0,Debit Card,Shipped,14586.0
+ORD-00154,1280,Manish Mishra,Male,37,Indore,2024-02-25,Home & Kitchen,1898.0,3,0.0,Credit Card,Cancelled,5694.0
+ORD-00155,1220,Vivaan Patel,Female,44,Delhi,2024-02-25,Beauty,739.0,5,20.0,UPI,Pending,2956.0
+ORD-00156,1118,Pooja Jain,Female,26,Pune,2024-02-25,Books,309.0,3,20.0,Cash on Delivery,Delivered,741.6
+ORD-00157,1232,Isha Gupta,Female,31,Bhopal,2024-02-25,Books,314.0,1,25.0,UPI,Delivered,235.5
+ORD-00158,1099,Priya Verma,Male,37,Bhopal,2024-02-25,Clothing,1102.0,2,5.0,Credit Card,Delivered,2093.8
+ORD-00159,1082,Sneha Gupta,Female,46,Mumbai,2024-02-26,Clothing,1064.0,2,15.0,UPI,Shipped,1808.8
+ORD-00160,1136,Neha Sharma,Male,24,Indore,2024-02-26,Clothing,649.0,1,15.0,Credit Card,Cancelled,551.65
+ORD-00161,1291,Vivaan Mishra,Female,30,Delhi,2024-02-26,Home & Kitchen,1794.0,2,0.0,Debit Card,Unknown,3588.0
+ORD-00162,1171,Sanjay Malviya,Male,39,Bhopal,2024-02-26,Home & Kitchen,2526.0,1,0.0,Cash on Delivery,Delivered,2526.0
+ORD-00163,1116,Pooja Mishra,Male,44,Delhi,2024-02-26,Clothing,569.0,1,0.0,UPI,Pending,569.0
+ORD-00164,1139,Pooja Jain,Female,22,Delhi,2024-02-27,Clothing,1233.0,2,0.0,Net Banking,Delivered,2466.0
+ORD-00165,1088,Kavya Gupta,Female,33,Mumbai,2024-02-27,Clothing,672.0,1,10.0,Debit Card,Pending,604.8
+ORD-00166,1198,Isha Mishra,Female,34,Indore,2024-02-29,Clothing,951.0,2,10.0,UPI,Delivered,1711.8
+ORD-00167,1106,Neha Jain,Female,47,Bhopal,2024-02-29,Electronics,7855.0,1,10.0,UPI,Delivered,7069.5
+ORD-00168,1167,Priya Mishra,Female,19,Bhopal,2024-02-29,Beauty,396.0,3,0.0,UPI,Delivered,1188.0
+ORD-00169,1111,Aditya Gupta,Female,49,Bhopal,2024-03-01,Home & Kitchen,2563.0,1,15.0,Cash on Delivery,Returned,2178.55
+ORD-00170,1097,Sanjay Patel,Female,21,Bhopal,2024-03-01,Electronics,8075.0,4,0.0,UPI,Delivered,32300.0
+ORD-00171,1292,Aditya Sharma,Male,28,Mumbai,2024-03-02,Books,511.0,1,15.0,Credit Card,Delivered,434.35
+ORD-00172,1104,Manish Yadav,Male,42,Bhopal,2024-03-02,Beauty,558.0,2,0.0,Debit Card,Delivered,1116.0
+ORD-00173,1022,Isha Patel,Male,36,Indore,2024-03-02,Clothing,1242.0,1,10.0,Cash on Delivery,Delivered,1117.8
+ORD-00174,1114,Deepak Joshi,Female,37,Pune,2024-03-02,Electronics,11441.0,1,15.0,Debit Card,Cancelled,9724.85
+ORD-00175,1160,Simran Jain,Female,42,Indore,2024-03-02,Electronics,8809.0,2,0.0,Cash on Delivery,Delivered,17618.0
+ORD-00176,1029,Rahul Verma,Female,39,Indore,2024-03-02,Electronics,6259.0,4,0.0,UPI,Delivered,25036.0
+ORD-00177,1092,Pooja Singh,Male,29,Indore,2024-03-03,Books,370.5,4,15.0,Cash on Delivery,Shipped,1259.7
+ORD-00178,1050,Sanjay Verma,Male,30,Bhopal,2024-03-04,Sports,2407.0,1,0.0,UPI,Delivered,2407.0
+ORD-00179,1151,Anjali Mishra,Male,42,Delhi,2024-03-04,Electronics,11601.0,1,0.0,UPI,Delivered,11601.0
+ORD-00180,1217,Deepak Verma,Male,38,Mumbai,2024-03-05,Books,348.0,3,5.0,Net Banking,Delivered,991.8
+ORD-00181,1291,Vivaan Mishra,Female,30,Delhi,2024-03-05,Electronics,6733.0,2,20.0,UPI,Delivered,10772.8
+ORD-00182,1117,Aarav Jain,Male,19,Bhopal,2024-03-05,Home & Kitchen,1898.0,1,10.0,UPI,Delivered,1708.2
+ORD-00183,1259,Ritu Sharma,Female,25,Mumbai,2024-03-05,Books,430.0,3,0.0,Debit Card,Delivered,1290.0
+ORD-00184,1065,Amit Singh,Female,41,Bangalore,2024-03-06,Clothing,1329.0,2,25.0,UPI,Delivered,1993.5
+ORD-00185,1235,Rohan Yadav,Male,28,Bangalore,2024-03-06,Electronics,5004.0,3,5.0,UPI,Shipped,14261.4
+ORD-00186,1169,Vikram Patel,Male,43,Bhopal,2024-03-06,Home & Kitchen,2280.0,1,5.0,Debit Card,Pending,2166.0
+ORD-00187,1228,Amit Joshi,Female,47,Bhopal,2024-03-07,Sports,3155.0,2,5.0,Cash on Delivery,Cancelled,5994.5
+ORD-00188,1227,Pooja Sharma,Female,38,Bhopal,2024-03-07,Clothing,601.0,1,0.0,Cash on Delivery,Delivered,601.0
+ORD-00189,1160,Simran Jain,Female,42,Indore,2024-03-07,Electronics,5593.0,3,0.0,UPI,Delivered,16779.0
+ORD-00190,1078,Sneha Singh,Male,40,Bhopal,2024-03-08,Electronics,9782.0,1,10.0,Credit Card,Returned,8803.8
+ORD-00191,1158,Karan Singh,Male,37,Bhopal,2024-03-08,Home & Kitchen,2130.0,3,0.0,Cash on Delivery,Shipped,6390.0
+ORD-00192,1249,Aditya Patel,Female,34,Indore,2024-03-09,Home & Kitchen,1192.0,3,10.0,UPI,Delivered,3218.4
+ORD-00193,1292,Aditya Sharma,Male,28,Mumbai,2024-03-09,Beauty,878.0,3,0.0,UPI,Delivered,2634.0
+ORD-00194,1279,Isha Mishra,Female,34,Pune,2024-03-09,Books,370.5,1,5.0,UPI,Delivered,351.98
+ORD-00195,1055,Pooja Jain,Male,59,Indore,2024-03-09,Beauty,654.0,1,0.0,Credit Card,Delivered,654.0
+ORD-00196,1180,Vivaan Jain,Male,25,Bhopal,2024-03-10,Beauty,904.0,2,10.0,UPI,Delivered,1627.2
+ORD-00197,1032,Anjali Yadav,Male,19,Indore,2024-03-10,Clothing,1198.0,2,15.0,Debit Card,Delivered,2036.6
+ORD-00198,1201,Vikram Jain,Female,38,Indore,2024-03-10,Home & Kitchen,1898.0,4,5.0,Net Banking,Returned,7212.4
+ORD-00199,1298,Priya Mishra,Female,19,Mumbai,2024-03-11,Clothing,744.0,1,0.0,UPI,Delivered,744.0
+ORD-00200,1016,Pooja Malviya,Male,52,Indore,2024-03-12,Clothing,950.0,4,0.0,Debit Card,Delivered,3800.0
+ORD-00201,1197,Anjali Joshi,Male,48,Delhi,2024-03-12,Sports,1520.0,1,15.0,UPI,Delivered,1292.0
+ORD-00202,1284,Karan Malviya,Male,24,Bangalore,2024-03-12,Books,418.0,1,0.0,UPI,Shipped,418.0
+ORD-00203,1255,Neha Malviya,Male,50,Indore,2024-03-13,Sports,4327.5,1,15.0,Cash on Delivery,Shipped,3678.38
+ORD-00204,1118,Pooja Jain,Female,26,Pune,2024-03-13,Clothing,954.0,3,0.0,Credit Card,Delivered,2862.0
+ORD-00205,1032,Anjali Yadav,Male,19,Indore,2024-03-14,Home & Kitchen,1168.0,1,0.0,Net Banking,Delivered,1168.0
+ORD-00206,1278,Vikram Joshi,Female,37,Bhopal,2024-03-14,Home & Kitchen,1565.0,1,15.0,Credit Card,Delivered,1330.25
+ORD-00207,1277,Deepak Patel,Female,34,Bangalore,2024-03-14,Electronics,6471.0,3,5.0,UPI,Pending,18442.35
+ORD-00208,1174,Vikram Yadav,Male,34,Pune,2024-03-14,Clothing,1042.0,2,0.0,Credit Card,Delivered,2084.0
+ORD-00209,1294,Kavya Sharma,Female,37,Bangalore,2024-03-15,Home & Kitchen,2355.0,1,25.0,UPI,Pending,1766.25
+ORD-00210,1002,Kavya Gupta,Male,31,Delhi,2024-03-15,Electronics,5213.0,1,0.0,Cash on Delivery,Delivered,5213.0
+ORD-00211,1185,Aarav Jain,Male,40,Indore,2024-03-15,Sports,3004.0,2,5.0,Debit Card,Delivered,5707.6
+ORD-00213,1281,Rahul Sharma,Male,38,Delhi,2024-03-16,Electronics,7264.0,1,5.0,Credit Card,Delivered,6900.8
+ORD-00214,1205,Simran Sharma,Female,33,Pune,2024-03-16,Books,418.0,2,15.0,Debit Card,Delivered,710.6
+ORD-00215,1275,Rahul Singh,Female,29,Indore,2024-03-17,Electronics,7699.0,1,0.0,Cash on Delivery,Delivered,7699.0
+ORD-00216,1169,Vikram Patel,Male,43,Bhopal,2024-03-18,Sports,1625.0,2,20.0,UPI,Shipped,2600.0
+ORD-00217,1025,Kavya Jain,Female,28,Delhi,2024-03-19,Books,377.0,1,10.0,UPI,Delivered,339.3
+ORD-00218,1008,Isha Jain,Female,41,Indore,2024-03-19,Electronics,5422.0,1,25.0,UPI,Returned,4066.5
+ORD-00219,1101,Anjali Yadav,Male,38,Bhopal,2024-03-19,Books,487.0,1,15.0,UPI,Delivered,413.95
+ORD-00220,1224,Priya Yadav,Female,26,Indore,2024-03-19,Home & Kitchen,2577.0,1,20.0,Credit Card,Delivered,2061.6
+ORD-00221,1046,Sneha Mishra,Female,37,Pune,2024-03-20,Books,469.0,1,0.0,UPI,Cancelled,469.0
+ORD-00222,1256,Vikram Jain,Male,23,Indore,2024-03-20,Beauty,719.0,1,5.0,Credit Card,Pending,683.05
+ORD-00223,1072,Neha Gupta,Male,36,Pune,2024-03-21,Books,386.0,4,5.0,UPI,Delivered,1466.8
+ORD-00224,1149,Deepak Gupta,Male,49,Indore,2024-03-21,Home & Kitchen,2675.0,4,10.0,UPI,Shipped,9630.0
+ORD-00225,1061,Sneha Singh,Female,23,Indore,2024-03-21,Clothing,741.0,1,5.0,Net Banking,Delivered,703.95
+ORD-00226,1140,Vivaan Sharma,Female,19,Bangalore,2024-03-22,Books,234.0,2,15.0,Credit Card,Delivered,397.8
+ORD-00227,1136,Neha Sharma,Male,24,Indore,2024-03-22,Sports,2296.5,2,0.0,UPI,Delivered,4593.0
+ORD-00228,1002,Kavya Gupta,Male,31,Delhi,2024-03-22,Home & Kitchen,1613.0,4,15.0,Credit Card,Delivered,5484.2
+ORD-00229,1171,Sanjay Malviya,Male,39,Bhopal,2024-03-22,Unknown,312.0,1,0.0,UPI,Delivered,312.0
+ORD-00230,1236,Isha Mishra,Male,37,Bhopal,2024-03-22,Clothing,546.0,2,20.0,Cash on Delivery,Delivered,873.6
+ORD-00231,1281,Rahul Sharma,Male,38,Delhi,2024-03-23,Books,398.0,1,0.0,Credit Card,Cancelled,398.0
+ORD-00232,1100,Priya Yadav,Male,58,Delhi,2024-03-23,Sports,1843.0,1,0.0,Credit Card,Cancelled,1843.0
+ORD-00233,1265,Simran Yadav,Female,34,Delhi,2024-03-23,Electronics,6153.0,1,15.0,Net Banking,Pending,5230.05
+ORD-00234,1264,Simran Verma,Female,53,Indore,2024-03-23,Clothing,573.0,4,15.0,Cash on Delivery,Shipped,1948.2
+ORD-00235,1297,Karan Yadav,Female,35,Indore,2024-03-23,Home & Kitchen,1670.0,4,15.0,Cash on Delivery,Delivered,5678.0
+ORD-00236,1112,Isha Malviya,Female,29,Bangalore,2024-03-24,Home & Kitchen,2504.0,1,25.0,UPI,Delivered,1878.0
+ORD-00237,1256,Vikram Jain,Male,23,Indore,2024-03-24,Home & Kitchen,1625.0,2,0.0,UPI,Delivered,3250.0
+ORD-00238,1170,Karan Yadav,Male,52,Mumbai,2024-03-25,Electronics,9689.0,1,15.0,UPI,Delivered,8235.65
+ORD-00239,1018,Ritu Sharma,Female,21,Indore,2024-03-25,Clothing,1153.0,2,5.0,Credit Card,Delivered,2190.7
+ORD-00240,1082,Sneha Gupta,Female,46,Mumbai,2024-03-25,Home & Kitchen,1612.0,2,5.0,Debit Card,Delivered,3062.8
+ORD-00241,1202,Priya Yadav,Female,35,Indore,2024-03-26,Home & Kitchen,2411.0,1,5.0,Cash on Delivery,Delivered,2290.45
+ORD-00242,1049,Karan Singh,Female,29,Mumbai,2024-03-27,Books,428.0,4,0.0,UPI,Delivered,1712.0
+ORD-00243,1131,Manish Verma,Female,40,Indore,2024-03-28,Books,386.0,5,10.0,UPI,Delivered,1737.0
+ORD-00244,1233,Aarav Yadav,Male,36,Delhi,2024-03-28,Unknown,1082.0,3,15.0,Credit Card,Delivered,2759.1
+ORD-00245,1045,Manish Mishra,Female,34,Indore,2024-03-29,Beauty,411.0,3,0.0,UPI,Delivered,1233.0
+ORD-00246,1149,Deepak Gupta,Male,49,Indore,2024-03-29,Home & Kitchen,2685.0,2,20.0,Debit Card,Returned,4296.0
+ORD-00247,1065,Amit Singh,Female,41,Bangalore,2024-03-30,Home & Kitchen,2347.0,1,5.0,Debit Card,Delivered,2229.65
+ORD-00248,1161,Priya Verma,Female,42,Bhopal,2024-03-30,Home & Kitchen,2599.0,1,0.0,UPI,Shipped,2599.0
+ORD-00249,1073,Vikram Mishra,Male,30,Bangalore,2024-03-30,Electronics,8648.0,2,0.0,Debit Card,Pending,17296.0
+ORD-00250,1290,Ritu Verma,Male,21,Indore,2024-03-31,Clothing,557.0,1,0.0,Credit Card,Delivered,557.0
+ORD-00251,1024,Sneha Mishra,Female,39,Bhopal,2024-03-31,Home & Kitchen,2363.0,4,0.0,Debit Card,Delivered,9452.0
+ORD-00252,1290,Ritu Verma,Male,21,Indore,2024-03-31,Beauty,654.0,2,10.0,UPI,Delivered,1177.2
+ORD-00253,1238,Sanjay Jain,Male,28,Delhi,2024-03-31,Books,459.0,2,0.0,Debit Card,Delivered,918.0
+ORD-00254,1257,Deepak Mishra,Male,30,Bangalore,2024-04-01,Electronics,4848.0,1,0.0,Debit Card,Delivered,4848.0
+ORD-00255,1256,Vikram Jain,Male,23,Indore,2024-04-01,Home & Kitchen,1898.0,5,15.0,UPI,Cancelled,8066.5
+ORD-00256,1057,Amit Gupta,Female,19,Bhopal,2024-04-01,Clothing,1149.0,1,0.0,Credit Card,Returned,1149.0
+ORD-00257,1280,Manish Mishra,Male,37,Indore,2024-04-01,Books,460.0,1,0.0,Cash on Delivery,Delivered,460.0
+ORD-00258,1179,Rohan Mishra,Female,45,Delhi,2024-04-03,Beauty,753.0,1,15.0,UPI,Delivered,640.05
+ORD-00259,1289,Simran Joshi,Male,42,Delhi,2024-04-03,Home & Kitchen,1568.0,3,0.0,Debit Card,Delivered,4704.0
+ORD-00260,1264,Simran Verma,Female,53,Indore,2024-04-03,Home & Kitchen,1583.0,5,0.0,Net Banking,Shipped,7915.0
+ORD-00261,1174,Vikram Yadav,Male,34,Pune,2024-04-04,Clothing,1323.0,1,0.0,Cash on Delivery,Delivered,1323.0
+ORD-00262,1113,Isha Patel,Male,30,Delhi,2024-04-04,Clothing,896.0,4,10.0,Credit Card,Delivered,3225.6
+ORD-00263,1036,Manish Verma,Female,20,Bhopal,2024-04-04,Beauty,652.0,1,0.0,Debit Card,Pending,652.0
+ORD-00265,1117,Aarav Jain,Male,19,Bhopal,2024-04-04,Home & Kitchen,1743.0,1,0.0,UPI,Delivered,1743.0
+ORD-00266,1244,Priya Joshi,Female,29,Indore,2024-04-04,Clothing,988.0,2,10.0,UPI,Delivered,1778.4
+ORD-00268,1145,Rahul Gupta,Male,45,Indore,2024-04-05,Electronics,16053.125,2,0.0,Cash on Delivery,Delivered,32106.25
+ORD-00269,1074,Aarav Malviya,Male,52,Delhi,2024-04-05,Electronics,11345.0,1,5.0,Credit Card,Delivered,10777.75
+ORD-00270,1170,Karan Yadav,Male,52,Mumbai,2024-04-05,Clothing,1295.0,4,10.0,UPI,Delivered,4662.0
+ORD-00271,1192,Simran Malviya,Female,21,Indore,2024-04-05,Sports,2437.0,5,0.0,UPI,Cancelled,12185.0
+ORD-00272,1295,Deepak Mishra,Male,24,Delhi,2024-04-06,Home & Kitchen,1796.0,2,0.0,Cash on Delivery,Unknown,3592.0
+ORD-00273,1219,Amit Yadav,Male,33,Delhi,2024-04-06,Clothing,1111.0,2,0.0,Credit Card,Cancelled,2222.0
+ORD-00274,1183,Aditya Joshi,Female,38,Mumbai,2024-04-06,Electronics,10836.0,3,5.0,Cash on Delivery,Delivered,30882.6
+ORD-00275,1274,Sneha Joshi,Female,30,Indore,2024-04-06,Clothing,996.0,1,5.0,Debit Card,Shipped,946.2
+ORD-00276,1128,Kavya Verma,Female,44,Bhopal,2024-04-06,Beauty,799.0,4,20.0,Net Banking,Delivered,2556.8
+ORD-00277,1281,Rahul Sharma,Male,38,Delhi,2024-04-07,Clothing,1147.0,1,20.0,Cash on Delivery,Shipped,917.6
+ORD-00278,1111,Aditya Gupta,Female,49,Bhopal,2024-04-07,Beauty,786.0,3,20.0,UPI,Delivered,1886.4
+ORD-00280,1126,Rohan Gupta,Female,24,Bhopal,2024-04-08,Electronics,6302.0,1,5.0,UPI,Delivered,5986.9
+ORD-00281,1039,Priya Malviya,Male,21,Bangalore,2024-04-08,Home & Kitchen,1887.0,2,15.0,UPI,Delivered,3207.9
+ORD-00282,1036,Manish Verma,Female,20,Bhopal,2024-04-08,Sports,2485.0,2,0.0,UPI,Cancelled,4970.0
+ORD-00283,1265,Simran Yadav,Female,34,Delhi,2024-04-08,Clothing,542.0,4,10.0,Debit Card,Returned,1951.2
+ORD-00284,1239,Deepak Sharma,Male,37,Bangalore,2024-04-09,Electronics,10963.0,5,0.0,Cash on Delivery,Shipped,54815.0
+ORD-00285,1067,Vivaan Joshi,Female,36,Mumbai,2024-04-09,Sports,2528.0,1,0.0,UPI,Delivered,2528.0
+ORD-00286,1252,Vikram Mishra,Male,46,Indore,2024-04-10,Beauty,466.0,1,20.0,Cash on Delivery,Cancelled,372.8
+ORD-00287,1021,Rohan Jain,Female,42,Delhi,2024-04-10,Home & Kitchen,2402.0,6,0.0,UPI,Shipped,14412.0
+ORD-00288,1086,Aditya Sharma,Female,25,Pune,2024-04-10,Home & Kitchen,2242.0,2,25.0,Credit Card,Delivered,3363.0
+ORD-00289,1212,Manish Joshi,Female,23,Delhi,2024-04-11,Clothing,1154.0,2,0.0,Credit Card,Delivered,2308.0
+ORD-00290,1092,Pooja Singh,Male,29,Indore,2024-04-11,Beauty,619.0,4,0.0,UPI,Delivered,2476.0
+ORD-00291,1220,Vivaan Patel,Female,44,Delhi,2024-04-12,Home & Kitchen,2464.0,3,0.0,UPI,Delivered,7392.0
+ORD-00292,1263,Priya Patel,Female,31,Delhi,2024-04-13,Electronics,7781.0,1,0.0,Net Banking,Delivered,7781.0
+ORD-00293,1020,Neha Singh,Female,29,Mumbai,2024-04-13,Books,390.0,2,5.0,UPI,Shipped,741.0
+ORD-00294,1008,Isha Jain,Female,41,Indore,2024-04-13,Sports,1321.0,2,0.0,Credit Card,Delivered,2642.0
+ORD-00295,1283,Ritu Malviya,Male,41,Bhopal,2024-04-13,Beauty,767.0,2,10.0,Cash on Delivery,Delivered,1380.6
+ORD-00296,1157,Aditya Malviya,Female,32,Pune,2024-04-14,Clothing,1122.0,1,20.0,UPI,Delivered,897.6
+ORD-00297,1152,Aarav Mishra,Female,23,Pune,2024-04-14,Electronics,8883.0,1,5.0,UPI,Shipped,8438.85
+ORD-00299,1131,Manish Verma,Female,40,Indore,2024-04-15,Sports,2924.0,1,5.0,UPI,Pending,2777.8
+ORD-00300,1208,Aarav Singh,Female,34,Indore,2024-04-15,Home & Kitchen,2184.0,3,15.0,Credit Card,Delivered,5569.2
+ORD-00301,1174,Vikram Yadav,Male,34,Pune,2024-04-16,Home & Kitchen,1530.0,1,10.0,Credit Card,Delivered,1377.0
+ORD-00302,1050,Sanjay Verma,Male,30,Bhopal,2024-04-16,Home & Kitchen,2634.0,2,0.0,Cash on Delivery,Unknown,5268.0
+ORD-00303,1188,Ritu Sharma,Male,37,Indore,2024-04-16,Clothing,1113.0,2,5.0,UPI,Delivered,2114.7
+ORD-00304,1201,Vikram Jain,Female,38,Indore,2024-04-17,Electronics,11913.0,4,5.0,UPI,Delivered,45269.4
+ORD-00305,1035,Vivaan Gupta,Male,36,Bhopal,2024-04-17,Electronics,11793.0,1,0.0,Cash on Delivery,Delivered,11793.0
+ORD-00306,1114,Deepak Joshi,Female,37,Pune,2024-04-17,Clothing,1284.0,1,0.0,UPI,Shipped,1284.0
+ORD-00307,1238,Sanjay Jain,Male,28,Delhi,2024-04-18,Beauty,832.0,1,25.0,Credit Card,Delivered,624.0
+ORD-00308,1186,Priya Singh,Male,41,Mumbai,2024-04-18,Electronics,16053.125,2,0.0,Debit Card,Pending,32106.25
+ORD-00309,1041,Simran Gupta,Male,36,Bhopal,2024-04-19,Clothing,679.0,1,0.0,Debit Card,Delivered,679.0
+ORD-00310,1013,Manish Singh,Male,50,Bangalore,2024-04-19,Home & Kitchen,1960.0,3,0.0,UPI,Delivered,5880.0
+ORD-00311,1175,Rohan Verma,Male,31,Bangalore,2024-04-20,Clothing,1160.0,1,10.0,UPI,Delivered,1044.0
+ORD-00312,1139,Pooja Jain,Female,22,Delhi,2024-04-20,Electronics,8550.0,1,5.0,Net Banking,Delivered,8122.5
+ORD-00313,1289,Simran Joshi,Male,42,Delhi,2024-04-20,Home & Kitchen,2487.0,2,0.0,Credit Card,Delivered,4974.0
+ORD-00314,1157,Aditya Malviya,Female,32,Pune,2024-04-20,Clothing,629.0,3,5.0,UPI,Delivered,1792.65
+ORD-00315,1280,Manish Mishra,Male,37,Indore,2024-04-20,Home & Kitchen,1697.0,4,10.0,UPI,Delivered,6109.2
+ORD-00316,1065,Amit Singh,Female,41,Bangalore,2024-04-21,Sports,2322.0,3,0.0,UPI,Delivered,6966.0
+ORD-00317,1135,Sanjay Joshi,Male,41,Delhi,2024-04-22,Electronics,7913.0,2,20.0,Net Banking,Delivered,12660.8
+ORD-00318,1042,Rohan Mishra,Female,28,Mumbai,2024-04-22,Sports,1535.0,3,0.0,UPI,Shipped,4605.0
+ORD-00319,1173,Simran Malviya,Male,25,Bangalore,2024-04-22,Sports,1624.0,3,0.0,UPI,Shipped,4872.0
+ORD-00320,1057,Amit Gupta,Female,19,Bhopal,2024-04-22,Beauty,880.0,1,25.0,Credit Card,Delivered,660.0
+ORD-00321,1148,Rahul Joshi,Female,25,Bangalore,2024-04-23,Home & Kitchen,1865.0,2,15.0,UPI,Delivered,3170.5
+ORD-00322,1104,Manish Yadav,Male,42,Bhopal,2024-04-23,Home & Kitchen,1159.0,3,0.0,UPI,Delivered,3477.0
+ORD-00323,1056,Neha Jain,Female,30,Pune,2024-04-23,Home & Kitchen,1107.0,1,15.0,Net Banking,Delivered,940.95
+ORD-00324,1030,Isha Singh,Male,42,Bangalore,2024-04-24,Books,359.0,3,5.0,Debit Card,Delivered,1023.15
+ORD-00325,1154,Priya Joshi,Male,38,Indore,2024-04-25,Electronics,5984.0,2,0.0,UPI,Delivered,11968.0
+ORD-00326,1285,Sanjay Joshi,Female,20,Pune,2024-04-25,Sports,2716.0,2,15.0,Credit Card,Delivered,4617.2
+ORD-00327,1060,Karan Verma,Female,32,Mumbai,2024-04-25,Home & Kitchen,3290.5,1,15.0,UPI,Returned,2796.92
+ORD-00328,1122,Vivaan Singh,Male,25,Mumbai,2024-04-26,Beauty,524.0,3,0.0,UPI,Delivered,1572.0
+ORD-00329,1068,Manish Patel,Female,31,Bhopal,2024-04-27,Clothing,1020.0,4,10.0,Credit Card,Unknown,3672.0
+ORD-00330,1243,Pooja Malviya,Female,23,Bangalore,2024-04-27,Electronics,5912.0,1,5.0,Credit Card,Delivered,5616.4
+ORD-00331,1125,Manish Sharma,Female,32,Bangalore,2024-04-27,Home & Kitchen,1572.0,1,0.0,Debit Card,Delivered,1572.0
+ORD-00332,1293,Sneha Yadav,Male,34,Mumbai,2024-04-28,Home & Kitchen,2520.0,1,25.0,Cash on Delivery,Cancelled,1890.0
+ORD-00333,1074,Aarav Malviya,Male,52,Delhi,2024-04-28,Clothing,981.0,1,5.0,UPI,Delivered,931.95
+ORD-00334,1025,Kavya Jain,Female,28,Delhi,2024-04-28,Clothing,1258.0,5,10.0,Net Banking,Delivered,5661.0
+ORD-00335,1175,Rohan Verma,Male,31,Bangalore,2024-04-28,Clothing,722.0,2,10.0,Credit Card,Returned,1299.6
+ORD-00336,1196,Isha Verma,Female,37,Indore,2024-04-29,Home & Kitchen,1615.0,1,10.0,UPI,Delivered,1453.5
+ORD-00337,1298,Priya Mishra,Female,19,Mumbai,2024-04-29,Clothing,1700.375,1,0.0,Cash on Delivery,Delivered,1700.38
+ORD-00338,1262,Rohan Mishra,Male,52,Bhopal,2024-04-29,Sports,2271.0,5,25.0,UPI,Delivered,8516.25
+ORD-00339,1266,Amit Verma,Female,52,Mumbai,2024-04-29,Electronics,11983.0,1,0.0,Credit Card,Delivered,11983.0
+ORD-00340,1191,Aarav Yadav,Female,28,Indore,2024-04-29,Clothing,633.0,3,10.0,Debit Card,Delivered,1709.1
+ORD-00341,1108,Isha Malviya,Female,30,Delhi,2024-04-29,Clothing,1230.0,1,5.0,UPI,Delivered,1168.5
+ORD-00342,1129,Kavya Verma,Male,24,Bhopal,2024-04-30,Home & Kitchen,2479.0,1,0.0,Cash on Delivery,Cancelled,2479.0
+ORD-00343,1041,Simran Gupta,Male,36,Bhopal,2024-04-30,Home & Kitchen,1976.0,3,0.0,UPI,Delivered,5928.0
+ORD-00344,1130,Rohan Joshi,Female,25,Bhopal,2024-04-30,Home & Kitchen,1637.0,1,5.0,Cash on Delivery,Delivered,1555.15
+ORD-00345,1110,Sneha Yadav,Female,42,Indore,2024-04-30,Sports,2348.0,3,0.0,UPI,Delivered,7044.0
+ORD-00346,1011,Rahul Patel,Male,26,Mumbai,2024-05-01,Clothing,777.0,1,10.0,UPI,Delivered,699.3
+ORD-00347,1062,Kavya Gupta,Male,40,Indore,2024-05-01,Books,462.0,2,20.0,UPI,Cancelled,739.2
+ORD-00348,1161,Priya Verma,Female,42,Bhopal,2024-05-01,Electronics,8388.0,3,0.0,Cash on Delivery,Delivered,25164.0
+ORD-00349,1111,Aditya Gupta,Female,49,Bhopal,2024-05-02,Clothing,1290.0,3,0.0,UPI,Delivered,3870.0
+ORD-00350,1299,Amit Jain,Female,19,Bhopal,2024-05-02,Home & Kitchen,2089.0,1,10.0,Cash on Delivery,Pending,1880.1
+ORD-00351,1144,Rohan Joshi,Male,33,Indore,2024-05-02,Electronics,8503.0,3,0.0,UPI,Cancelled,25509.0
+ORD-00352,1288,Aarav Patel,Male,27,Indore,2024-05-02,Home & Kitchen,2232.0,5,20.0,Credit Card,Cancelled,8928.0
+ORD-00353,1199,Aarav Verma,Male,36,Bhopal,2024-05-02,Books,369.0,1,5.0,UPI,Delivered,350.55
+ORD-00354,1013,Manish Singh,Male,50,Bangalore,2024-05-02,Books,495.0,1,0.0,UPI,Delivered,495.0
+ORD-00355,1062,Kavya Gupta,Male,40,Indore,2024-05-02,Home & Kitchen,1379.0,4,0.0,Net Banking,Delivered,5516.0
+ORD-00356,1212,Manish Joshi,Female,23,Delhi,2024-05-03,Home & Kitchen,2657.0,1,20.0,Credit Card,Delivered,2125.6
+ORD-00357,1164,Karan Sharma,Male,44,Bhopal,2024-05-03,Clothing,1198.0,3,0.0,Debit Card,Cancelled,3594.0
+ORD-00358,1091,Simran Verma,Female,39,Indore,2024-05-03,Electronics,10997.0,3,10.0,Credit Card,Delivered,29691.9
+ORD-00359,1157,Aditya Malviya,Female,32,Pune,2024-05-04,Electronics,8277.0,1,0.0,Credit Card,Delivered,8277.0
+ORD-00360,1271,Isha Sharma,Male,43,Indore,2024-05-04,Books,474.0,2,0.0,Debit Card,Cancelled,948.0
+ORD-00361,1117,Aarav Jain,Male,19,Bhopal,2024-05-04,Sports,1927.0,2,20.0,Cash on Delivery,Returned,3083.2
+ORD-00362,1014,Sneha Mishra,Male,22,Mumbai,2024-05-04,Electronics,10286.0,1,0.0,Debit Card,Delivered,10286.0
+ORD-00363,1094,Rohan Patel,Female,42,Indore,2024-05-04,Home & Kitchen,1308.0,4,0.0,Credit Card,Cancelled,5232.0
+ORD-00364,1281,Rahul Sharma,Male,38,Delhi,2024-05-05,Books,370.5,1,5.0,Debit Card,Delivered,351.98
+ORD-00365,1229,Aditya Singh,Female,45,Bhopal,2024-05-05,Beauty,651.0,1,20.0,Debit Card,Delivered,520.8
+ORD-00366,1252,Vikram Mishra,Male,46,Indore,2024-05-05,Home & Kitchen,1602.0,4,0.0,Credit Card,Delivered,6408.0
+ORD-00367,1274,Sneha Joshi,Female,30,Indore,2024-05-06,Home & Kitchen,1707.0,1,0.0,Debit Card,Returned,1707.0
+ORD-00368,1036,Manish Verma,Female,20,Bhopal,2024-05-06,Books,468.0,4,25.0,Credit Card,Cancelled,1404.0
+ORD-00369,1085,Priya Sharma,Male,34,Indore,2024-05-07,Beauty,540.0,1,10.0,Cash on Delivery,Delivered,486.0
+ORD-00370,1018,Ritu Sharma,Female,21,Indore,2024-05-07,Electronics,10166.0,2,20.0,Net Banking,Delivered,16265.6
+ORD-00371,1002,Kavya Gupta,Male,31,Delhi,2024-05-07,Sports,1466.0,1,15.0,UPI,Delivered,1246.1
+ORD-00372,1251,Aditya Singh,Male,33,Delhi,2024-05-07,Electronics,10313.0,3,10.0,Cash on Delivery,Delivered,27845.1
+ORD-00373,1282,Pooja Verma,Female,19,Bhopal,2024-05-07,Beauty,853.0,3,5.0,Debit Card,Pending,2431.05
+ORD-00374,1047,Deepak Patel,Female,28,Bangalore,2024-05-08,Electronics,7692.0,4,0.0,Debit Card,Delivered,30768.0
+ORD-00375,1217,Deepak Verma,Male,38,Mumbai,2024-05-08,Electronics,10002.0,5,15.0,UPI,Shipped,42508.5
+ORD-00376,1161,Priya Verma,Female,42,Bhopal,2024-05-08,Electronics,11389.0,3,15.0,Credit Card,Delivered,29041.95
+ORD-00377,1021,Rohan Jain,Female,42,Delhi,2024-05-08,Clothing,1189.0,3,25.0,UPI,Delivered,2675.25
+ORD-00378,1275,Rahul Singh,Female,29,Indore,2024-05-08,Clothing,856.0,2,10.0,UPI,Delivered,1540.8
+ORD-00379,1262,Rohan Mishra,Male,52,Bhopal,2024-05-08,Electronics,8286.0,4,0.0,Net Banking,Returned,33144.0
+ORD-00380,1171,Sanjay Malviya,Male,39,Bhopal,2024-05-09,Home & Kitchen,2343.0,2,5.0,Cash on Delivery,Delivered,4451.7
+ORD-00381,1213,Sneha Verma,Male,32,Indore,2024-05-11,Clothing,777.0,2,10.0,Credit Card,Delivered,1398.6
+ORD-00382,1120,Priya Singh,Female,19,Delhi,2024-05-11,Books,463.0,1,5.0,UPI,Delivered,439.85
+ORD-00383,1238,Sanjay Jain,Male,28,Delhi,2024-05-11,Beauty,582.0,2,15.0,Debit Card,Cancelled,989.4
+ORD-00384,1134,Sneha Patel,Female,34,Delhi,2024-05-11,Books,464.0,3,10.0,Credit Card,Pending,1252.8
+ORD-00385,1297,Karan Yadav,Female,35,Indore,2024-05-11,Electronics,5425.0,1,0.0,Cash on Delivery,Pending,5425.0
+ORD-00386,1019,Ritu Mishra,Male,30,Bangalore,2024-05-13,Clothing,576.0,1,0.0,Net Banking,Delivered,576.0
+ORD-00387,1052,Deepak Sharma,Male,24,Mumbai,2024-05-13,Sports,3295.0,5,10.0,UPI,Cancelled,14827.5
+ORD-00388,1291,Vivaan Mishra,Female,30,Delhi,2024-05-14,Electronics,11060.0,2,20.0,UPI,Delivered,17696.0
+ORD-00389,1087,Manish Jain,Female,31,Bhopal,2024-05-15,Clothing,1255.0,1,5.0,UPI,Shipped,1192.25
+ORD-00390,1094,Rohan Patel,Female,42,Indore,2024-05-16,Sports,3204.0,1,10.0,UPI,Delivered,2883.6
+ORD-00391,1238,Sanjay Jain,Male,28,Delhi,2024-05-16,Sports,2188.0,2,5.0,UPI,Delivered,4157.2
+ORD-00392,1057,Amit Gupta,Female,19,Bhopal,2024-05-16,Clothing,940.0,2,5.0,UPI,Returned,1786.0
+ORD-00393,1155,Priya Verma,Male,35,Mumbai,2024-05-17,Books,370.5,5,0.0,UPI,Returned,1852.5
+ORD-00394,1086,Aditya Sharma,Female,25,Pune,2024-05-17,Home & Kitchen,1892.0,5,20.0,UPI,Delivered,7568.0
+ORD-00395,1060,Karan Verma,Female,32,Mumbai,2024-05-18,Books,279.0,3,20.0,UPI,Delivered,669.6
+ORD-00396,1290,Ritu Verma,Male,21,Indore,2024-05-18,Electronics,11536.0,3,5.0,Debit Card,Cancelled,32877.6
+ORD-00397,1060,Karan Verma,Female,32,Mumbai,2024-05-18,Unknown,3488.5,1,10.0,UPI,Returned,3139.65
+ORD-00398,1029,Rahul Verma,Female,39,Indore,2024-05-18,Home & Kitchen,1312.0,4,0.0,Cash on Delivery,Shipped,5248.0
+ORD-00399,1203,Pooja Joshi,Female,21,Bhopal,2024-05-18,Clothing,740.0,1,10.0,UPI,Delivered,666.0
+ORD-00400,1261,Anjali Verma,Male,48,Indore,2024-05-19,Books,273.0,1,5.0,UPI,Delivered,259.35
+ORD-00401,1039,Priya Malviya,Male,21,Bangalore,2024-05-19,Clothing,723.0,5,15.0,UPI,Cancelled,3072.75
+ORD-00402,1213,Sneha Verma,Male,32,Indore,2024-05-19,Beauty,774.0,4,0.0,Debit Card,Shipped,3096.0
+ORD-00403,1163,Vikram Malviya,Female,19,Mumbai,2024-05-20,Beauty,582.0,1,15.0,UPI,Shipped,494.7
+ORD-00404,1250,Simran Gupta,Male,34,Bhopal,2024-05-22,Home & Kitchen,2076.0,3,0.0,Credit Card,Delivered,6228.0
+ORD-00405,1039,Priya Malviya,Male,21,Bangalore,2024-05-23,Beauty,911.0,2,10.0,UPI,Delivered,1639.8
+ORD-00406,1293,Sneha Yadav,Male,34,Mumbai,2024-05-23,Clothing,1028.0,1,10.0,Net Banking,Unknown,925.2
+ORD-00407,1186,Priya Singh,Male,41,Mumbai,2024-05-23,Home & Kitchen,2205.0,1,0.0,UPI,Pending,2205.0
+ORD-00408,1253,Neha Gupta,Male,19,Delhi,2024-05-24,Electronics,7432.0,1,5.0,Credit Card,Delivered,7060.4
+ORD-00409,1109,Vivaan Sharma,Male,29,Bangalore,2024-05-24,Beauty,483.0,2,15.0,Cash on Delivery,Delivered,821.1
+ORD-00410,1284,Karan Malviya,Male,24,Bangalore,2024-05-25,Unknown,578.0,2,10.0,UPI,Shipped,1040.4
+ORD-00411,1188,Ritu Sharma,Male,37,Indore,2024-05-26,Sports,3229.0,2,0.0,UPI,Pending,6458.0
+ORD-00412,1039,Priya Malviya,Male,21,Bangalore,2024-05-26,Beauty,754.0,1,5.0,Cash on Delivery,Delivered,716.3
+ORD-00413,1277,Deepak Patel,Female,34,Bangalore,2024-05-26,Sports,4327.5,5,0.0,UPI,Shipped,21637.5
+ORD-00414,1239,Deepak Sharma,Male,37,Bangalore,2024-05-27,Clothing,905.0,2,10.0,UPI,Delivered,1629.0
+ORD-00415,1091,Simran Verma,Female,39,Indore,2024-05-28,Sports,2974.0,4,10.0,Credit Card,Delivered,10706.4
+ORD-00416,1164,Karan Sharma,Male,44,Bhopal,2024-05-29,Home & Kitchen,2163.0,1,0.0,UPI,Delivered,2163.0
+ORD-00417,1117,Aarav Jain,Male,19,Bhopal,2024-05-29,Clothing,994.0,2,10.0,Net Banking,Delivered,1789.2
+ORD-00418,1164,Karan Sharma,Male,44,Bhopal,2024-05-29,Home & Kitchen,2514.0,4,15.0,Debit Card,Cancelled,8547.6
+ORD-00419,1290,Ritu Verma,Male,21,Indore,2024-05-29,Clothing,1085.0,1,15.0,Credit Card,Cancelled,922.25
+ORD-00420,1270,Rahul Sharma,Female,66,Indore,2024-05-29,Clothing,1061.0,1,0.0,UPI,Delivered,1061.0
+ORD-00421,1065,Amit Singh,Female,41,Bangalore,2024-05-30,Unknown,694.0,1,0.0,Debit Card,Pending,694.0
+ORD-00422,1292,Aditya Sharma,Male,28,Mumbai,2024-05-30,Electronics,5566.0,1,5.0,Debit Card,Delivered,5287.7
+ORD-00423,1132,Neha Yadav,Female,32,Indore,2024-05-30,Home & Kitchen,2644.0,2,0.0,UPI,Shipped,5288.0
+ORD-00424,1212,Manish Joshi,Female,23,Delhi,2024-05-30,Beauty,740.0,1,5.0,Cash on Delivery,Cancelled,703.0
+ORD-00425,1230,Deepak Verma,Male,33,Indore,2024-05-30,Home & Kitchen,1753.0,1,0.0,Credit Card,Delivered,1753.0
+ORD-00426,1145,Rahul Gupta,Male,45,Indore,2024-05-31,Home & Kitchen,2034.0,2,0.0,Cash on Delivery,Delivered,4068.0
+ORD-00427,1137,Rohan Yadav,Male,34,Bhopal,2024-05-31,Clothing,590.0,6,10.0,UPI,Unknown,3186.0
+ORD-00428,1137,Rohan Yadav,Male,34,Bhopal,2024-05-31,Home & Kitchen,2412.0,1,0.0,UPI,Delivered,2412.0
+ORD-00429,1259,Ritu Sharma,Female,25,Mumbai,2024-05-31,Clothing,715.0,3,15.0,Debit Card,Cancelled,1823.25
+ORD-00430,1116,Pooja Mishra,Male,44,Delhi,2024-05-31,Beauty,654.0,1,0.0,Cash on Delivery,Delivered,654.0
+ORD-00431,1084,Priya Verma,Male,19,Delhi,2024-05-31,Electronics,8648.0,1,10.0,UPI,Delivered,7783.2
+ORD-00432,1109,Vivaan Sharma,Male,29,Bangalore,2024-05-31,Books,297.0,1,5.0,UPI,Delivered,282.15
+ORD-00433,1059,Aarav Verma,Male,31,Indore,2024-06-01,Books,220.0,1,15.0,Cash on Delivery,Cancelled,187.0
+ORD-00434,1118,Pooja Jain,Female,26,Pune,2024-06-01,Home & Kitchen,2402.0,2,15.0,UPI,Delivered,4083.4
+ORD-00435,1035,Vivaan Gupta,Male,36,Bhopal,2024-06-01,Beauty,493.0,1,5.0,UPI,Shipped,468.35
+ORD-00436,1027,Anjali Gupta,Female,28,Indore,2024-06-02,Clothing,582.0,1,10.0,Debit Card,Delivered,523.8
+ORD-00437,1218,Sneha Verma,Female,19,Mumbai,2024-06-02,Beauty,832.0,5,0.0,UPI,Delivered,4160.0
+ORD-00438,1024,Sneha Mishra,Female,39,Bhopal,2024-06-03,Books,320.0,4,10.0,UPI,Delivered,1152.0
+ORD-00439,1171,Sanjay Malviya,Male,39,Bhopal,2024-06-03,Beauty,618.0,1,0.0,UPI,Delivered,618.0
+ORD-00440,1234,Rohan Joshi,Female,32,Bangalore,2024-06-03,Books,288.0,2,5.0,Net Banking,Delivered,547.2
+ORD-00441,1218,Sneha Verma,Female,19,Mumbai,2024-06-04,Beauty,893.0,2,0.0,UPI,Shipped,1786.0
+ORD-00442,1134,Sneha Patel,Female,34,Delhi,2024-06-04,Sports,1909.0,4,20.0,Debit Card,Pending,6108.8
+ORD-00443,1059,Aarav Verma,Male,31,Indore,2024-06-04,Clothing,710.0,4,5.0,Net Banking,Delivered,2698.0
+ORD-00444,1280,Manish Mishra,Male,37,Indore,2024-06-04,Beauty,571.0,1,10.0,Debit Card,Delivered,513.9
+ORD-00445,1251,Aditya Singh,Male,33,Delhi,2024-06-05,Books,274.0,1,5.0,Credit Card,Delivered,260.3
+ORD-00446,1184,Pooja Patel,Male,46,Indore,2024-06-05,Home & Kitchen,1595.0,2,0.0,Credit Card,Delivered,3190.0
+ORD-00447,1027,Anjali Gupta,Female,28,Indore,2024-06-06,Sports,1484.0,4,0.0,UPI,Shipped,5936.0
+ORD-00448,1011,Rahul Patel,Male,26,Mumbai,2024-06-07,Clothing,668.0,4,20.0,Credit Card,Shipped,2137.6
+ORD-00449,1095,Karan Patel,Male,37,Indore,2024-06-07,Home & Kitchen,1756.0,1,0.0,Net Banking,Shipped,1756.0
+ORD-00450,1048,Ritu Malviya,Male,39,Delhi,2024-06-08,Electronics,11132.0,2,0.0,Cash on Delivery,Delivered,22264.0
+ORD-00451,1259,Ritu Sharma,Female,25,Mumbai,2024-06-09,Clothing,586.0,1,15.0,Credit Card,Delivered,498.1
+ORD-00452,1062,Kavya Gupta,Male,40,Indore,2024-06-09,Beauty,654.0,2,5.0,UPI,Delivered,1242.6
+ORD-00453,1085,Priya Sharma,Male,34,Indore,2024-06-09,Clothing,1276.0,4,0.0,Cash on Delivery,Returned,5104.0
+ORD-00454,1293,Sneha Yadav,Male,34,Mumbai,2024-06-09,Clothing,1261.0,2,0.0,UPI,Delivered,2522.0
+ORD-00455,1246,Simran Mishra,Male,22,Mumbai,2024-06-09,Clothing,1090.0,1,0.0,Cash on Delivery,Cancelled,1090.0
+ORD-00456,1066,Amit Joshi,Male,55,Bhopal,2024-06-10,Home & Kitchen,1470.0,2,0.0,UPI,Delivered,2940.0
+ORD-00457,1116,Pooja Mishra,Male,44,Delhi,2024-06-10,Beauty,636.0,2,10.0,Debit Card,Delivered,1144.8
+ORD-00458,1155,Priya Verma,Male,35,Mumbai,2024-06-10,Beauty,514.0,4,0.0,Cash on Delivery,Shipped,2056.0
+ORD-00459,1200,Neha Patel,Male,23,Pune,2024-06-11,Electronics,8648.0,1,20.0,Credit Card,Delivered,6918.4
+ORD-00460,1281,Rahul Sharma,Male,38,Delhi,2024-06-11,Home & Kitchen,1696.0,4,10.0,UPI,Delivered,6105.6
+ORD-00461,1262,Rohan Mishra,Male,52,Bhopal,2024-06-11,Home & Kitchen,1898.0,1,15.0,Cash on Delivery,Delivered,1613.3
+ORD-00462,1294,Kavya Sharma,Female,37,Bangalore,2024-06-11,Home & Kitchen,1663.0,1,0.0,UPI,Returned,1663.0
+ORD-00463,1013,Manish Singh,Male,50,Bangalore,2024-06-11,Clothing,1035.0,1,20.0,UPI,Delivered,828.0
+ORD-00464,1071,Vikram Malviya,Female,19,Indore,2024-06-11,Unknown,780.0,1,5.0,Credit Card,Cancelled,741.0
+ORD-00465,1169,Vikram Patel,Male,43,Bhopal,2024-06-12,Home & Kitchen,1640.0,1,5.0,Credit Card,Delivered,1558.0
+ORD-00466,1015,Rahul Gupta,Male,36,Mumbai,2024-06-12,Home & Kitchen,2361.0,3,5.0,Debit Card,Delivered,6728.85
+ORD-00467,1107,Manish Gupta,Male,29,Indore,2024-06-12,Home & Kitchen,2503.0,1,20.0,UPI,Delivered,2002.4
+ORD-00468,1047,Deepak Patel,Female,28,Bangalore,2024-06-12,Home & Kitchen,1602.0,1,0.0,Credit Card,Delivered,1602.0
+ORD-00469,1280,Manish Mishra,Male,37,Indore,2024-06-12,Beauty,724.0,1,0.0,Cash on Delivery,Returned,724.0
+ORD-00470,1019,Ritu Mishra,Male,30,Bangalore,2024-06-12,Books,298.0,2,15.0,UPI,Cancelled,506.6
+ORD-00471,1045,Manish Mishra,Female,34,Indore,2024-06-13,Clothing,583.0,4,5.0,Credit Card,Returned,2215.4
+ORD-00472,1059,Aarav Verma,Male,31,Indore,2024-06-13,Beauty,822.0,5,0.0,Debit Card,Returned,4110.0
+ORD-00473,1045,Manish Mishra,Female,34,Indore,2024-06-13,Beauty,490.0,1,5.0,Cash on Delivery,Delivered,465.5
+ORD-00474,1171,Sanjay Malviya,Male,39,Bhopal,2024-06-13,Electronics,7865.0,3,0.0,Credit Card,Delivered,23595.0
+ORD-00475,1110,Sneha Yadav,Female,42,Indore,2024-06-14,Home & Kitchen,1869.0,3,10.0,Cash on Delivery,Pending,5046.3
+ORD-00476,1274,Sneha Joshi,Female,30,Indore,2024-06-14,Clothing,689.0,5,5.0,UPI,Delivered,3272.75
+ORD-00477,1079,Aditya Joshi,Male,37,Indore,2024-06-14,Books,240.0,1,0.0,UPI,Pending,240.0
+ORD-00479,1199,Aarav Verma,Male,36,Bhopal,2024-06-14,Books,510.0,2,0.0,Cash on Delivery,Delivered,1020.0
+ORD-00480,1188,Ritu Sharma,Male,37,Indore,2024-06-15,Clothing,1038.0,4,15.0,Credit Card,Delivered,3529.2
+ORD-00481,1239,Deepak Sharma,Male,37,Bangalore,2024-06-15,Home & Kitchen,1698.0,3,20.0,Credit Card,Delivered,4075.2
+ORD-00482,1061,Sneha Singh,Female,23,Indore,2024-06-15,Sports,1397.0,2,5.0,Credit Card,Delivered,2654.3
+ORD-00483,1153,Rahul Verma,Female,23,Mumbai,2024-06-16,Clothing,1026.0,1,0.0,UPI,Delivered,1026.0
+ORD-00484,1241,Neha Mishra,Female,36,Bangalore,2024-06-17,Beauty,444.0,3,5.0,Cash on Delivery,Delivered,1265.4
+ORD-00485,1259,Ritu Sharma,Female,25,Mumbai,2024-06-17,Sports,2394.0,4,20.0,Cash on Delivery,Delivered,7660.8
+ORD-00486,1186,Priya Singh,Male,41,Mumbai,2024-06-18,Beauty,830.0,1,15.0,Credit Card,Delivered,705.5
+ORD-00487,1196,Isha Verma,Female,37,Indore,2024-06-18,Electronics,7850.0,3,0.0,UPI,Delivered,23550.0
+ORD-00488,1260,Pooja Joshi,Male,31,Bangalore,2024-06-19,Beauty,565.0,2,0.0,UPI,Delivered,1130.0
+ORD-00489,1188,Ritu Sharma,Male,37,Indore,2024-06-19,Electronics,5141.0,2,20.0,UPI,Pending,8225.6
+ORD-00490,1285,Sanjay Joshi,Female,20,Pune,2024-06-19,Clothing,560.0,2,20.0,Debit Card,Delivered,896.0
+ORD-00491,1039,Priya Malviya,Male,21,Bangalore,2024-06-19,Beauty,642.0,3,0.0,Credit Card,Delivered,1926.0
+ORD-00492,1105,Neha Jain,Female,40,Pune,2024-06-20,Books,488.0,5,15.0,UPI,Delivered,2074.0
+ORD-00493,1034,Simran Patel,Female,24,Indore,2024-06-21,Unknown,1475.0,2,0.0,Debit Card,Delivered,2950.0
+ORD-00494,1028,Pooja Sharma,Female,28,Pune,2024-06-21,Clothing,1005.0,1,0.0,Net Banking,Delivered,1005.0
+ORD-00495,1142,Kavya Gupta,Male,30,Delhi,2024-06-22,Beauty,790.0,1,15.0,UPI,Delivered,671.5
+ORD-00496,1068,Manish Patel,Female,31,Bhopal,2024-06-22,Books,370.5,1,5.0,Credit Card,Delivered,351.98
+ORD-00497,1123,Sanjay Sharma,Male,32,Delhi,2024-06-22,Home & Kitchen,1328.0,1,5.0,Credit Card,Delivered,1261.6
+ORD-00498,1132,Neha Yadav,Female,32,Indore,2024-06-22,Beauty,654.0,2,20.0,UPI,Delivered,1046.4
+ORD-00499,1187,Sneha Patel,Male,40,Bhopal,2024-06-22,Clothing,1083.0,2,15.0,Credit Card,Delivered,1841.1
+ORD-00500,1284,Karan Malviya,Male,24,Bangalore,2024-06-23,Electronics,7961.0,1,0.0,Debit Card,Delivered,7961.0
+ORD-00501,1255,Neha Malviya,Male,50,Indore,2024-06-23,Home & Kitchen,2269.0,1,10.0,UPI,Delivered,2042.1
+ORD-00502,1114,Deepak Joshi,Female,37,Pune,2024-06-23,Sports,3038.0,3,15.0,UPI,Delivered,7746.9
+ORD-00503,1098,Vikram Sharma,Male,42,Pune,2024-06-24,Clothing,1154.0,1,10.0,Cash on Delivery,Shipped,1038.6
+ORD-00504,1232,Isha Gupta,Female,31,Bhopal,2024-06-24,Clothing,1344.0,2,25.0,UPI,Delivered,2016.0
+ORD-00505,1038,Kavya Gupta,Female,26,Delhi,2024-06-24,Electronics,10231.0,4,10.0,Debit Card,Delivered,36831.6
+ORD-00506,1163,Vikram Malviya,Female,19,Mumbai,2024-06-24,Beauty,889.0,2,0.0,UPI,Delivered,1778.0
+ORD-00507,1127,Rohan Patel,Male,33,Mumbai,2024-06-24,Clothing,1214.0,1,0.0,Cash on Delivery,Delivered,1214.0
+ORD-00508,1055,Pooja Jain,Male,59,Indore,2024-06-25,Home & Kitchen,2263.0,1,15.0,Debit Card,Delivered,1923.55
+ORD-00509,1185,Aarav Jain,Male,40,Indore,2024-06-27,Sports,2908.0,2,25.0,Cash on Delivery,Pending,4362.0
+ORD-00510,1097,Sanjay Patel,Female,21,Bhopal,2024-06-27,Electronics,11530.0,2,0.0,Debit Card,Shipped,23060.0
+ORD-00511,1056,Neha Jain,Female,30,Pune,2024-06-28,Home & Kitchen,1850.0,1,0.0,Credit Card,Delivered,1850.0
+ORD-00512,1196,Isha Verma,Female,37,Indore,2024-06-28,Home & Kitchen,2114.0,2,15.0,UPI,Delivered,3593.8
+ORD-00513,1053,Manish Jain,Female,19,Bhopal,2024-06-28,Beauty,691.0,2,0.0,UPI,Pending,1382.0
+ORD-00514,1202,Priya Yadav,Female,35,Indore,2024-06-28,Clothing,1229.0,1,0.0,Credit Card,Delivered,1229.0
+ORD-00515,1049,Karan Singh,Female,29,Mumbai,2024-06-29,Clothing,940.0,2,20.0,UPI,Delivered,1504.0
+ORD-00516,1131,Manish Verma,Female,40,Indore,2024-06-29,Electronics,10702.0,1,15.0,Credit Card,Pending,9096.7
+ORD-00517,1243,Pooja Malviya,Female,23,Bangalore,2024-06-29,Books,462.0,2,20.0,UPI,Delivered,739.2
+ORD-00518,1069,Sanjay Sharma,Male,33,Bhopal,2024-06-29,Beauty,953.0,4,10.0,UPI,Delivered,3430.8
+ORD-00519,1231,Isha Verma,Female,22,Delhi,2024-06-30,Electronics,6592.0,2,0.0,UPI,Delivered,13184.0
+ORD-00520,1217,Deepak Verma,Male,38,Mumbai,2024-07-01,Clothing,1115.0,2,20.0,Cash on Delivery,Delivered,1784.0
+ORD-00521,1271,Isha Sharma,Male,43,Indore,2024-07-01,Beauty,833.0,2,0.0,Credit Card,Delivered,1666.0
+ORD-00522,1051,Deepak Verma,Female,48,Mumbai,2024-07-02,Electronics,11541.0,1,0.0,Cash on Delivery,Delivered,11541.0
+ORD-00523,1215,Aarav Jain,Male,21,Indore,2024-07-02,Clothing,1275.0,4,20.0,Credit Card,Delivered,4080.0
+ORD-00524,1282,Pooja Verma,Female,19,Bhopal,2024-07-02,Home & Kitchen,2009.0,1,10.0,Cash on Delivery,Delivered,1808.1
+ORD-00525,1229,Aditya Singh,Female,45,Bhopal,2024-07-02,Clothing,1009.0,1,20.0,Cash on Delivery,Delivered,807.2
+ORD-00526,1057,Amit Gupta,Female,19,Bhopal,2024-07-02,Clothing,676.0,4,0.0,UPI,Pending,2704.0
+ORD-00527,1247,Manish Singh,Male,19,Indore,2024-07-02,Home & Kitchen,2659.0,3,25.0,Net Banking,Delivered,5982.75
+ORD-00528,1033,Sneha Patel,Female,39,Bangalore,2024-07-03,Electronics,6636.0,3,10.0,UPI,Shipped,17917.2
+ORD-00529,1177,Neha Gupta,Male,54,Delhi,2024-07-03,Home & Kitchen,2254.0,1,10.0,Credit Card,Delivered,2028.6
+ORD-00530,1150,Neha Sharma,Female,37,Mumbai,2024-07-03,Books,461.0,1,20.0,Cash on Delivery,Delivered,368.8
+ORD-00531,1160,Simran Jain,Female,42,Indore,2024-07-03,Home & Kitchen,1795.0,2,5.0,UPI,Delivered,3410.5
+ORD-00532,1156,Kavya Singh,Male,39,Bhopal,2024-07-04,Electronics,6321.0,1,15.0,Credit Card,Delivered,5372.85
+ORD-00533,1010,Deepak Gupta,Male,22,Bhopal,2024-07-04,Beauty,501.0,1,0.0,UPI,Delivered,501.0
+ORD-00534,1153,Rahul Verma,Female,23,Mumbai,2024-07-04,Electronics,10967.0,3,0.0,UPI,Pending,32901.0
+ORD-00535,1282,Pooja Verma,Female,19,Bhopal,2024-07-05,Books,371.0,1,20.0,UPI,Cancelled,296.8
+ORD-00536,1132,Neha Yadav,Female,32,Indore,2024-07-05,Clothing,613.0,1,10.0,UPI,Shipped,551.7
+ORD-00537,1084,Priya Verma,Male,19,Delhi,2024-07-05,Beauty,809.0,1,0.0,UPI,Delivered,809.0
+ORD-00538,1299,Amit Jain,Female,19,Bhopal,2024-07-06,Clothing,743.0,2,0.0,UPI,Delivered,1486.0
+ORD-00539,1030,Isha Singh,Male,42,Bangalore,2024-07-06,Electronics,11110.0,2,25.0,Credit Card,Delivered,16665.0
+ORD-00540,1146,Deepak Malviya,Female,19,Indore,2024-07-06,Home & Kitchen,1582.0,4,25.0,Credit Card,Delivered,4746.0
+ORD-00541,1154,Priya Joshi,Male,38,Indore,2024-07-07,Electronics,8648.0,1,25.0,Debit Card,Pending,6486.0
+ORD-00542,1144,Rohan Joshi,Male,33,Indore,2024-07-07,Clothing,609.0,1,0.0,UPI,Pending,609.0
+ORD-00543,1277,Deepak Patel,Female,34,Bangalore,2024-07-07,Books,371.0,2,5.0,UPI,Delivered,704.9
+ORD-00544,1127,Rohan Patel,Male,33,Mumbai,2024-07-08,Beauty,654.0,1,15.0,Cash on Delivery,Cancelled,555.9
+ORD-00545,1292,Aditya Sharma,Male,28,Mumbai,2024-07-08,Electronics,10209.0,2,15.0,Net Banking,Pending,17355.3
+ORD-00546,1021,Rohan Jain,Female,42,Delhi,2024-07-08,Beauty,662.0,5,0.0,Credit Card,Delivered,3310.0
+ORD-00547,1221,Vikram Patel,Female,45,Pune,2024-07-08,Beauty,591.0,2,10.0,UPI,Cancelled,1063.8
+ORD-00548,1178,Vikram Yadav,Female,52,Delhi,2024-07-08,Beauty,543.0,2,0.0,Cash on Delivery,Delivered,1086.0
+ORD-00549,1073,Vikram Mishra,Male,30,Bangalore,2024-07-09,Books,298.0,5,5.0,Cash on Delivery,Delivered,1415.5
+ORD-00550,1069,Sanjay Sharma,Male,33,Bhopal,2024-07-09,Books,502.0,1,0.0,Credit Card,Delivered,502.0
+ORD-00551,1216,Vivaan Jain,Male,39,Bhopal,2024-07-09,Home & Kitchen,1347.0,5,0.0,UPI,Delivered,6735.0
+ORD-00552,1192,Simran Malviya,Female,21,Indore,2024-07-09,Books,521.0,2,0.0,UPI,Delivered,1042.0
+ORD-00553,1184,Pooja Patel,Male,46,Indore,2024-07-10,Sports,1967.0,2,20.0,Credit Card,Cancelled,3147.2
+ORD-00554,1016,Pooja Malviya,Male,52,Indore,2024-07-10,Electronics,5436.0,5,15.0,Net Banking,Delivered,23103.0
+ORD-00555,1180,Vivaan Jain,Male,25,Bhopal,2024-07-11,Clothing,741.0,2,20.0,Debit Card,Delivered,1185.6
+ORD-00556,1295,Deepak Mishra,Male,24,Delhi,2024-07-11,Electronics,5221.0,2,5.0,UPI,Delivered,9919.9
+ORD-00557,1006,Rahul Yadav,Male,31,Pune,2024-07-11,Sports,2884.0,1,5.0,Debit Card,Delivered,2739.8
+ORD-00558,1141,Neha Gupta,Female,41,Indore,2024-07-11,Clothing,955.0,3,0.0,Cash on Delivery,Shipped,2865.0
+ORD-00559,1149,Deepak Gupta,Male,49,Indore,2024-07-11,Books,316.0,2,10.0,Credit Card,Delivered,568.8
+ORD-00560,1270,Rahul Sharma,Female,66,Indore,2024-07-11,Beauty,777.0,1,5.0,Cash on Delivery,Returned,738.15
+ORD-00561,1085,Priya Sharma,Male,34,Indore,2024-07-11,Sports,2569.0,3,15.0,UPI,Delivered,6550.95
+ORD-00562,1143,Sneha Yadav,Female,24,Indore,2024-07-12,Electronics,11567.0,2,15.0,UPI,Delivered,19663.9
+ORD-00563,1216,Vivaan Jain,Male,39,Bhopal,2024-07-12,Beauty,952.0,1,20.0,Credit Card,Delivered,761.6
+ORD-00564,1019,Ritu Mishra,Male,30,Bangalore,2024-07-12,Beauty,788.0,1,0.0,Credit Card,Delivered,788.0
+ORD-00565,1241,Neha Mishra,Female,36,Bangalore,2024-07-13,Electronics,10688.0,2,5.0,Net Banking,Returned,20307.2
+ORD-00566,1247,Manish Singh,Male,19,Indore,2024-07-13,Books,460.0,1,0.0,Credit Card,Delivered,460.0
+ORD-00567,1216,Vivaan Jain,Male,39,Bhopal,2024-07-13,Clothing,938.0,1,0.0,UPI,Delivered,938.0
+ORD-00568,1195,Ritu Verma,Female,48,Bangalore,2024-07-13,Home & Kitchen,2221.0,2,15.0,UPI,Delivered,3775.7
+ORD-00569,1225,Rahul Malviya,Male,23,Delhi,2024-07-13,Home & Kitchen,1207.0,1,5.0,Credit Card,Pending,1146.65
+ORD-00570,1235,Rohan Yadav,Male,28,Bangalore,2024-07-14,Clothing,1154.0,1,15.0,UPI,Delivered,980.9
+ORD-00571,1272,Rohan Verma,Female,27,Delhi,2024-07-15,Electronics,11725.0,3,0.0,Debit Card,Shipped,35175.0
+ORD-00572,1129,Kavya Verma,Male,24,Bhopal,2024-07-15,Electronics,5412.0,1,25.0,UPI,Shipped,4059.0
+ORD-00573,1137,Rohan Yadav,Male,34,Bhopal,2024-07-16,Electronics,10820.0,5,25.0,UPI,Delivered,40575.0
+ORD-00574,1192,Simran Malviya,Female,21,Indore,2024-07-16,Home & Kitchen,2591.0,4,5.0,UPI,Delivered,9845.8
+ORD-00575,1058,Rahul Joshi,Female,31,Pune,2024-07-16,Clothing,723.0,2,20.0,UPI,Delivered,1156.8
+ORD-00576,1257,Deepak Mishra,Male,30,Bangalore,2024-07-16,Clothing,965.0,5,0.0,Debit Card,Delivered,4825.0
+ORD-00577,1232,Isha Gupta,Female,31,Bhopal,2024-07-17,Books,502.0,4,0.0,Credit Card,Returned,2008.0
+ORD-00578,1190,Anjali Malviya,Female,35,Bangalore,2024-07-17,Books,512.0,1,20.0,Credit Card,Delivered,409.6
+ORD-00579,1091,Simran Verma,Female,39,Indore,2024-07-18,Home & Kitchen,1287.0,3,15.0,Debit Card,Pending,3281.85
+ORD-00580,1105,Neha Jain,Female,40,Pune,2024-07-18,Sports,2011.0,1,15.0,Cash on Delivery,Delivered,1709.35
+ORD-00581,1131,Manish Verma,Female,40,Indore,2024-07-18,Clothing,1105.0,3,5.0,Cash on Delivery,Delivered,3149.25
+ORD-00582,1199,Aarav Verma,Male,36,Bhopal,2024-07-18,Beauty,520.0,2,15.0,UPI,Shipped,884.0
+ORD-00583,1234,Rohan Joshi,Female,32,Bangalore,2024-07-18,Electronics,7138.0,1,10.0,UPI,Delivered,6424.2
+ORD-00584,1202,Priya Yadav,Female,35,Indore,2024-07-19,Books,217.0,1,0.0,Debit Card,Delivered,217.0
+ORD-00585,1279,Isha Mishra,Female,34,Pune,2024-07-19,Sports,1624.0,5,0.0,Credit Card,Delivered,8120.0
+ORD-00586,1289,Simran Joshi,Male,42,Delhi,2024-07-19,Beauty,719.0,1,15.0,Debit Card,Delivered,611.15
+ORD-00587,1212,Manish Joshi,Female,23,Delhi,2024-07-20,Home & Kitchen,2138.0,1,10.0,Credit Card,Shipped,1924.2
+ORD-00588,1112,Isha Malviya,Female,29,Bangalore,2024-07-21,Home & Kitchen,2131.0,1,5.0,Cash on Delivery,Delivered,2024.45
+ORD-00589,1180,Vivaan Jain,Male,25,Bhopal,2024-07-21,Clothing,1170.0,2,20.0,UPI,Pending,1872.0
+ORD-00590,1128,Kavya Verma,Female,44,Bhopal,2024-07-21,Books,341.0,4,10.0,Credit Card,Delivered,1227.6
+ORD-00591,1189,Isha Jain,Female,19,Bangalore,2024-07-22,Beauty,550.0,3,5.0,UPI,Delivered,1567.5
+ORD-00592,1244,Priya Joshi,Female,29,Indore,2024-07-22,Sports,1351.0,2,5.0,Credit Card,Delivered,2566.9
+ORD-00593,1111,Aditya Gupta,Female,49,Bhopal,2024-07-23,Home & Kitchen,1415.0,1,10.0,Debit Card,Pending,1273.5
+ORD-00594,1152,Aarav Mishra,Female,23,Pune,2024-07-23,Electronics,7049.0,1,15.0,Credit Card,Delivered,5991.65
+ORD-00595,1014,Sneha Mishra,Male,22,Mumbai,2024-07-23,Home & Kitchen,1369.0,2,10.0,UPI,Delivered,2464.2
+ORD-00596,1221,Vikram Patel,Female,45,Pune,2024-07-24,Electronics,4945.0,4,5.0,Cash on Delivery,Delivered,18791.0
+ORD-00597,1147,Vikram Patel,Female,19,Delhi,2024-07-24,Clothing,668.0,3,15.0,Cash on Delivery,Delivered,1703.4
+ORD-00598,1138,Sneha Gupta,Male,32,Indore,2024-07-24,Clothing,1080.0,2,15.0,Credit Card,Shipped,1836.0
+ORD-00599,1160,Simran Jain,Female,42,Indore,2024-07-25,Books,408.0,2,15.0,Net Banking,Delivered,693.6
+ORD-00600,1065,Amit Singh,Female,41,Bangalore,2024-07-25,Electronics,11537.0,2,0.0,Credit Card,Cancelled,23074.0
+ORD-00601,1180,Vivaan Jain,Male,25,Bhopal,2024-07-26,Electronics,10547.0,2,15.0,Cash on Delivery,Delivered,17929.9
+ORD-00602,1224,Priya Yadav,Female,26,Indore,2024-07-26,Electronics,8888.0,2,0.0,UPI,Delivered,17776.0
+ORD-00603,1105,Neha Jain,Female,40,Pune,2024-07-27,Beauty,470.0,2,0.0,UPI,Delivered,940.0
+ORD-00604,1040,Amit Singh,Female,41,Bangalore,2024-07-27,Books,388.0,2,10.0,UPI,Shipped,698.4
+ORD-00605,1117,Aarav Jain,Male,19,Bhopal,2024-07-27,Electronics,5243.0,5,15.0,UPI,Delivered,22282.75
+ORD-00606,1060,Karan Verma,Female,32,Mumbai,2024-07-28,Electronics,7902.0,2,5.0,Credit Card,Delivered,15013.8
+ORD-00607,1113,Isha Patel,Male,30,Delhi,2024-07-29,Home & Kitchen,1712.0,1,15.0,UPI,Unknown,1455.2
+ORD-00608,1189,Isha Jain,Female,19,Bangalore,2024-07-30,Clothing,940.0,1,0.0,Debit Card,Delivered,940.0
+ORD-00609,1035,Vivaan Gupta,Male,36,Bhopal,2024-07-30,Home & Kitchen,1533.0,2,0.0,UPI,Unknown,3066.0
+ORD-00610,1225,Rahul Malviya,Male,23,Delhi,2024-07-30,Clothing,1096.0,2,5.0,UPI,Returned,2082.4
+ORD-00611,1068,Manish Patel,Female,31,Bhopal,2024-07-31,Unknown,2985.0,2,5.0,Net Banking,Delivered,5671.5
+ORD-00612,1269,Pooja Verma,Male,38,Bhopal,2024-07-31,Clothing,1162.0,3,10.0,Debit Card,Delivered,3137.4
+ORD-00613,1220,Vivaan Patel,Female,44,Delhi,2024-07-31,Books,408.0,1,15.0,Net Banking,Delivered,346.8
+ORD-00614,1082,Sneha Gupta,Female,46,Mumbai,2024-08-01,Electronics,8676.0,3,15.0,Credit Card,Delivered,22123.8
+ORD-00615,1169,Vikram Patel,Male,43,Bhopal,2024-08-02,Sports,1382.0,3,0.0,UPI,Delivered,4146.0
+ORD-00616,1034,Simran Patel,Female,24,Indore,2024-08-02,Sports,2751.0,2,0.0,Credit Card,Returned,5502.0
+ORD-00617,1030,Isha Singh,Male,42,Bangalore,2024-08-02,Books,382.0,2,0.0,Credit Card,Delivered,764.0
+ORD-00618,1287,Neha Sharma,Male,35,Indore,2024-08-03,Home & Kitchen,1519.0,1,0.0,UPI,Shipped,1519.0
+ORD-00619,1241,Neha Mishra,Female,36,Bangalore,2024-08-04,Clothing,806.0,2,0.0,Cash on Delivery,Delivered,1612.0
+ORD-00620,1047,Deepak Patel,Female,28,Bangalore,2024-08-04,Beauty,654.0,3,5.0,Debit Card,Pending,1863.9
+ORD-00621,1085,Priya Sharma,Male,34,Indore,2024-08-04,Unknown,407.0,4,15.0,Debit Card,Delivered,1383.8
+ORD-00622,1060,Karan Verma,Female,32,Mumbai,2024-08-06,Clothing,925.0,2,10.0,Credit Card,Returned,1665.0
+ORD-00623,1119,Kavya Gupta,Male,26,Bhopal,2024-08-06,Home & Kitchen,2086.0,1,0.0,Debit Card,Delivered,2086.0
+ORD-00624,1088,Kavya Gupta,Female,33,Mumbai,2024-08-06,Home & Kitchen,1750.0,3,0.0,UPI,Delivered,5250.0
+ORD-00625,1099,Priya Verma,Male,37,Bhopal,2024-08-07,Beauty,665.0,3,0.0,Net Banking,Unknown,1995.0
+ORD-00626,1159,Isha Jain,Female,36,Delhi,2024-08-07,Books,301.0,1,5.0,Credit Card,Delivered,285.95
+ORD-00627,1057,Amit Gupta,Female,19,Bhopal,2024-08-07,Home & Kitchen,1793.0,4,0.0,UPI,Delivered,7172.0
+ORD-00628,1265,Simran Yadav,Female,34,Delhi,2024-08-07,Home & Kitchen,2191.0,1,20.0,UPI,Delivered,1752.8
+ORD-00629,1219,Amit Yadav,Male,33,Delhi,2024-08-08,Clothing,572.0,1,5.0,Debit Card,Shipped,543.4
+ORD-00630,1229,Aditya Singh,Female,45,Bhopal,2024-08-08,Clothing,1184.0,1,5.0,Net Banking,Shipped,1124.8
+ORD-00631,1051,Deepak Verma,Female,48,Mumbai,2024-08-08,Electronics,6837.0,1,0.0,Cash on Delivery,Delivered,6837.0
+ORD-00632,1213,Sneha Verma,Male,32,Indore,2024-08-08,Beauty,789.0,4,5.0,Debit Card,Pending,2998.2
+ORD-00633,1251,Aditya Singh,Male,33,Delhi,2024-08-09,Clothing,1061.0,2,0.0,Net Banking,Delivered,2122.0
+ORD-00634,1053,Manish Jain,Female,19,Bhopal,2024-08-09,Clothing,1069.0,1,0.0,Debit Card,Delivered,1069.0
+ORD-00635,1226,Vikram Yadav,Male,37,Pune,2024-08-09,Clothing,1033.0,2,10.0,UPI,Delivered,1859.4
+ORD-00636,1108,Isha Malviya,Female,30,Delhi,2024-08-09,Clothing,1317.0,1,5.0,Debit Card,Unknown,1251.15
+ORD-00637,1237,Sneha Gupta,Female,29,Bhopal,2024-08-10,Home & Kitchen,1904.0,1,20.0,UPI,Delivered,1523.2
+ORD-00638,1144,Rohan Joshi,Male,33,Indore,2024-08-10,Clothing,1133.0,1,20.0,UPI,Delivered,906.4
+ORD-00639,1241,Neha Mishra,Female,36,Bangalore,2024-08-10,Electronics,9879.0,3,0.0,UPI,Delivered,29637.0
+ORD-00640,1045,Manish Mishra,Female,34,Indore,2024-08-10,Books,284.0,1,0.0,UPI,Delivered,284.0
+ORD-00641,1117,Aarav Jain,Male,19,Bhopal,2024-08-10,Clothing,769.0,3,15.0,Net Banking,Shipped,1960.95
+ORD-00642,1083,Sneha Mishra,Female,31,Delhi,2024-08-11,Clothing,883.0,1,25.0,Net Banking,Delivered,662.25
+ORD-00643,1075,Deepak Sharma,Male,32,Bhopal,2024-08-12,Clothing,765.0,3,20.0,UPI,Pending,1836.0
+ORD-00644,1093,Pooja Gupta,Female,19,Bhopal,2024-08-12,Beauty,605.0,4,0.0,Debit Card,Delivered,2420.0
+ORD-00645,1115,Rahul Verma,Male,32,Mumbai,2024-08-12,Clothing,857.0,1,0.0,Credit Card,Delivered,857.0
+ORD-00646,1039,Priya Malviya,Male,21,Bangalore,2024-08-13,Books,400.0,1,0.0,UPI,Delivered,400.0
+ORD-00647,1213,Sneha Verma,Male,32,Indore,2024-08-13,Sports,1755.0,5,15.0,UPI,Shipped,7458.75
+ORD-00648,1166,Rahul Patel,Female,24,Bangalore,2024-08-14,Books,463.0,2,10.0,UPI,Delivered,833.4
+ORD-00649,1249,Aditya Patel,Female,34,Indore,2024-08-14,Clothing,894.0,2,5.0,UPI,Delivered,1698.6
+ORD-00650,1212,Manish Joshi,Female,23,Delhi,2024-08-14,Books,432.0,1,10.0,UPI,Pending,388.8
+ORD-00651,1045,Manish Mishra,Female,34,Indore,2024-08-15,Home & Kitchen,1212.0,1,0.0,UPI,Shipped,1212.0
+ORD-00652,1021,Rohan Jain,Female,42,Delhi,2024-08-16,Clothing,921.0,2,10.0,UPI,Delivered,1657.8
+ORD-00653,1127,Rohan Patel,Male,33,Mumbai,2024-08-16,Home & Kitchen,1126.0,4,0.0,Net Banking,Delivered,4504.0
+ORD-00654,1145,Rahul Gupta,Male,45,Indore,2024-08-18,Clothing,1087.0,1,10.0,UPI,Delivered,978.3
+ORD-00655,1073,Vikram Mishra,Male,30,Bangalore,2024-08-18,Electronics,7275.0,3,0.0,UPI,Delivered,21825.0
+ORD-00656,1235,Rohan Yadav,Male,28,Bangalore,2024-08-18,Clothing,1309.0,3,10.0,Credit Card,Shipped,3534.3
+ORD-00657,1175,Rohan Verma,Male,31,Bangalore,2024-08-18,Electronics,7134.0,1,0.0,UPI,Delivered,7134.0
+ORD-00658,1225,Rahul Malviya,Male,23,Delhi,2024-08-19,Clothing,997.0,1,15.0,Credit Card,Delivered,847.45
+ORD-00659,1033,Sneha Patel,Female,39,Bangalore,2024-08-20,Home & Kitchen,1497.0,1,15.0,UPI,Delivered,1272.45
+ORD-00660,1245,Manish Singh,Male,48,Indore,2024-08-20,Sports,2548.0,2,0.0,Debit Card,Delivered,5096.0
+ORD-00661,1062,Kavya Gupta,Male,40,Indore,2024-08-20,Electronics,8163.0,2,0.0,Credit Card,Delivered,16326.0
+ORD-00662,1135,Sanjay Joshi,Male,41,Delhi,2024-08-21,Home & Kitchen,1680.0,2,10.0,Debit Card,Delivered,3024.0
+ORD-00663,1132,Neha Yadav,Female,32,Indore,2024-08-21,Home & Kitchen,1410.0,1,0.0,Credit Card,Delivered,1410.0
+ORD-00664,1247,Manish Singh,Male,19,Indore,2024-08-21,Electronics,5603.0,3,0.0,Credit Card,Delivered,16809.0
+ORD-00665,1084,Priya Verma,Male,19,Delhi,2024-08-21,Clothing,637.0,2,0.0,UPI,Delivered,1274.0
+ORD-00666,1073,Vikram Mishra,Male,30,Bangalore,2024-08-22,Electronics,11993.0,2,0.0,UPI,Delivered,23986.0
+ORD-00667,1102,Pooja Singh,Female,38,Delhi,2024-08-22,Clothing,874.0,2,5.0,Credit Card,Delivered,1660.6
+ORD-00668,1109,Vivaan Sharma,Male,29,Bangalore,2024-08-23,Clothing,542.0,6,10.0,UPI,Delivered,2926.8
+ORD-00669,1055,Pooja Jain,Male,59,Indore,2024-08-23,Clothing,1312.0,3,0.0,UPI,Shipped,3936.0
+ORD-00670,1053,Manish Jain,Female,19,Bhopal,2024-08-23,Home & Kitchen,1898.0,1,15.0,Debit Card,Returned,1613.3
+ORD-00671,1070,Priya Gupta,Female,40,Mumbai,2024-08-23,Electronics,7814.0,1,0.0,UPI,Cancelled,7814.0
+ORD-00672,1141,Neha Gupta,Female,41,Indore,2024-08-25,Electronics,9966.0,1,0.0,UPI,Delivered,9966.0
+ORD-00673,1104,Manish Yadav,Male,42,Bhopal,2024-08-25,Electronics,11385.0,2,0.0,Debit Card,Unknown,22770.0
+ORD-00674,1118,Pooja Jain,Female,26,Pune,2024-08-25,Home & Kitchen,2235.0,2,15.0,UPI,Delivered,3799.5
+ORD-00675,1216,Vivaan Jain,Male,39,Bhopal,2024-08-26,Clothing,916.0,1,25.0,Cash on Delivery,Shipped,687.0
+ORD-00676,1073,Vikram Mishra,Male,30,Bangalore,2024-08-27,Home & Kitchen,2659.0,4,5.0,Net Banking,Delivered,10104.2
+ORD-00677,1273,Deepak Sharma,Male,44,Indore,2024-08-27,Clothing,572.0,4,0.0,Net Banking,Delivered,2288.0
+ORD-00678,1226,Vikram Yadav,Male,37,Pune,2024-08-27,Electronics,11906.0,1,0.0,Credit Card,Delivered,11906.0
+ORD-00679,1053,Manish Jain,Female,19,Bhopal,2024-08-28,Sports,3002.0,3,0.0,UPI,Delivered,9006.0
+ORD-00680,1095,Karan Patel,Male,37,Indore,2024-08-28,Electronics,11488.0,1,15.0,Debit Card,Shipped,9764.8
+ORD-00681,1056,Neha Jain,Female,30,Pune,2024-08-28,Electronics,6634.0,5,0.0,Debit Card,Delivered,33170.0
+ORD-00682,1082,Sneha Gupta,Female,46,Mumbai,2024-08-29,Electronics,5826.0,1,25.0,Debit Card,Delivered,4369.5
+ORD-00683,1110,Sneha Yadav,Female,42,Indore,2024-08-29,Sports,2633.0,1,10.0,UPI,Cancelled,2369.7
+ORD-00684,1040,Amit Singh,Female,41,Bangalore,2024-08-31,Home & Kitchen,1916.0,2,0.0,UPI,Delivered,3832.0
+ORD-00685,1005,Karan Sharma,Female,22,Pune,2024-09-01,Home & Kitchen,1928.0,1,15.0,UPI,Delivered,1638.8
+ORD-00686,1132,Neha Yadav,Female,32,Indore,2024-09-01,Sports,3151.0,3,0.0,UPI,Delivered,9453.0
+ORD-00687,1211,Simran Singh,Male,32,Unknown,2024-09-01,Electronics,9265.0,2,0.0,UPI,Delivered,18530.0
+ORD-00688,1091,Simran Verma,Female,39,Indore,2024-09-01,Sports,1936.0,1,0.0,Net Banking,Delivered,1936.0
+ORD-00689,1259,Ritu Sharma,Female,25,Mumbai,2024-09-03,Clothing,864.0,2,15.0,UPI,Delivered,1468.8
+ORD-00690,1111,Aditya Gupta,Female,49,Bhopal,2024-09-03,Home & Kitchen,1296.0,4,5.0,Debit Card,Returned,4924.8
+ORD-00691,1271,Isha Sharma,Male,43,Indore,2024-09-03,Clothing,696.0,3,0.0,Net Banking,Delivered,2088.0
+ORD-00692,1071,Vikram Malviya,Female,19,Indore,2024-09-03,Clothing,656.0,2,15.0,UPI,Delivered,1115.2
+ORD-00693,1162,Sanjay Yadav,Male,19,Bangalore,2024-09-04,Sports,2924.0,1,0.0,Credit Card,Delivered,2924.0
+ORD-00694,1229,Aditya Singh,Female,45,Bhopal,2024-09-04,Electronics,9875.0,1,0.0,Debit Card,Cancelled,9875.0
+ORD-00695,1018,Ritu Sharma,Female,21,Indore,2024-09-04,Sports,2370.0,4,15.0,UPI,Delivered,8058.0
+ORD-00696,1280,Manish Mishra,Male,37,Indore,2024-09-05,Clothing,843.0,3,5.0,Credit Card,Returned,2402.55
+ORD-00697,1110,Sneha Yadav,Female,42,Indore,2024-09-05,Home & Kitchen,2163.0,2,20.0,Cash on Delivery,Delivered,3460.8
+ORD-00698,1150,Neha Sharma,Female,37,Mumbai,2024-09-06,Sports,2930.0,4,10.0,Debit Card,Delivered,10548.0
+ORD-00699,1189,Isha Jain,Female,19,Bangalore,2024-09-06,Electronics,11145.0,1,0.0,Cash on Delivery,Pending,11145.0
+ORD-00700,1193,Aarav Verma,Female,51,Bhopal,2024-09-07,Sports,2403.0,3,0.0,Net Banking,Delivered,7209.0
+ORD-00701,1008,Isha Jain,Female,41,Indore,2024-09-07,Home & Kitchen,2408.0,1,0.0,UPI,Delivered,2408.0
+ORD-00702,1261,Anjali Verma,Male,48,Indore,2024-09-07,Books,371.0,1,25.0,Debit Card,Returned,278.25
+ORD-00703,1188,Ritu Sharma,Male,37,Indore,2024-09-07,Electronics,8217.0,2,0.0,Debit Card,Delivered,16434.0
+ORD-00704,1300,Sanjay Singh,Female,34,Indore,2024-09-07,Home & Kitchen,2482.0,1,5.0,Debit Card,Delivered,2357.9
+ORD-00705,1142,Kavya Gupta,Male,30,Delhi,2024-09-08,Books,332.0,5,0.0,Debit Card,Pending,1660.0
+ORD-00706,1185,Aarav Jain,Male,40,Indore,2024-09-08,Home & Kitchen,1721.0,6,0.0,Debit Card,Cancelled,10326.0
+ORD-00707,1133,Vikram Joshi,Female,40,Delhi,2024-09-08,Electronics,6995.0,4,0.0,Cash on Delivery,Returned,27980.0
+ORD-00708,1267,Rohan Malviya,Female,33,Delhi,2024-09-08,Clothing,960.0,3,15.0,UPI,Cancelled,2448.0
+ORD-00709,1250,Simran Gupta,Male,34,Bhopal,2024-09-09,Beauty,709.0,3,15.0,Debit Card,Delivered,1807.95
+ORD-00710,1273,Deepak Sharma,Male,44,Indore,2024-09-10,Electronics,9555.0,5,20.0,UPI,Cancelled,38220.0
+ORD-00711,1152,Aarav Mishra,Female,23,Pune,2024-09-10,Books,346.0,2,0.0,Credit Card,Delivered,692.0
+ORD-00712,1238,Sanjay Jain,Male,28,Delhi,2024-09-13,Sports,1751.0,1,5.0,Cash on Delivery,Delivered,1663.45
+ORD-00713,1108,Isha Malviya,Female,30,Delhi,2024-09-14,Electronics,11041.0,1,0.0,Cash on Delivery,Delivered,11041.0
+ORD-00714,1139,Pooja Jain,Female,22,Delhi,2024-09-14,Electronics,7291.0,1,15.0,Credit Card,Pending,6197.35
+ORD-00715,1229,Aditya Singh,Female,45,Bhopal,2024-09-15,Books,501.0,4,0.0,Credit Card,Delivered,2004.0
+ORD-00716,1025,Kavya Jain,Female,28,Delhi,2024-09-15,Electronics,6293.0,2,10.0,UPI,Pending,11327.4
+ORD-00717,1214,Ritu Mishra,Male,27,Bangalore,2024-09-16,Home & Kitchen,1987.0,1,0.0,UPI,Delivered,1987.0
+ORD-00718,1005,Karan Sharma,Female,22,Pune,2024-09-16,Books,379.0,1,15.0,UPI,Delivered,322.15
+ORD-00719,1175,Rohan Verma,Male,31,Bangalore,2024-09-16,Home & Kitchen,1898.0,2,15.0,UPI,Delivered,3226.6
+ORD-00720,1144,Rohan Joshi,Male,33,Indore,2024-09-16,Clothing,652.0,3,20.0,UPI,Delivered,1564.8
+ORD-00721,1141,Neha Gupta,Female,41,Indore,2024-09-16,Books,497.0,1,0.0,Net Banking,Delivered,497.0
+ORD-00722,1149,Deepak Gupta,Male,49,Indore,2024-09-17,Home & Kitchen,1941.0,3,25.0,UPI,Delivered,4367.25
+ORD-00723,1148,Rahul Joshi,Female,25,Bangalore,2024-09-17,Clothing,1015.0,2,0.0,Debit Card,Delivered,2030.0
+ORD-00724,1123,Sanjay Sharma,Male,32,Delhi,2024-09-17,Home & Kitchen,1898.0,3,0.0,Credit Card,Delivered,5694.0
+ORD-00725,1136,Neha Sharma,Male,24,Indore,2024-09-17,Beauty,411.0,1,0.0,Debit Card,Delivered,411.0
+ORD-00726,1171,Sanjay Malviya,Male,39,Bhopal,2024-09-18,Books,367.0,2,0.0,Debit Card,Delivered,734.0
+ORD-00727,1230,Deepak Verma,Male,33,Indore,2024-09-18,Home & Kitchen,1898.0,1,10.0,Debit Card,Delivered,1708.2
+ORD-00728,1166,Rahul Patel,Female,24,Bangalore,2024-09-19,Clothing,818.0,1,0.0,Net Banking,Delivered,818.0
+ORD-00729,1193,Aarav Verma,Female,51,Bhopal,2024-09-20,Electronics,9474.0,3,5.0,Credit Card,Delivered,27000.9
+ORD-00730,1251,Aditya Singh,Male,33,Delhi,2024-09-20,Clothing,943.0,2,10.0,UPI,Delivered,1697.4
+ORD-00731,1297,Karan Yadav,Female,35,Indore,2024-09-20,Electronics,5471.0,1,15.0,UPI,Delivered,4650.35
+ORD-00732,1033,Sneha Patel,Female,39,Bangalore,2024-09-20,Sports,1465.0,4,0.0,Debit Card,Delivered,5860.0
+ORD-00733,1214,Ritu Mishra,Male,27,Bangalore,2024-09-21,Clothing,690.0,1,10.0,Credit Card,Delivered,621.0
+ORD-00734,1068,Manish Patel,Female,31,Bhopal,2024-09-21,Beauty,654.0,2,0.0,Credit Card,Delivered,1308.0
+ORD-00735,1060,Karan Verma,Female,32,Mumbai,2024-09-21,Electronics,9180.0,5,15.0,Credit Card,Delivered,39015.0
+ORD-00736,1238,Sanjay Jain,Male,28,Delhi,2024-09-22,Clothing,684.0,2,0.0,UPI,Delivered,1368.0
+ORD-00737,1021,Rohan Jain,Female,42,Delhi,2024-09-22,Clothing,1254.0,4,0.0,Cash on Delivery,Delivered,5016.0
+ORD-00738,1255,Neha Malviya,Male,50,Indore,2024-09-23,Clothing,710.0,2,0.0,Debit Card,Cancelled,1420.0
+ORD-00739,1232,Isha Gupta,Female,31,Bhopal,2024-09-23,Beauty,443.0,3,10.0,Debit Card,Delivered,1196.1
+ORD-00740,1299,Amit Jain,Female,19,Bhopal,2024-09-23,Sports,3054.0,3,0.0,UPI,Delivered,9162.0
+ORD-00741,1201,Vikram Jain,Female,38,Indore,2024-09-24,Beauty,563.0,3,10.0,Cash on Delivery,Cancelled,1520.1
+ORD-00742,1262,Rohan Mishra,Male,52,Bhopal,2024-09-24,Electronics,7863.0,1,0.0,Credit Card,Delivered,7863.0
+ORD-00743,1036,Manish Verma,Female,20,Bhopal,2024-09-24,Beauty,951.0,3,5.0,Net Banking,Delivered,2710.35
+ORD-00744,1267,Rohan Malviya,Female,33,Delhi,2024-09-24,Electronics,11599.0,1,5.0,UPI,Cancelled,11019.05
+ORD-00745,1049,Karan Singh,Female,29,Mumbai,2024-09-24,Sports,2736.0,5,0.0,Debit Card,Delivered,13680.0
+ORD-00746,1095,Karan Patel,Male,37,Indore,2024-09-25,Home & Kitchen,1192.0,1,0.0,Debit Card,Pending,1192.0
+ORD-00747,1039,Priya Malviya,Male,21,Bangalore,2024-09-25,Clothing,1021.0,1,10.0,Credit Card,Delivered,918.9
+ORD-00748,1121,Aditya Joshi,Female,24,Bhopal,2024-09-26,Electronics,11921.0,4,5.0,UPI,Delivered,45299.8
+ORD-00749,1225,Rahul Malviya,Male,23,Delhi,2024-09-26,Electronics,11618.0,1,0.0,Credit Card,Delivered,11618.0
+ORD-00750,1081,Vikram Singh,Female,36,Delhi,2024-09-26,Clothing,626.0,2,10.0,UPI,Delivered,1126.8
+ORD-00751,1247,Manish Singh,Male,19,Indore,2024-09-26,Sports,2104.0,3,0.0,Net Banking,Cancelled,6312.0
+ORD-00752,1182,Karan Mishra,Male,40,Indore,2024-09-27,Beauty,575.0,1,0.0,UPI,Delivered,575.0
+ORD-00753,1189,Isha Jain,Female,19,Bangalore,2024-09-27,Sports,1577.0,1,0.0,UPI,Delivered,1577.0
+ORD-00754,1282,Pooja Verma,Female,19,Bhopal,2024-09-27,Electronics,9803.0,2,5.0,Credit Card,Delivered,18625.7
+ORD-00755,1130,Rohan Joshi,Female,25,Bhopal,2024-09-27,Home & Kitchen,1524.0,6,0.0,UPI,Shipped,9144.0
+ORD-00756,1104,Manish Yadav,Male,42,Bhopal,2024-09-28,Clothing,819.0,1,10.0,UPI,Delivered,737.1
+ORD-00757,1299,Amit Jain,Female,19,Bhopal,2024-09-28,Home & Kitchen,1226.0,1,0.0,Credit Card,Pending,1226.0
+ORD-00758,1168,Pooja Mishra,Female,35,Mumbai,2024-09-29,Clothing,943.0,1,15.0,Credit Card,Delivered,801.55
+ORD-00759,1185,Aarav Jain,Male,40,Indore,2024-09-29,Clothing,668.0,1,0.0,UPI,Pending,668.0
+ORD-00760,1089,Isha Verma,Unknown,19,Indore,2024-09-30,Home & Kitchen,1780.0,2,10.0,Credit Card,Delivered,3204.0
+ORD-00761,1065,Amit Singh,Female,41,Bangalore,2024-09-30,Electronics,5832.0,2,15.0,Credit Card,Delivered,9914.4
+ORD-00762,1051,Deepak Verma,Female,48,Mumbai,2024-09-30,Home & Kitchen,2625.0,2,5.0,Cash on Delivery,Delivered,4987.5
+ORD-00763,1068,Manish Patel,Female,31,Bhopal,2024-10-01,Books,256.0,1,0.0,UPI,Delivered,256.0
+ORD-00764,1059,Aarav Verma,Male,31,Indore,2024-10-01,Electronics,8558.0,1,0.0,UPI,Delivered,8558.0
+ORD-00765,1225,Rahul Malviya,Male,23,Delhi,2024-10-01,Sports,1710.0,4,25.0,Net Banking,Delivered,5130.0
+ORD-00766,1018,Ritu Sharma,Female,21,Indore,2024-10-01,Home & Kitchen,1204.0,2,25.0,Credit Card,Shipped,1806.0
+ORD-00767,1189,Isha Jain,Female,19,Bangalore,2024-10-02,Beauty,508.0,2,0.0,UPI,Cancelled,1016.0
+ORD-00768,1285,Sanjay Joshi,Female,20,Pune,2024-10-02,Books,227.0,2,15.0,Cash on Delivery,Pending,385.9
+ORD-00769,1230,Deepak Verma,Male,33,Indore,2024-10-02,Books,370.5,1,0.0,UPI,Returned,370.5
+ORD-00770,1121,Aditya Joshi,Female,24,Bhopal,2024-10-02,Books,365.0,4,0.0,Cash on Delivery,Cancelled,1460.0
+ORD-00771,1018,Ritu Sharma,Female,21,Indore,2024-10-03,Unknown,771.0,4,0.0,Debit Card,Delivered,3084.0
+ORD-00772,1251,Aditya Singh,Male,33,Delhi,2024-10-03,Home & Kitchen,1221.0,4,5.0,Net Banking,Delivered,4639.8
+ORD-00773,1001,Vivaan Jain,Female,46,Indore,2024-10-03,Clothing,897.0,1,5.0,Net Banking,Cancelled,852.15
+ORD-00774,1205,Simran Sharma,Female,33,Pune,2024-10-04,Electronics,8985.0,1,15.0,UPI,Cancelled,7637.25
+ORD-00775,1202,Priya Yadav,Female,35,Indore,2024-10-04,Home & Kitchen,1459.0,2,0.0,Cash on Delivery,Returned,2918.0
+ORD-00776,1058,Rahul Joshi,Female,31,Pune,2024-10-04,Electronics,7479.0,1,10.0,UPI,Shipped,6731.1
+ORD-00777,1222,Aditya Gupta,Male,44,Pune,2024-10-04,Clothing,598.0,1,5.0,Debit Card,Delivered,568.1
+ORD-00778,1053,Manish Jain,Female,19,Bhopal,2024-10-04,Electronics,6385.0,2,0.0,Credit Card,Unknown,12770.0
+ORD-00779,1068,Manish Patel,Female,31,Bhopal,2024-10-05,Home & Kitchen,3290.5,1,5.0,UPI,Cancelled,3125.98
+ORD-00780,1244,Priya Joshi,Female,29,Indore,2024-10-05,Electronics,11931.0,4,25.0,UPI,Delivered,35793.0
+ORD-00781,1294,Kavya Sharma,Female,37,Bangalore,2024-10-05,Home & Kitchen,2694.0,1,5.0,UPI,Pending,2559.3
+ORD-00782,1080,Rahul Jain,Female,25,Bhopal,2024-10-06,Beauty,963.0,1,0.0,UPI,Delivered,963.0
+ORD-00783,1277,Deepak Patel,Female,34,Bangalore,2024-10-06,Beauty,638.0,4,10.0,UPI,Cancelled,2296.8
+ORD-00784,1274,Sneha Joshi,Female,30,Indore,2024-10-06,Clothing,605.0,3,25.0,Net Banking,Delivered,1361.25
+ORD-00785,1231,Isha Verma,Female,22,Delhi,2024-10-06,Home & Kitchen,1604.0,1,20.0,Credit Card,Pending,1283.2
+ORD-00786,1043,Sanjay Jain,Female,49,Indore,2024-10-06,Home & Kitchen,1465.0,2,10.0,Cash on Delivery,Delivered,2637.0
+ORD-00787,1090,Simran Joshi,Female,19,Pune,2024-10-07,Home & Kitchen,1103.0,1,5.0,Cash on Delivery,Delivered,1047.85
+ORD-00788,1204,Sneha Verma,Male,33,Mumbai,2024-10-07,Books,240.0,1,10.0,Debit Card,Delivered,216.0
+ORD-00789,1300,Sanjay Singh,Female,34,Indore,2024-10-08,Clothing,907.0,2,15.0,UPI,Delivered,1541.9
+ORD-00790,1245,Manish Singh,Male,48,Indore,2024-10-08,Sports,1993.0,1,0.0,Cash on Delivery,Delivered,1993.0
+ORD-00791,1127,Rohan Patel,Male,33,Mumbai,2024-10-08,Electronics,6099.0,2,15.0,Debit Card,Returned,10368.3
+ORD-00792,1071,Vikram Malviya,Female,19,Indore,2024-10-08,Beauty,809.0,1,5.0,Debit Card,Delivered,768.55
+ORD-00793,1289,Simran Joshi,Male,42,Delhi,2024-10-08,Home & Kitchen,1659.0,3,0.0,Net Banking,Cancelled,4977.0
+ORD-00794,1083,Sneha Mishra,Female,31,Delhi,2024-10-09,Clothing,1230.0,3,10.0,Credit Card,Delivered,3321.0
+ORD-00795,1103,Pooja Malviya,Female,32,Mumbai,2024-10-09,Books,286.0,1,0.0,Credit Card,Delivered,286.0
+ORD-00796,1290,Ritu Verma,Male,21,Indore,2024-10-10,Electronics,8676.0,1,0.0,Cash on Delivery,Shipped,8676.0
+ORD-00797,1169,Vikram Patel,Male,43,Bhopal,2024-10-11,Beauty,498.0,2,5.0,Credit Card,Shipped,946.2
+ORD-00798,1080,Rahul Jain,Female,25,Bhopal,2024-10-11,Home & Kitchen,1882.0,3,10.0,Cash on Delivery,Delivered,5081.4
+ORD-00799,1002,Kavya Gupta,Male,31,Delhi,2024-10-12,Electronics,5898.0,3,20.0,UPI,Pending,14155.2
+ORD-00800,1129,Kavya Verma,Male,24,Bhopal,2024-10-12,Electronics,5963.0,3,15.0,UPI,Pending,15205.65
+ORD-00802,1130,Rohan Joshi,Female,25,Bhopal,2024-10-13,Clothing,754.0,1,15.0,UPI,Returned,640.9
+ORD-00803,1210,Neha Joshi,Male,34,Indore,2024-10-13,Beauty,491.0,2,15.0,Net Banking,Shipped,834.7
+ORD-00804,1076,Ritu Malviya,Male,51,Indore,2024-10-14,Books,503.0,1,0.0,UPI,Delivered,503.0
+ORD-00805,1233,Aarav Yadav,Male,36,Delhi,2024-10-14,Unknown,224.0,3,10.0,Debit Card,Delivered,604.8
+ORD-00806,1233,Aarav Yadav,Male,36,Delhi,2024-10-14,Clothing,998.0,1,0.0,UPI,Delivered,998.0
+ORD-00807,1183,Aditya Joshi,Female,38,Mumbai,2024-10-15,Books,370.5,1,0.0,Net Banking,Delivered,370.5
+ORD-00808,1232,Isha Gupta,Female,31,Bhopal,2024-10-16,Sports,1816.0,2,0.0,UPI,Shipped,3632.0
+ORD-00809,1174,Vikram Yadav,Male,34,Pune,2024-10-17,Electronics,8060.0,2,15.0,UPI,Shipped,13702.0
+ORD-00810,1114,Deepak Joshi,Female,37,Pune,2024-10-17,Clothing,611.0,2,15.0,UPI,Delivered,1038.7
+ORD-00811,1222,Aditya Gupta,Male,44,Pune,2024-10-18,Clothing,1124.0,2,20.0,Credit Card,Delivered,1798.4
+ORD-00812,1251,Aditya Singh,Male,33,Delhi,2024-10-18,Clothing,720.0,4,25.0,Net Banking,Delivered,2160.0
+ORD-00813,1253,Neha Gupta,Male,19,Delhi,2024-10-18,Books,271.0,4,20.0,Net Banking,Delivered,867.2
+ORD-00814,1064,Vivaan Jain,Male,19,Indore,2024-10-18,Home & Kitchen,1590.0,4,0.0,UPI,Cancelled,6360.0
+ORD-00815,1203,Pooja Joshi,Female,21,Bhopal,2024-10-18,Home & Kitchen,2542.0,2,20.0,Credit Card,Delivered,4067.2
+ORD-00816,1002,Kavya Gupta,Male,31,Delhi,2024-10-19,Clothing,1185.0,2,15.0,UPI,Delivered,2014.5
+ORD-00817,1172,Sanjay Joshi,Male,30,Indore,2024-10-20,Electronics,11618.0,2,20.0,Credit Card,Unknown,18588.8
+ORD-00818,1172,Sanjay Joshi,Male,30,Indore,2024-10-20,Clothing,940.0,2,0.0,Credit Card,Delivered,1880.0
+ORD-00819,1110,Sneha Yadav,Female,42,Indore,2024-10-20,Beauty,778.0,1,0.0,UPI,Shipped,778.0
+ORD-00820,1299,Amit Jain,Female,19,Bhopal,2024-10-21,Home & Kitchen,1858.0,2,20.0,Debit Card,Returned,2972.8
+ORD-00821,1265,Simran Yadav,Female,34,Delhi,2024-10-21,Clothing,1273.0,1,0.0,Cash on Delivery,Delivered,1273.0
+ORD-00822,1012,Rohan Yadav,Male,36,Indore,2024-10-21,Beauty,654.0,1,5.0,UPI,Delivered,621.3
+ORD-00823,1063,Ritu Joshi,Male,39,Indore,2024-10-21,Electronics,8648.0,4,5.0,UPI,Delivered,32862.4
+ORD-00824,1063,Ritu Joshi,Male,39,Indore,2024-10-22,Clothing,1059.0,1,0.0,UPI,Delivered,1059.0
+ORD-00825,1270,Rahul Sharma,Female,66,Indore,2024-10-22,Clothing,982.0,2,0.0,UPI,Unknown,1964.0
+ORD-00826,1156,Kavya Singh,Male,39,Bhopal,2024-10-22,Sports,1566.0,2,25.0,UPI,Unknown,2349.0
+ORD-00827,1219,Amit Yadav,Male,33,Delhi,2024-10-23,Books,334.0,1,20.0,Debit Card,Pending,267.2
+ORD-00828,1243,Pooja Malviya,Female,23,Bangalore,2024-10-24,Home & Kitchen,1588.0,4,20.0,UPI,Delivered,5081.6
+ORD-00829,1231,Isha Verma,Female,22,Delhi,2024-10-25,Electronics,10897.0,1,0.0,Debit Card,Delivered,10897.0
+ORD-00830,1027,Anjali Gupta,Female,28,Indore,2024-10-25,Electronics,7528.0,4,0.0,Cash on Delivery,Delivered,30112.0
+ORD-00831,1043,Sanjay Jain,Female,49,Indore,2024-10-27,Home & Kitchen,2411.0,3,5.0,Net Banking,Pending,6871.35
+ORD-00832,1119,Kavya Gupta,Male,26,Bhopal,2024-10-27,Clothing,898.0,1,5.0,Debit Card,Delivered,853.1
+ORD-00833,1102,Pooja Singh,Female,38,Delhi,2024-10-27,Sports,2296.5,1,0.0,UPI,Delivered,2296.5
+ORD-00834,1225,Rahul Malviya,Male,23,Delhi,2024-10-28,Books,253.0,1,15.0,UPI,Pending,215.05
+ORD-00835,1047,Deepak Patel,Female,28,Bangalore,2024-10-28,Clothing,1289.0,1,25.0,UPI,Delivered,966.75
+ORD-00836,1112,Isha Malviya,Female,29,Bangalore,2024-10-28,Books,361.0,1,5.0,Net Banking,Cancelled,342.95
+ORD-00837,1071,Vikram Malviya,Female,19,Indore,2024-10-29,Sports,1834.0,5,5.0,Net Banking,Delivered,8711.5
+ORD-00838,1057,Amit Gupta,Female,19,Bhopal,2024-10-29,Home & Kitchen,1471.0,1,5.0,UPI,Shipped,1397.45
+ORD-00839,1052,Deepak Sharma,Male,24,Mumbai,2024-10-29,Home & Kitchen,1509.0,4,0.0,UPI,Returned,6036.0
+ORD-00840,1059,Aarav Verma,Male,31,Indore,2024-10-30,Sports,2046.0,1,0.0,Credit Card,Delivered,2046.0
+ORD-00841,1170,Karan Yadav,Male,52,Mumbai,2024-10-30,Clothing,1121.0,5,5.0,UPI,Delivered,5324.75
+ORD-00842,1124,Manish Gupta,Male,45,Mumbai,2024-10-31,Beauty,946.0,1,5.0,Net Banking,Delivered,898.7
+ORD-00843,1131,Manish Verma,Female,40,Indore,2024-11-01,Electronics,9617.0,2,0.0,UPI,Shipped,19234.0
+ORD-00844,1144,Rohan Joshi,Male,33,Indore,2024-11-01,Home & Kitchen,1966.0,2,0.0,UPI,Cancelled,3932.0
+ORD-00845,1223,Rahul Singh,Male,33,Mumbai,2024-11-03,Beauty,652.0,2,0.0,Credit Card,Shipped,1304.0
+ORD-00846,1259,Ritu Sharma,Female,25,Mumbai,2024-11-03,Home & Kitchen,2422.0,4,0.0,UPI,Cancelled,9688.0
+ORD-00847,1158,Karan Singh,Male,37,Bhopal,2024-11-03,Home & Kitchen,2456.0,1,0.0,UPI,Delivered,2456.0
+ORD-00848,1193,Aarav Verma,Female,51,Bhopal,2024-11-03,Home & Kitchen,1555.0,2,0.0,Cash on Delivery,Delivered,3110.0
+ORD-00849,1222,Aditya Gupta,Male,44,Pune,2024-11-04,Electronics,8648.0,2,10.0,UPI,Delivered,15566.4
+ORD-00850,1208,Aarav Singh,Female,34,Indore,2024-11-04,Clothing,860.0,2,15.0,Credit Card,Shipped,1462.0
+ORD-00851,1041,Simran Gupta,Male,36,Bhopal,2024-11-04,Clothing,1188.0,2,0.0,Credit Card,Cancelled,2376.0
+ORD-00852,1295,Deepak Mishra,Male,24,Delhi,2024-11-05,Home & Kitchen,1898.0,1,10.0,UPI,Delivered,1708.2
+ORD-00853,1050,Sanjay Verma,Male,30,Bhopal,2024-11-05,Clothing,1110.0,1,5.0,UPI,Delivered,1054.5
+ORD-00854,1124,Manish Gupta,Male,45,Mumbai,2024-11-05,Clothing,671.0,1,0.0,UPI,Delivered,671.0
+ORD-00855,1196,Isha Verma,Female,37,Indore,2024-11-05,Beauty,733.0,1,5.0,UPI,Shipped,696.35
+ORD-00856,1122,Vivaan Singh,Male,25,Mumbai,2024-11-06,Clothing,636.0,5,0.0,UPI,Cancelled,3180.0
+ORD-00857,1073,Vikram Mishra,Male,30,Bangalore,2024-11-06,Clothing,940.0,2,20.0,Cash on Delivery,Delivered,1504.0
+ORD-00858,1278,Vikram Joshi,Female,37,Bhopal,2024-11-06,Clothing,940.0,2,5.0,Debit Card,Delivered,1786.0
+ORD-00859,1022,Isha Patel,Male,36,Indore,2024-11-06,Electronics,9806.0,1,0.0,Net Banking,Delivered,9806.0
+ORD-00860,1074,Aarav Malviya,Male,52,Delhi,2024-11-06,Books,497.0,2,0.0,Credit Card,Delivered,994.0
+ORD-00861,1298,Priya Mishra,Female,19,Mumbai,2024-11-07,Clothing,687.0,2,0.0,Debit Card,Returned,1374.0
+ORD-00862,1219,Amit Yadav,Male,33,Delhi,2024-11-07,Electronics,7629.0,1,20.0,Debit Card,Delivered,6103.2
+ORD-00863,1027,Anjali Gupta,Female,28,Indore,2024-11-08,Sports,2601.0,1,0.0,UPI,Delivered,2601.0
+ORD-00864,1227,Pooja Sharma,Female,38,Bhopal,2024-11-08,Beauty,636.0,2,0.0,UPI,Delivered,1272.0
+ORD-00865,1291,Vivaan Mishra,Female,30,Delhi,2024-11-08,Books,265.0,2,0.0,Credit Card,Delivered,530.0
+ORD-00866,1030,Isha Singh,Male,42,Bangalore,2024-11-09,Beauty,407.0,5,15.0,Cash on Delivery,Returned,1729.75
+ORD-00867,1125,Manish Sharma,Female,32,Bangalore,2024-11-09,Sports,2125.0,1,5.0,Credit Card,Delivered,2018.75
+ORD-00868,1141,Neha Gupta,Female,41,Indore,2024-11-09,Clothing,1066.0,2,10.0,UPI,Delivered,1918.8
+ORD-00869,1040,Amit Singh,Female,41,Bangalore,2024-11-09,Home & Kitchen,2010.0,1,0.0,Net Banking,Delivered,2010.0
+ORD-00870,1061,Sneha Singh,Female,23,Indore,2024-11-10,Home & Kitchen,1898.0,1,0.0,UPI,Returned,1898.0
+ORD-00871,1053,Manish Jain,Female,19,Bhopal,2024-11-10,Clothing,905.0,3,20.0,Net Banking,Returned,2172.0
+ORD-00872,1056,Neha Jain,Female,30,Pune,2024-11-11,Clothing,839.0,1,0.0,Cash on Delivery,Delivered,839.0
+ORD-00873,1122,Vivaan Singh,Male,25,Mumbai,2024-11-11,Electronics,6774.0,2,0.0,Cash on Delivery,Delivered,13548.0
+ORD-00874,1140,Vivaan Sharma,Female,19,Bangalore,2024-11-11,Unknown,440.0,2,10.0,Cash on Delivery,Delivered,792.0
+ORD-00875,1072,Neha Gupta,Male,36,Pune,2024-11-12,Beauty,571.0,1,0.0,UPI,Delivered,571.0
+ORD-00876,1087,Manish Jain,Female,31,Bhopal,2024-11-12,Books,380.0,5,0.0,Debit Card,Delivered,1900.0
+ORD-00877,1058,Rahul Joshi,Female,31,Pune,2024-11-14,Clothing,1288.0,2,15.0,Cash on Delivery,Pending,2189.6
+ORD-00878,1239,Deepak Sharma,Male,37,Bangalore,2024-11-14,Clothing,977.0,3,5.0,Debit Card,Cancelled,2784.45
+ORD-00879,1064,Vivaan Jain,Male,19,Indore,2024-11-16,Home & Kitchen,2080.0,2,0.0,UPI,Delivered,4160.0
+ORD-00880,1273,Deepak Sharma,Male,44,Indore,2024-11-17,Home & Kitchen,1898.0,5,0.0,UPI,Delivered,9490.0
+ORD-00881,1162,Sanjay Yadav,Male,19,Bangalore,2024-11-17,Sports,1673.0,1,15.0,UPI,Delivered,1422.05
+ORD-00882,1241,Neha Mishra,Female,36,Bangalore,2024-11-17,Beauty,449.0,2,0.0,Credit Card,Delivered,898.0
+ORD-00883,1191,Aarav Yadav,Female,28,Indore,2024-11-17,Sports,2834.0,3,0.0,Credit Card,Delivered,8502.0
+ORD-00884,1080,Rahul Jain,Female,25,Bhopal,2024-11-18,Beauty,879.0,1,10.0,Cash on Delivery,Delivered,791.1
+ORD-00885,1181,Deepak Mishra,Male,43,Bhopal,2024-11-19,Sports,1689.0,1,10.0,Cash on Delivery,Returned,1520.1
+ORD-00886,1083,Sneha Mishra,Female,31,Delhi,2024-11-19,Home & Kitchen,1435.0,5,25.0,Debit Card,Delivered,5381.25
+ORD-00887,1036,Manish Verma,Female,20,Bhopal,2024-11-20,Electronics,7127.0,2,5.0,UPI,Pending,13541.3
+ORD-00888,1077,Simran Malviya,Female,23,Pune,2024-11-21,Electronics,9056.0,3,0.0,Credit Card,Delivered,27168.0
+ORD-00889,1083,Sneha Mishra,Female,31,Delhi,2024-11-21,Clothing,1044.0,2,5.0,UPI,Delivered,1983.6
+ORD-00890,1041,Simran Gupta,Male,36,Bhopal,2024-11-22,Clothing,1096.0,4,10.0,UPI,Delivered,3945.6
+ORD-00891,1008,Isha Jain,Female,41,Indore,2024-11-22,Electronics,11317.0,4,0.0,UPI,Cancelled,45268.0
+ORD-00892,1284,Karan Malviya,Male,24,Bangalore,2024-11-22,Sports,1904.0,2,10.0,UPI,Delivered,3427.2
+ORD-00893,1155,Priya Verma,Male,35,Mumbai,2024-11-23,Electronics,9543.0,1,0.0,UPI,Delivered,9543.0
+ORD-00894,1121,Aditya Joshi,Female,24,Bhopal,2024-11-24,Sports,2428.0,1,15.0,Credit Card,Shipped,2063.8
+ORD-00895,1279,Isha Mishra,Female,34,Pune,2024-11-25,Books,306.0,2,15.0,UPI,Unknown,520.2
+ORD-00896,1068,Manish Patel,Female,31,Bhopal,2024-11-25,Home & Kitchen,2550.0,4,5.0,UPI,Delivered,9690.0
+ORD-00897,1121,Aditya Joshi,Female,24,Bhopal,2024-11-25,Books,240.0,2,25.0,UPI,Delivered,360.0
+ORD-00898,1255,Neha Malviya,Male,50,Indore,2024-11-26,Clothing,1117.0,1,25.0,Debit Card,Delivered,837.75
+ORD-00899,1190,Anjali Malviya,Female,35,Bangalore,2024-11-26,Home & Kitchen,2259.0,1,0.0,Credit Card,Pending,2259.0
+ORD-00900,1120,Priya Singh,Female,19,Delhi,2024-11-26,Electronics,8648.0,2,5.0,UPI,Delivered,16431.2
+ORD-00901,1077,Simran Malviya,Female,23,Pune,2024-11-26,Sports,2347.0,4,10.0,UPI,Delivered,8449.2
+ORD-00902,1011,Rahul Patel,Male,26,Mumbai,2024-11-28,Clothing,801.0,1,0.0,Net Banking,Delivered,801.0
+ORD-00903,1026,Manish Verma,Female,47,Delhi,2024-11-28,Clothing,1210.0,2,5.0,Credit Card,Delivered,2299.0
+ORD-00904,1049,Karan Singh,Female,29,Mumbai,2024-11-29,Books,453.0,3,0.0,Debit Card,Cancelled,1359.0
+ORD-00905,1236,Isha Mishra,Male,37,Bhopal,2024-11-30,Books,368.0,5,25.0,Credit Card,Shipped,1380.0
+ORD-00906,1192,Simran Malviya,Female,21,Indore,2024-12-01,Home & Kitchen,2324.0,1,5.0,Cash on Delivery,Delivered,2207.8
+ORD-00907,1131,Manish Verma,Female,40,Indore,2024-12-01,Home & Kitchen,1514.0,5,15.0,Cash on Delivery,Cancelled,6434.5
+ORD-00908,1235,Rohan Yadav,Male,28,Bangalore,2024-12-02,Electronics,9044.0,2,5.0,UPI,Delivered,17183.6
+ORD-00909,1049,Karan Singh,Female,29,Mumbai,2024-12-02,Books,483.0,3,0.0,Debit Card,Delivered,1449.0
+ORD-00910,1064,Vivaan Jain,Male,19,Indore,2024-12-02,Unknown,775.5,1,20.0,UPI,Delivered,620.4
+ORD-00911,1118,Pooja Jain,Female,26,Pune,2024-12-02,Clothing,932.0,2,0.0,Debit Card,Shipped,1864.0
+ORD-00912,1276,Deepak Patel,Male,43,Indore,2024-12-03,Electronics,11648.0,2,0.0,UPI,Delivered,23296.0
+ORD-00913,1185,Aarav Jain,Male,40,Indore,2024-12-03,Clothing,1187.0,1,5.0,UPI,Delivered,1127.65
+ORD-00914,1256,Vikram Jain,Male,23,Indore,2024-12-03,Clothing,1259.0,2,0.0,Net Banking,Shipped,2518.0
+ORD-00915,1075,Deepak Sharma,Male,32,Bhopal,2024-12-04,Home & Kitchen,1898.0,2,0.0,Cash on Delivery,Delivered,3796.0
+ORD-00916,1255,Neha Malviya,Male,50,Indore,2024-12-04,Electronics,11975.0,2,0.0,UPI,Cancelled,23950.0
+ORD-00917,1022,Isha Patel,Male,36,Indore,2024-12-04,Electronics,5898.0,1,0.0,Net Banking,Delivered,5898.0
+ORD-00918,1069,Sanjay Sharma,Male,33,Bhopal,2024-12-04,Home & Kitchen,1920.0,2,0.0,UPI,Delivered,3840.0
+ORD-00919,1157,Aditya Malviya,Female,32,Pune,2024-12-04,Electronics,16053.125,1,0.0,Credit Card,Delivered,16053.12
+ORD-00920,1016,Pooja Malviya,Male,52,Indore,2024-12-04,Books,462.0,4,5.0,Cash on Delivery,Delivered,1755.6
+ORD-00921,1258,Vikram Verma,Male,26,Bangalore,2024-12-04,Sports,3119.0,5,0.0,UPI,Delivered,15595.0
+ORD-00922,1261,Anjali Verma,Male,48,Indore,2024-12-04,Clothing,1132.0,1,0.0,Credit Card,Delivered,1132.0
+ORD-00923,1163,Vikram Malviya,Female,19,Mumbai,2024-12-05,Sports,2561.0,1,10.0,Debit Card,Cancelled,2304.9
+ORD-00924,1092,Pooja Singh,Male,29,Indore,2024-12-05,Electronics,7877.0,1,15.0,UPI,Pending,6695.45
+ORD-00925,1030,Isha Singh,Male,42,Bangalore,2024-12-05,Electronics,8474.0,2,0.0,Credit Card,Pending,16948.0
+ORD-00926,1186,Priya Singh,Male,41,Mumbai,2024-12-05,Books,370.0,4,0.0,UPI,Delivered,1480.0
+ORD-00927,1162,Sanjay Yadav,Male,19,Bangalore,2024-12-05,Books,216.0,2,0.0,Debit Card,Delivered,432.0
+ORD-00928,1228,Amit Joshi,Female,47,Bhopal,2024-12-05,Beauty,654.0,1,25.0,UPI,Delivered,490.5
+ORD-00929,1181,Deepak Mishra,Male,43,Bhopal,2024-12-06,Electronics,10963.0,1,0.0,UPI,Delivered,10963.0
+ORD-00930,1039,Priya Malviya,Male,21,Bangalore,2024-12-06,Beauty,805.0,1,0.0,Debit Card,Shipped,805.0
+ORD-00931,1037,Pooja Verma,Male,38,Indore,2024-12-07,Clothing,1185.0,4,5.0,UPI,Delivered,4503.0
+ORD-00932,1235,Rohan Yadav,Male,28,Bangalore,2024-12-07,Clothing,856.0,2,0.0,Credit Card,Delivered,1712.0
+ORD-00933,1048,Ritu Malviya,Male,39,Delhi,2024-12-08,Electronics,8648.0,2,0.0,Debit Card,Delivered,17296.0
+ORD-00934,1282,Pooja Verma,Female,19,Bhopal,2024-12-08,Sports,1386.0,1,0.0,Cash on Delivery,Delivered,1386.0
+ORD-00935,1032,Anjali Yadav,Male,19,Indore,2024-12-08,Electronics,7558.0,5,10.0,UPI,Delivered,34011.0
+ORD-00936,1219,Amit Yadav,Male,33,Delhi,2024-12-08,Beauty,668.0,1,10.0,Cash on Delivery,Delivered,601.2
+ORD-00937,1293,Sneha Yadav,Male,34,Mumbai,2024-12-09,Home & Kitchen,1493.0,4,10.0,Debit Card,Delivered,5374.8
+ORD-00938,1133,Vikram Joshi,Female,40,Delhi,2024-12-09,Books,220.0,4,15.0,UPI,Delivered,748.0
+ORD-00939,1018,Ritu Sharma,Female,21,Indore,2024-12-09,Unknown,427.0,2,0.0,Cash on Delivery,Delivered,854.0
+ORD-00941,1057,Amit Gupta,Female,19,Bhopal,2024-12-10,Electronics,7793.0,1,15.0,Debit Card,Delivered,6624.05
+ORD-00942,1159,Isha Jain,Female,36,Delhi,2024-12-10,Electronics,16053.125,3,15.0,Credit Card,Delivered,40935.47
+ORD-00943,1296,Deepak Yadav,Male,41,Indore,2024-12-10,Home & Kitchen,1951.0,1,15.0,Debit Card,Delivered,1658.35
+ORD-00944,1224,Priya Yadav,Female,26,Indore,2024-12-11,Clothing,895.0,2,5.0,Net Banking,Delivered,1700.5
+ORD-00945,1014,Sneha Mishra,Male,22,Mumbai,2024-12-11,Electronics,8213.0,1,0.0,Credit Card,Cancelled,8213.0
+ORD-00946,1247,Manish Singh,Male,19,Indore,2024-12-12,Electronics,8982.0,1,5.0,Cash on Delivery,Delivered,8532.9
+ORD-00947,1049,Karan Singh,Female,29,Mumbai,2024-12-13,Clothing,545.0,1,0.0,Debit Card,Returned,545.0
+ORD-00948,1225,Rahul Malviya,Male,23,Delhi,2024-12-13,Electronics,11335.0,1,5.0,Cash on Delivery,Pending,10768.25
+ORD-00949,1187,Sneha Patel,Male,40,Bhopal,2024-12-13,Electronics,5312.0,2,0.0,Net Banking,Delivered,10624.0
+ORD-00950,1087,Manish Jain,Female,31,Bhopal,2024-12-13,Sports,2213.0,2,0.0,UPI,Delivered,4426.0
+ORD-00951,1128,Kavya Verma,Female,44,Bhopal,2024-12-13,Clothing,708.0,1,20.0,UPI,Delivered,566.4
+ORD-00952,1036,Manish Verma,Female,20,Bhopal,2024-12-15,Sports,2357.0,5,10.0,Credit Card,Delivered,10606.5
+ORD-00953,1297,Karan Yadav,Female,35,Indore,2024-12-16,Sports,1875.0,5,10.0,Credit Card,Delivered,8437.5
+ORD-00954,1072,Neha Gupta,Male,36,Pune,2024-12-16,Electronics,10992.0,1,0.0,Credit Card,Delivered,10992.0
+ORD-00955,1093,Pooja Gupta,Female,19,Bhopal,2024-12-16,Books,335.0,2,10.0,Cash on Delivery,Delivered,603.0
+ORD-00956,1151,Anjali Mishra,Male,42,Delhi,2024-12-16,Home & Kitchen,2115.0,6,20.0,Net Banking,Delivered,10152.0
+ORD-00957,1202,Priya Yadav,Female,35,Indore,2024-12-16,Books,288.0,3,10.0,Credit Card,Delivered,777.6
+ORD-00958,1152,Aarav Mishra,Female,23,Pune,2024-12-17,Electronics,4940.0,2,10.0,Debit Card,Delivered,8892.0
+ORD-00959,1152,Aarav Mishra,Female,23,Pune,2024-12-18,Electronics,7710.0,3,5.0,UPI,Returned,21973.5
+ORD-00960,1175,Rohan Verma,Male,31,Bangalore,2024-12-18,Electronics,8663.0,1,0.0,Credit Card,Delivered,8663.0
+ORD-00961,1258,Vikram Verma,Male,26,Bangalore,2024-12-19,Home & Kitchen,1824.0,1,10.0,UPI,Delivered,1641.6
+ORD-00962,1119,Kavya Gupta,Male,26,Bhopal,2024-12-19,Sports,3225.0,3,25.0,Credit Card,Returned,7256.25
+ORD-00963,1250,Simran Gupta,Male,34,Bhopal,2024-12-19,Books,433.0,2,5.0,Credit Card,Delivered,822.7
+ORD-00964,1237,Sneha Gupta,Female,29,Bhopal,2024-12-19,Books,524.0,4,5.0,Debit Card,Delivered,1991.2
+ORD-00965,1289,Simran Joshi,Male,42,Delhi,2024-12-20,Sports,2296.5,1,5.0,Debit Card,Delivered,2181.67
+ORD-00966,1274,Sneha Joshi,Female,30,Indore,2024-12-20,Books,459.0,1,5.0,UPI,Delivered,436.05
+ORD-00967,1240,Kavya Verma,Female,30,Bhopal,2024-12-20,Electronics,8800.0,1,25.0,UPI,Cancelled,6600.0
+ORD-00968,1075,Deepak Sharma,Male,32,Bhopal,2024-12-20,Beauty,748.0,1,15.0,UPI,Delivered,635.8
+ORD-00969,1233,Aarav Yadav,Male,36,Delhi,2024-12-20,Clothing,1339.0,1,5.0,Net Banking,Delivered,1272.05
+ORD-00970,1221,Vikram Patel,Female,45,Pune,2024-12-20,Electronics,9509.0,2,5.0,Net Banking,Delivered,18067.1
+ORD-00971,1087,Manish Jain,Female,31,Bhopal,2024-12-20,Home & Kitchen,2536.0,2,5.0,UPI,Delivered,4818.4
+ORD-00972,1204,Sneha Verma,Male,33,Mumbai,2024-12-21,Sports,2757.0,6,0.0,UPI,Delivered,16542.0
+ORD-00973,1076,Ritu Malviya,Male,51,Indore,2024-12-22,Clothing,643.0,1,5.0,Credit Card,Shipped,610.85
+ORD-00974,1157,Aditya Malviya,Female,32,Pune,2024-12-22,Home & Kitchen,2213.0,1,15.0,Debit Card,Unknown,1881.05
+ORD-00975,1240,Kavya Verma,Female,30,Bhopal,2024-12-22,Electronics,8287.0,3,10.0,UPI,Delivered,22374.9
+ORD-00976,1057,Amit Gupta,Female,19,Bhopal,2024-12-22,Electronics,11415.0,1,0.0,UPI,Delivered,11415.0
+ORD-00977,1102,Pooja Singh,Female,38,Delhi,2024-12-23,Electronics,10609.0,4,15.0,Credit Card,Cancelled,36070.6
+ORD-00978,1239,Deepak Sharma,Male,37,Bangalore,2024-12-23,Books,243.0,1,15.0,UPI,Delivered,206.55
+ORD-00979,1137,Rohan Yadav,Male,34,Bhopal,2024-12-23,Beauty,654.0,2,0.0,UPI,Delivered,1308.0
+ORD-00980,1289,Simran Joshi,Male,42,Delhi,2024-12-23,Electronics,5301.0,2,10.0,UPI,Delivered,9541.8
+ORD-00981,1003,Sneha Mishra,Female,38,Bangalore,2024-12-24,Clothing,940.0,2,10.0,Debit Card,Pending,1692.0
+ORD-00982,1217,Deepak Verma,Male,38,Mumbai,2024-12-24,Electronics,8648.0,2,15.0,Credit Card,Delivered,14701.6
+ORD-00983,1245,Manish Singh,Male,48,Indore,2024-12-25,Electronics,10010.0,3,0.0,UPI,Pending,30030.0
+ORD-00984,1276,Deepak Patel,Male,43,Indore,2024-12-25,Home & Kitchen,1975.0,1,0.0,Credit Card,Delivered,1975.0
+ORD-00985,1048,Ritu Malviya,Male,39,Delhi,2024-12-25,Books,473.0,3,5.0,Credit Card,Cancelled,1348.05
+ORD-00986,1296,Deepak Yadav,Male,41,Indore,2024-12-25,Home & Kitchen,1533.0,4,0.0,Cash on Delivery,Cancelled,6132.0
+ORD-00987,1118,Pooja Jain,Female,26,Pune,2024-12-25,Clothing,961.0,5,5.0,Net Banking,Delivered,4564.75
+ORD-00988,1106,Neha Jain,Female,47,Bhopal,2024-12-25,Home & Kitchen,1270.0,2,15.0,UPI,Delivered,2159.0
+ORD-00989,1107,Manish Gupta,Male,29,Indore,2024-12-26,Electronics,11169.0,1,0.0,Cash on Delivery,Delivered,11169.0
+ORD-00990,1192,Simran Malviya,Female,21,Indore,2024-12-26,Electronics,6060.0,3,5.0,Debit Card,Delivered,17271.0
+ORD-00991,1198,Isha Mishra,Female,34,Indore,2024-12-26,Sports,1523.0,2,25.0,Debit Card,Delivered,2284.5
+ORD-00992,1143,Sneha Yadav,Female,24,Indore,2024-12-27,Books,275.0,1,5.0,UPI,Delivered,261.25
+ORD-00993,1022,Isha Patel,Male,36,Indore,2024-12-27,Sports,2916.0,1,5.0,UPI,Returned,2770.2
+ORD-00994,1296,Deepak Yadav,Male,41,Indore,2024-12-27,Sports,1530.0,1,10.0,UPI,Delivered,1377.0
+ORD-00995,1067,Vivaan Joshi,Female,36,Mumbai,2024-12-28,Home & Kitchen,2075.0,2,0.0,UPI,Delivered,4150.0
+ORD-00996,1029,Rahul Verma,Female,39,Indore,2024-12-28,Sports,2797.0,1,0.0,Debit Card,Delivered,2797.0
+ORD-00997,1180,Vivaan Jain,Male,25,Bhopal,2024-12-28,Clothing,1148.0,1,10.0,Credit Card,Delivered,1033.2
+ORD-00998,1124,Manish Gupta,Male,45,Mumbai,2024-12-29,Electronics,6168.0,1,5.0,Credit Card,Delivered,5859.6
+ORD-00999,1185,Aarav Jain,Male,40,Indore,2024-12-30,Electronics,5244.0,5,0.0,UPI,Delivered,26220.0
+ORD-01000,1263,Priya Patel,Female,31,Delhi,2024-12-30,Electronics,8031.0,1,0.0,UPI,Delivered,8031.0
