@@ -1,0 +1,44 @@
+step,column,issue,action,rows_affected
+Standardise,ALL text columns,"whitespace + placeholder tokens (?, -, N/A)",strip whitespace; placeholders -> NaN,122
+Standardise,gender,10 spelling variants,mapped to 2 canonical labels,366
+Standardise,city,16 spelling variants,mapped to 6 canonical labels,424
+Standardise,product_category,16 spelling variants,mapped to 6 canonical labels,474
+Standardise,payment_method,13 spelling variants,mapped to 5 canonical labels,432
+Standardise,delivery_status,15 spelling variants,mapped to 5 canonical labels,451
+Standardise,customer_name,mixed case / extra spaces,collapse spaces + Title Case,629
+Standardise,customer_id,numbers stored as text (symbols/commas/units),"stripped symbols, to_numeric",1035
+Standardise,age,numbers stored as text (symbols/commas/units),"stripped symbols, to_numeric",962
+Standardise,quantity,numbers stored as text (symbols/commas/units),"stripped symbols, to_numeric",1015
+Standardise,unit_price,numbers stored as text (symbols/commas/units),"stripped symbols, to_numeric",993
+Standardise,discount_pct,numbers stored as text (symbols/commas/units),"stripped symbols, to_numeric",984
+Standardise,total_amount,numbers stored as text (symbols/commas/units),"stripped symbols, to_numeric",1003
+Standardise,order_date,4 different date formats,"explicit-format parsing, day-first",1025
+Duplicates,ALL,exact duplicate rows,drop_duplicates (keep first),30
+Duplicates,order_id,"same order_id, rows differ slightly",keep copy with fewest nulls,15
+Missing data,age,impossible value (outside business rule),"set to NaN, then imputed",12
+Missing data,quantity,impossible value (outside business rule),"set to NaN, then imputed",6
+Missing data,unit_price,impossible value (outside business rule),"set to NaN, then imputed",4
+Missing data,discount_pct,impossible value (outside business rule),"set to NaN, then imputed",7
+Missing data,customer_id,missing primary key,delete row,10
+Missing data,order_date,19 missing,forward fill by order_id (bfill for first row),19
+Missing data,customer_name,20 missing,filled from same customer's other orders,20
+Missing data,gender,48 missing,filled from same customer's other orders,48
+Missing data,age,92 missing,filled from same customer's other orders,92
+Missing data,city,39 missing,filled from same customer's other orders,39
+Missing data,age,2 missing,median (fallback),2
+Missing data,gender,2 missing,constant 'Unknown' (fallback),2
+Missing data,city,1 missing,constant 'Unknown' (fallback),1
+Missing data,customer_name,0 missing,constant 'Unknown' (fallback),0
+Missing data,product_category,19 missing,constant 'Unknown',19
+Missing data,delivery_status,17 missing,constant 'Unknown',17
+Missing data,payment_method,41 missing,mode,41
+Missing data,quantity,35 missing,median (rounded),35
+Missing data,unit_price,50 missing,median of same product category,50
+Missing data,unit_price,0 missing,global median (fallback),0
+Missing data,discount_pct,65 missing,constant 0 (no discount recorded),65
+Missing data,total_amount,40 missing,derived from quantity x price x (1 - discount),40
+Outliers,quantity,extreme values (> 6),capped at IQR upper fence (6),8
+Outliers,unit_price,extreme values vs own category,capped at category IQR upper fence,11
+Outliers,age,IQR-flagged but plausible,retained,3
+Outliers,total_amount,inconsistent after capping / imputation,recomputed from cleaned inputs,132
+Dtypes,ALL,wrong storage types,"IDs->string, labels->category, counts->Int64, money->float, dates->datetime",14
