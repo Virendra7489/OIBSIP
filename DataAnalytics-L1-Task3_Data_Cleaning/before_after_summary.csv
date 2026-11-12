@@ -1,0 +1,8 @@
+Metric,Before,After
+Row count,1045,990
+Missing values (nulls + placeholders),496,0
+Exact duplicate rows,20,0
+Duplicate order_id (same order twice),45,0
+Impossible / unparseable values,29,0
+Columns with correct dtype,8/14,14/14
+Dtype accuracy (%),57.1,100.0
