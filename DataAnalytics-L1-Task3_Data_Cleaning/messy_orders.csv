@@ -1,0 +1,1046 @@
+order_id,customer_id,customer_name,gender,age,city,order_date,product_category,unit_price,quantity,discount_pct,payment_method,delivery_status,total_amount
+ORD-00363,1094,Rohan  Patel,Female,42,Indore,04/05/2024,home and kitchen,"₹1,308.00",4,0,Credit Card,Cancelled,5232.00
+ORD-00804,1076,,M,51,Indore,14/10/2024,Books,₹503.00,1,0,UPI,Delivered,503.00
+ORD-00267,-,Aarav Mishra,Female,23,Pune,2024-04-04,electronics,7913.00,3,0,UPI,Delivered,23739.00
+ORD-00823,1063,Ritu Joshi,Male,39,Indore,21-Oct-2024,electronics,,4,5,Upi,Delivered,27952.80
+ORD-00571,1272,Rohan Verma,Female,27,Delhi,15/07/2024,Electronics,"11,725",3,0,debit card,shipped,35175.00
+ORD-00572,1129,Kavya Verma,Male,24,Bhopal,"July 15, 2024",Electronics,5412.00,1,25,Upi,Shipped,4059.00
+ORD-00508,1055,Pooja Jain,Male,-,indore,25-Jun-2024,Home & Kitchen,"₹2,263.00",1,15,Debit Card,Delivered,1923.55
+ORD-00256,1057,Amit Gupta,FEMALE,19,bhopal,"April 01, 2024",clothing,1149.00,1,0,CC,returned,N/A
+ORD-00523,1215,Aarav Jain,Male,21,Indore,2024-07-02,Clothing,"₹1,275.00",4,20,CC,Delivered,4080.00
+ORD-00941,1057,Amit Gupta,Female ,19,Bhopal,2024-12-10,electronics,"Rs. 7,793",1,15,Debit Card,delivered,6624.05
+ORD-00646,1039,Priya  Malviya,Male,21,bangalore,13/08/2024,Books,₹400.00,1,0,Upi,Delivered,400.00
+ORD-00816,1002,KAVYA GUPTA,Male,NA,Delhi,19-Oct-2024,Clothes,"1,185",2,15,UPI,Delivered,2014.50
+ORD-00988,1106,NEHA JAIN,FEMALE,47,Bhopal,2024-12-25,home and kitchen,1270.00,2,15,upi,Delivered,"₹2,159.00"
+ORD-00773,1001,VIVAAN JAIN,Female,46,Indore ,03/10/2024,clothing,897.00,1,5,net banking,Cancelled,852.15
+ORD-00615,1169,VIKRAM PATEL,Male,43,bhopal,"August 02, 2024",Sports,"Rs. 1,382",3,0,UPI,Delivered,
+ORD-00932,1235,Rohan Yadav, Male,28,Bengaluru,07-Dec-2024,Clothes,₹856.00,2,0,CC,DELIVERED,1712.00
+ORD-00760,1089,  Isha Verma ,,19,INDORE,"September 30, 2024",Home&Kitchen,1780.00,,10,credit card,Delivered,1602.00
+ORD-00703,1188,Ritu Sharma,Male,37,INDORE,07/09/2024,electronics,8217.00,2,0,debit card,DELIVERED,16434.00
+ORD-00570,1235,Rohan  Yadav,M,28,Bangalore,14-Jul-2024,Clothing,"Rs. 1,154",1,15,Upi,Delivered,980.90
+ORD-00156,1118,  Pooja Jain ,female,26,pune,25-Feb-2024,Books,309.00,3,20,Cash on Delivery,Delivered,741.60
+ORD-00746,1095,Karan Patel,MALE,37,Indore,25/09/2024,Home & Kitchen,1192.00,1,-,Debit Card,PENDING,1132.40
+ORD-00198,1201,Vikram  Jain,Female,38,Indore ,10-Mar-2024,Home&Kitchen,,4,5,Net Banking,Returned,7280.80
+ORD-00190,1078,Sneha Singh,male,40,bhopal,"March 08, 2024",ELECTRONICS,"9,782",1,10,Credit Card,Returned,8803.80
+ORD-00914,1256,vikram jain, Male,23,,"December 03, 2024",Clothes,"₹1,259.00",2,,Net Banking,Shipped,2266.20
+ORD-00305,1035,Vivaan  Gupta, Male,36,Bhopal,17-Apr-2024,Electronics,11793.00,1,,cod,Delivered,11793.00
+ORD-00881,1162,  Sanjay Yadav ,Male,,Bengaluru,17/11/2024,sports,1673.00,1,15,UPI,delivered,1422.05
+ORD-00647,1213,SNEHA VERMA,Male,-,,13-Aug-2024,Sports,"Rs. 1,755",5,15,UPI,shipped,"₹7,458.75"
+ORD-00767,1189,Isha  Jain,FEMALE,19,Bangalore,02/10/2024,beauty ,508.00,2,0,UPI,Cancelled,1016.00
+ORD-00005,1032,Anjali Yadav,NA,19,Indore,04-Jan-2024,Home & Kitchen,2036.00,1,20,CC,Delivered,1628.80
+ORD-00597,1147,Vikram Patel,Female,19,Delhi,2024-07-24,Clothing,668.00,3,15,Cash on Delivery,delivered,1703.40
+ORD-00248,1161,Priya Verma,Female,42,Bhopal,30/03/2024,home and kitchen,"Rs. 2,599",1,0,?,Shipped,2599.00
+ORD-00507,1127,,Male,33 yrs,mumbai,2024-06-24,clothing,1214.00,1,0,Cash on Delivery,DELIVERED,1214.00
+ORD-00742,1262,ROHAN MISHRA,M,52,bhopal,2024-09-24,electronics,7863.00,1,0,credit card,Delivered,7863.00
+ORD-00200,1016,POOJA MALVIYA,Male,-,Indore,12-Mar-2024,Clothes,950.00,4,0,Debit Card,Delivered,"₹3,800.00"
+ORD-00052,1065,  Amit Singh ,Female,41,Bangalore,,Books,235.00,5,10,cod,Cancelled,1057.50
+ORD-00181,1291,VIVAAN MISHRA,Female ,30,delhi,05-Mar-2024,Electronics,"Rs. 6,733",2,20,Upi,Delivered,10772.80
+ORD-00228,1002,kavya gupta, Male,-,Delhi,"March 22, 2024",Home & Kitchen,"Rs. 1,613",4,15,Credit Card,Delivered,5484.20
+ORD-00672,1141,  Neha Gupta ,Female,41 yrs,Indore,25-Aug-2024,electronics,"₹9,966.00",1,0,Upi,Delivered,9966.00
+ORD-00066,1097,Sanjay Patel,F,21,Bhopal,23-Jan-2024,Beauty,₹802.00,1,5,UPI,Shipped,761.90
+ORD-00894,1121,Aditya  Joshi,female,24,N/A,2024-11-24,Sports,"Rs. 2,428",1,15,CC,Shipped,2063.80
+ORD-00191,1158,Karan  Singh, Male,37,Bhopal,08/03/2024,Home & Kitchen,2130.00,3,0,Cash on Delivery,Shipped,"₹6,390.00"
+ORD-00059,1157,aditya malviya,,32 yrs,pune,21/01/2024,Home & Kitchen,2317.00,4,20,Cash on Delivery,DELIVERED,"₹7,414.40"
+ORD-00074,1080,Rahul  Jain,Female,25,bhopal,2024-01-27,clothing,763,2,25,Upi,Delivered,1144.50
+ORD-00148,1130,rohan joshi,FEMALE,25,bhopal,"February 21, 2024",Home & Kitchen,1988.00,5,10,UPI,Shipped,8946.00
+ORD-00129,1239,deepak sharma, Male,37,Bangalore,2024-02-15,Clothing,1255.00,1,10,UPI,Delivered,1129.50
+ORD-00058,1127,Rohan Patel,male,33,Mumbai,21/01/2024,Books,Rs. 269,2,0,UPI,DELIVERED,538.00
+ORD-00271,1192,simran malviya,Female,?,indore,"April 05, 2024",Sports,"2,437",5,N/A,UPI,cancelled,9138.75
+ORD-00122,1149,Deepak  Gupta,N/A,49,Indore,"February 13, 2024",Home & Kitchen,"2,610",1,15,Credit Card,Delivered,2218.50
+ORD-00289,1212,MANISH JOSHI,Female,23,delhi,11/04/2024,Clothes,"₹1,154.00",2,0,Credit Card,DELIVERED,2308.00
+ORD-00337,1298,  Priya Mishra ,Female,19,MUMBAI,N/A,clothing,11052.00,1,0,Cash on Delivery,Delivered,11052.00
+ORD-00620,1047,  Deepak Patel ,N/A,28,NA,04-Aug-2024,beauty ,,3,5,Debit Card,Pending,2670.45
+ORD-00727,1230,deepak verma,MALE,33,Indore,"September 18, 2024",home and kitchen,,1,10,Debit Card,Delivered,1356.30
+ORD-00120,1150,NEHA SHARMA,female,37,MUMBAI,12/02/2024,-,"Rs. 1,900",4,5,CC,Delivered,7220.00
+ORD-00146,1123,Sanjay Sharma,MALE,32,New Delhi,21-Feb-2024,Clothes,₹941.00,4,20,UPI,delivered,3011.20
+ORD-00386,1019,RITU MISHRA,Male,30,,"May 13, 2024",clothing,Rs. 576,1,N/A,net banking,DELIVERED,518.40
+ORD-00062,1041,Simran Gupta,male,36,bhopal,22/01/2024,Home&Kitchen,"₹2,635.00",5,25,credit card,PENDING,"₹9,881.25"
+ORD-00797,1169,VIKRAM PATEL,Male,43 yrs,Bhopal,"October 11, 2024",Beauty,498.00,2,5,credit card,Shipped,₹946.20
+ORD-00412,1039,Priya  Malviya,male,21 yrs,Bengaluru,26/05/2024,Beauty,₹754.00,1,5,cod,delivered,716.30
+ORD-00814,1064,  Vivaan Jain ,Male,19 yrs,Indore ,18/10/2024,home and kitchen,"₹1,590.00",4,0,UPI,Cancelled,"₹6,360.00"
+ORD-00969,1233,AARAV YADAV,Male,36,Delhi,20-Dec-2024,Clothing,"1,339",1,5,Net Banking,Delivered,"₹1,272.05"
+ORD-00322,1104,Manish  Yadav,Male,42,Bhopal,23-Apr-2024,home and kitchen,"₹1,159.00",3,0,upi,delivered,3477.00
+ORD-00783,1277,  Deepak Patel ,Female ,34,Bangalore,?,beauty ,₹638.00,4,10,upi,Cancelled,"₹2,296.80"
+ORD-00637,1237,Sneha  Gupta,Female,29,bhopal,"August 10, 2024",home and kitchen,"Rs. 1,904",1,20,UPI,delivered,1523.20
+ORD-00525,1229,Aditya  Singh,female,45,bhopal,02-Jul-2024,Clothing,"Rs. 1,009",1,20,Cash on Delivery,delivered,807.20
+ORD-00652,1021,  Rohan Jain ,f,42,delhi,16-Aug-2024,Clothes,921,,10,UPI,Delivered,1657.80
+ORD-00650,1212,Manish Joshi,f,23,Delhi,2024-08-14,Books,432.00,1,10,UPI,Pending,₹388.80
+ORD-00852,1295,DEEPAK MISHRA, Male,24,Delhi,2024-11-05,Home&Kitchen,,1,10,UPI,delivered,-
+ORD-00355,1062,Kavya Gupta,Male,40 yrs,Indore,02-May-2024,home and kitchen,"Rs. 1,379",4,0,net banking,Delivered,"₹5,516.00"
+ORD-00489,1188,Ritu  Sharma,Male,37,Indore,19/06/2024,Electronics,5141.00,2,20,UPI,PENDING,"₹8,225.60"
+ORD-00811,1222,  Aditya Gupta ,Male,44 yrs,Pune,2024-10-18,Clothing,"₹1,124.00",2,20,Credit Card,Delivered,1798.40
+ORD-00826,1156,kavya singh,male,39,Bhopal,"October 22, 2024",sports,"1,566",2,25,UPI,N/A,"₹2,349.00"
+ORD-00447,1027,anjali gupta,Female ,28,indore,2024-06-06,sports,"Rs. 1,484",4,0,UPI,Shipped,5936.00
+ORD-00514,1202,priya yadav,Female,35 yrs,N/A,"June 28, 2024",clothing,1229.00,1,0,credit card,DELIVERED,1229.00
+ORD-00601,1180,Vivaan Jain,Male,25,bhopal,2024-07-26,Electronics,"10,547",2,15,COD,Delivered,17929.90
+ORD-00194,1279,Isha Mishra,FEMALE,34,pune,2024-03-09,Books,,1,5,Upi,DELIVERED,356.25
+ORD-00978,1239,  Deepak Sharma ,Male,37,Bengaluru,2024-12-23,books,243.00,1,15,UPI,DELIVERED,206.55
+ORD-00538,1299,Amit Jain,f,19,bhopal,06/07/2024,clothing,743.00,2,0,,delivered,1486.00
+ORD-00244,1233,AARAV YADAV, Male,36,New Delhi,"March 28, 2024",NA,"₹1,082.00",3,15,Credit Card,delivered,2759.10
+ORD-00100,1158,Karan Singh,Male,37 yrs,,2024-02-05,Home&Kitchen,"₹2,051.00",5,0,UPI,Delivered,-
+ORD-00857,1073,VIKRAM MISHRA,Male,30,bangalore,06/11/2024,Clothing,?,2,20,COD,delivered,1886.40
+ORD-00488,1260,POOJA JOSHI,Male,31,Bengaluru,19/06/2024,Beauty,565.00,2,0,,Delivered,N/A
+ORD-00071,1158,Karan  Singh,Male,37,Bhopal,"January 25, 2024",Home&Kitchen,"Rs. 1,251",3,15,upi,SHIPPED,3190.05
+ORD-00703,1188,Ritu  Sharma,MALE,37,Indore,"September 07, 2024",ELECTRONICS,8217.00,2,0,Debit Card,delivered,16434.00
+ORD-00764,1059,AARAV VERMA,MALE,31,INDORE,,electronics,"₹8,558.00",1,-10,UPI,Delivered,8130.10
+ORD-00655,1073,VIKRAM MISHRA,Male,30,Bangalore,18/08/2024,electronics,"₹7,275.00",3,N/A,N/A,Delivered,"₹18,551.25"
+ORD-00947,1049,Karan  Singh,Female ,29,Mumbai,13-Dec-2024,clothing,Rs. 545,1,0,debit card,Returned,₹545.00
+ORD-00963,1250,SIMRAN GUPTA,male,34,Bhopal,19-Dec-2024,Books,433,2,5,CC,Delivered,822.70
+ORD-00995,1067,Vivaan  Joshi,Female,36,Mumbai,2024-12-28,Home & Kitchen,2075.00,2,0,NA,Delivered,4150.00
+ORD-00902,1011,RAHUL PATEL,M,26,Mumbai,28-Nov-2024,clothing,₹801.00,1,0,Net Banking,delivered,801.00
+ORD-00834,1225,  Rahul Malviya ,M,23,Delhi,28/10/2024,books,253.00,1,15,UPI,Pending,215.05
+ORD-00594,1152,aarav mishra,female,23,Pune,"July 23, 2024",electronics,"Rs. 7,049",1,15,Credit Card,delivered,5991.65
+ORD-00822,1012,rohan yadav,Male,36,Indore ,"October 21, 2024",Beauty,?,1,5,UPI,DELIVERED,654.55
+ORD-00084,1030,  Isha Singh ,Male,42,Bangalore,29-Jan-2024,Home&Kitchen,"2,018",1,20,Net Banking,pending,1614.40
+ORD-00291,1220,Vivaan  Patel,Female,44,delhi,12/04/2024,Home & Kitchen,2464.00,3,0,?,DELIVERED,7392.00
+ORD-00877,1058,rahul joshi,Female,,Pune,14-Nov-2024,Clothing,1288.00,2,15,Cash on Delivery,PENDING,2189.60
+ORD-00088,1035,VIVAAN GUPTA,Male,36,Bhopal,01-Feb-2024,books,448.00,2,25,COD,Delivered,672.00
+ORD-00699,1189,  Isha Jain ,Female ,19,Bangalore,06-Sep-2024,Electronics,11145.00,1,,Cash on Delivery,Pending,"₹10,030.50"
+ORD-00331,1125,  Manish Sharma ,Female,32,Bengaluru,27-Apr-2024,Home&Kitchen,1572.00,1,0,Debit Card,Delivered,"₹1,572.00"
+ORD-00288,1086,ADITYA SHARMA,f,25,Pune,10/04/2024,home and kitchen,2242.00,2,25,Credit Card,delivered,3363.00
+ORD-00361,1117,aarav jain,Male,19,bhopal,2024-05-04,Sports,"₹1,927.00",2,20,Cash on Delivery,RETURNED,"₹3,083.20"
+ORD-00351,1144,Rohan  Joshi, Male,33,Indore,"May 02, 2024",Electronics,8503.00,3,0,Upi,Cancelled,25509.00
+ORD-00631,1051,Deepak Verma,Female,48,MUMBAI,08/08/2024,Electronics,"Rs. 6,837",1,0,Cash on Delivery,Delivered,6837.00
+ORD-00082,1279,Isha Mishra,FEMALE,34,pune,2024-01-29,Sports,"2,018",1,,debit card,DELIVERED,2018.00
+ORD-00887,1036,MANISH VERMA,Female,20,bhopal,20/11/2024,Electronics,7127.00,2,5,NA,Pending,13541.30
+ORD-00294,1008,Isha  Jain,Female,41 yrs,INDORE,13-Apr-2024,Sports,1321.00,2,0,CC,delivered,2642.00
+ORD-00408,1253,neha gupta,M,19 yrs,delhi,24-May-2024,electronics,7432.00,1,5,credit card,Delivered,"₹7,060.40"
+ORD-00910,1064,VIVAAN JAIN,Male,19,INDORE,2024-12-02,N/A,,1,20,UPI,delivered,638.40
+ORD-00086,1033,Sneha  Patel,f,39,Bangalore,31/01/2024,Clothing,₹934.00,4,15,UPI,DELIVERED,"₹3,175.60"
+ORD-00359,1157,  Aditya Malviya ,Female,32,pune,"May 04, 2024",Electronics,"8,277",1,0,Credit Card,Delivered,"₹8,277.00"
+ORD-00315,1280,  Manish Mishra ,MALE,37,Indore,,Home&Kitchen,"₹1,697.00",4,10,Upi,Delivered,6109.20
+ORD-00640,1045,Manish Mishra,Female,34,Indore ,2024-08-10,books,284.00,1,0,UPI,Delivered,284.00
+ORD-00124,1292,aditya sharma,M,28,Mumbai,2024-02-13,beauty ,405,1,0,CC,DELIVERED,405.00
+ORD-00618,1287,  Neha Sharma ,male,35,Indore ,03/08/2024,Home&Kitchen,1519.00,1,,upi,Shipped,1367.10
+ORD-00587,1212,MANISH JOSHI,FEMALE,23,Delhi,"July 20, 2024",Home&Kitchen,2138.00,1,10,credit card,Shipped,"₹1,924.20"
+ORD-00008,1169,Vikram Patel,m,-5,Bhopal,"January 05, 2024",Electronics,,3,5,Credit Card,DELIVERED,"₹20,961.75"
+ORD-00799,1002,  Kavya Gupta ,M,31,New Delhi,12-Oct-2024,Electronics,5898.00,3,20,UPI,Pending,14155.20
+ORD-00500,1284,Karan Malviya,Male,24,Bangalore,"June 23, 2024",Electronics,7961.00,1,0,Debit Card,Delivered,7961.00
+ORD-00846,1259,ritu sharma,FEMALE,25,Mumbai,2024-11-03,Home&Kitchen,2422.00,4,0,upi,Cancelled,9688.00
+ORD-00638,1144,rohan joshi,m,33 yrs,Indore,10-Aug-2024,clothing,"Rs. 1,133",1,20,UPI,Delivered,906.40
+ORD-00706,1185,  Aarav Jain ,Male,40,INDORE,08-Sep-2024,Home&Kitchen,"₹1,721.00",999,0,Debit Card,CANCELLED,1719279.00
+ORD-00029,1233,Aarav Yadav,Male,36,New Delhi,12/01/2024,Clothing,₹771.00,4,0,debit card,Delivered,"₹3,084.00"
+ORD-00195,1055,  Pooja Jain ,M,59,Indore ,2024-03-09,beauty ,Rs. -921,1,0,CC,Delivered,921.00
+ORD-00028,1269,pooja verma,Male,38,Bhopal,11-Jan-2024,electronics,"₹11,670.00",1,?,?,Delivered,11670.00
+ORD-00049,1091,SIMRAN VERMA,Female,-,Indore,17-Jan-2024,Beauty,571.00,2,5,UPI,cancelled,1084.90
+ORD-00240,1082,  Sneha Gupta ,FEMALE,46,MUMBAI,"March 25, 2024",home and kitchen,1612.00,2,5,debit card,DELIVERED,3062.80
+ORD-00476,1274,SNEHA JOSHI,Female,,Indore,"June 14, 2024",clothing,689,5,5,Upi,Delivered,3272.75
+ORD-00824,1063,RITU JOSHI,Male,39,Indore,"October 22, 2024",Clothing,"1,059",1,0,UPI,Delivered,"₹1,059.00"
+ORD-00158,1099,Priya  Verma,Male,37,bhopal,25/02/2024,Clothing,1102.00,2,5,Credit Card,Delivered,2093.80
+ORD-00753,1189,Isha  Jain,FEMALE,-,Bangalore,2024-09-27,SPORTS,1577.00,1,0,,Delivered,1577.00
+ORD-00031,1234,Rohan Joshi,F,32,Bangalore,12/01/2024,Home & Kitchen,"Rs. 1,602",3,10,Credit Card,pending,4325.40
+ORD-00169,1111,  Aditya Gupta ,Female ,49,Bhopal,01/03/2024,home and kitchen,"₹2,563.00",1,15,Cash on Delivery,RETURNED,2178.55
+ORD-00738,1255,neha malviya,Male,50,INDORE,"September 23, 2024",Clothing,710.00,2,0,Debit Card,Cancelled,1420.00
+ORD-00144,1108,Isha  Malviya,Female,30,Delhi,21-Feb-2024,clothing,Rs. 571,3,10,Cash on Delivery,returned,1541.70
+ORD-00853,1050,Sanjay  Verma,MALE,30,Bhopal,"November 05, 2024",Clothes,1110.00,1,5,UPI,delivered,"₹1,054.50"
+ORD-00207,1277,deepak patel,f,34,Bengaluru,2024-03-14,ELECTRONICS,"Rs. 6,471",3,5,Upi,Pending,18442.35
+ORD-00243,1131,MANISH VERMA,female,40,Indore ,2024-03-28,Books,₹386.00,5,10,UPI,DELIVERED,1737.00
+ORD-00530,1150,NEHA SHARMA,?,37,Mumbai,03/07/2024,Books,461.00,1,20,Cash on Delivery,Delivered,368.80
+ORD-00217,1025,kavya jain,Female ,28,Delhi,"March 19, 2024",books,Rs. 377,1,10,UPI,Delivered,339.30
+ORD-00566,1247,  Manish Singh ,Male,19,Indore,13-Jul-2024,Books,Rs. 460,1,0,CC,Delivered,460.00
+ORD-00915,1075,deepak sharma,m,32,Bhopal,04/12/2024,Home&Kitchen,,2,0,COD,DELIVERED,"₹3,408.00"
+ORD-00011,1227,POOJA SHARMA,-,38,Bhopal,2024-01-06,Clothing,808.00,3,0,Credit Card,DELIVERED,"₹2,424.00"
+ORD-00432,1109,Vivaan  Sharma,Male,29 yrs,Bangalore,31/05/2024,Books,Rs. 297,1,5,UPI,delivered,₹282.15
+ORD-00984,1276,deepak patel,m,43 yrs,Indore,2024-12-25,home and kitchen,"₹1,975.00",1,0,Credit Card,delivered,1975.00
+ORD-00202,1284,  Karan Malviya ,m,24,Bangalore,12-Mar-2024,books,₹418.00,1,0,upi,SHIPPED,418.00
+ORD-00350,1299,Amit  Jain,F,19,bhopal,2024-05-02,Home & Kitchen,2089.00,1,10,Cash on Delivery,Pending,1880.10
+ORD-00841,1170,karan yadav, Male,52,Mumbai,30/10/2024,Clothing,1121.00,5,5,UPI,delivered,5324.75
+ORD-00710,1273,NA,male,44 yrs,NA,"September 10, 2024",ELECTRONICS,9555.00,5,20,Upi,CANCELLED,38220.00
+ORD-00093,1060,  Karan Verma ,Female,32 yrs,MUMBAI,"February 02, 2024",Books,₹311.00,3,10,Credit Card,Delivered,839.70
+ORD-00478,,Sanjay  Yadav,MALE,19,Bengaluru,14-Jun-2024,Clothing,822.00,1,0,net banking,DELIVERED,822.00
+ORD-00104,1014,Sneha Mishra,Male,22,MUMBAI,06-Feb-2024,Clothing,Rs. 982,1,0,net banking,Delivered,982.00
+ORD-00895,1279,isha mishra,Female,-,Pune,2024-11-25,Books,306.00,2,15,upi,-,520.20
+ORD-00644,1093,Pooja Gupta,Female,19,bhopal,12-Aug-2024,beauty ,605.00,4,0,debit card,Delivered,2420.00
+ORD-00510,1097,Sanjay  Patel,Female,21,Bhopal,"June 27, 2024",Electronics,11530.00,2,0,Debit Card,Shipped,23060.00
+ORD-00734,1068,MANISH PATEL,Female,31,bhopal,21-Sep-2024,Beauty,,2,0,Credit Card,delivered,1004.00
+ORD-00440,1234,Rohan  Joshi,Female,32,Bangalore,03/06/2024,books,288.00,,5,net banking,Delivered,273.60
+ORD-00643,1075,Deepak Sharma,male,32 yrs,Bhopal,12-Aug-2024,Clothes,₹765.00,3,20,UPI,PENDING,1836.00
+ORD-00723,1148,Rahul  Joshi,Female,,bangalore,17/09/2024,clothing,1015.00,2,0,debit card,Delivered,"₹2,030.00"
+ORD-00955,1093,pooja gupta,Female,19,bhopal,16-Dec-2024,Books,Rs. 335,2,10,Cash on Delivery,delivered,603.00
+ORD-00479,1199,Aarav Verma,m,,Bhopal,2024-06-14,books,510.00,2,0,COD,Delivered,1020.00
+ORD-00991,1198,Isha Mishra,,34,Indore,26-Dec-2024,Sports,"1,523",2,25,Debit Card,Delivered,2284.50
+ORD-00713,1108,  Isha Malviya ,female,30,delhi,"September 14, 2024",ELECTRONICS,"Rs. 11,041",1,0,cod,Delivered,"₹11,041.00"
+ORD-00805,1233,Aarav Yadav,m,36,Delhi,14-Oct-2024,NA,₹224.00,3,10,Debit Card,Delivered,₹604.80
+ORD-00533,1010,  Deepak Gupta ,Male,22,Bhopal,"July 04, 2024",beauty ,501.00,1,,UPI,DELIVERED,₹450.90
+ORD-00811,1222,Aditya  Gupta,Male,44,pune,18/10/2024,Clothing,,2,20,Credit Card,delivered,1798.40
+ORD-00817,1172,,Male,30,NA,20/10/2024,ELECTRONICS,"₹11,618.00",2,20,credit card,N/A,"₹18,588.80"
+ORD-00909,1049,Karan  Singh,f,29,Mumbai,02-Dec-2024,books,₹483.00,3,0,Debit Card,Delivered,"₹1,449.00"
+ORD-00092,1037,Pooja Verma,MALE,38,Indore ,02-Feb-2024,Sports,"3,186",2,10,UPI,Delivered,5734.80
+ORD-00340,1191,AARAV YADAV,Female,28,indore,29/04/2024,Clothing,633.00,3,10,debit card,Delivered,1709.10
+ORD-00145,1201,VIKRAM JAIN,Female,38,?,21/02/2024,Home & Kitchen,"Rs. 1,613",1,10,credit card,Delivered,1451.70
+ORD-00447,1027,Anjali  Gupta,Female,28,Indore,06/06/2024,Sports,,4,0,upi,SHIPPED,5936.00
+ORD-00239,1018,ritu sharma,Female ,21,Indore,25/03/2024,Clothes,1153.00,2,5,Credit Card,Delivered,"₹2,190.70"
+ORD-00247,1065,Amit Singh,Female ,41,bangalore,2024-03-30,Home & Kitchen,2347.00,1,5,Debit Card,delivered,2229.65
+ORD-00621,1085,Priya Sharma,m,34,,2024-08-04,N/A,407.00,4,15,Debit Card,Delivered,"₹1,383.80"
+ORD-00704,1300,SANJAY SINGH,Female,34,Indore,07/09/2024,Home&Kitchen,"Rs. 2,482",1,5,Debit Card,Delivered,2357.90
+ORD-00810,1114,DEEPAK JOSHI,Female,37 yrs,pune,2024-10-17,Clothes,Rs. 611,2,15,upi,DELIVERED,1038.70
+ORD-00839,1052,  Deepak Sharma ,m,24,MUMBAI,2024-10-29,Home & Kitchen,1509.00,4,0,,Returned,6036.00
+ORD-00455,1246,simran mishra,Male,22,Mumbai,2024-06-09,Clothing,1090.00,1,0,Cash on Delivery,cancelled,1090.00
+ORD-00499,1187,Sneha Patel,male,40 yrs,Bhopal,"June 22, 2024",Clothing,"Rs. 1,083",2,15,Credit Card,Delivered,1841.10
+ORD-00563,1216,Vivaan  Jain,Male,39,bhopal,12-Jul-2024,beauty ,952,1,20,CC,Delivered,761.60
+ORD-00400,1261,anjali verma,MALE,48,Indore,19-May-2024,books,273.00,1,5,UPI,Delivered,₹259.35
+ORD-00371,1002,KAVYA GUPTA,Male,-,New Delhi,07/05/2024,SPORTS,"Rs. 1,466",1,15,,DELIVERED,1246.10
+ORD-00087,1016,POOJA MALVIYA,M,52,Indore,2024-01-31,ELECTRONICS,"Rs. 11,757",2,10,Cash on Delivery,Returned,"₹21,162.60"
+ORD-00808,1232,  Isha Gupta ,F,31,bhopal,2024-10-16,Sports,"Rs. 1,816",2,0,Upi,Shipped,
+ORD-00513,1053,  Manish Jain ,Female ,19,Bhopal,"June 28, 2024",Beauty,Rs. 691,2,0,UPI,Pending,1382.00
+ORD-00102,1300,SANJAY SINGH,Female,34,indore,05/02/2024,,3168.00,2,5,Upi,Delivered,6019.20
+ORD-00575,1058,Rahul Joshi,f,31,pune,"July 16, 2024",clothing,Rs. 723,2,20,UPI,Delivered,"₹1,156.80"
+ORD-00040,1281,  Rahul Sharma , Male,38,New Delhi,14/01/2024,clothing,,1,0,Debit Card,shipped,1252.00
+ORD-00549,1073,  Vikram Mishra ,m,30,Bengaluru,"July 09, 2024",books,Rs. 298,5,5,cod,Delivered,1415.50
+ORD-00176,1029,Rahul  Verma,Female,39,indore,02/03/2024,ELECTRONICS,"₹6,259.00",4,0,UPI,delivered,"₹25,036.00"
+ORD-00017,1136,NEHA SHARMA,Male,24,indore,07/01/2024,clothing,1194.00,4,5,UPI,Delivered,4537.20
+ORD-00547,1221,Vikram  Patel,FEMALE,45,Pune,2024-07-08,Beauty,Rs. 591,2,10,UPI,Cancelled,"₹1,063.80"
+ORD-00633,1251,ADITYA SINGH,m,33,Delhi,2024-08-09,Clothing,"₹1,061.00",2,0,Net Banking,DELIVERED,N/A
+ORD-00325,1154,priya joshi,Male,38,INDORE,"April 25, 2024",electronics,"5,984",2,0,upi,Delivered,11968.00
+ORD-00880,1273,DEEPAK SHARMA,Male,44 yrs,Indore,2024-11-17,Home & Kitchen,,5,0,UPI,Delivered,5995.00
+ORD-00250,1290,Ritu  Verma,Male,21,indore,"March 31, 2024",Clothes,557.00,1,0,Credit Card,DELIVERED,₹557.00
+ORD-00178,1050,Sanjay  Verma,M,30,Bhopal,2024-03-04,sports,2407.00,1,0,Upi,Delivered,2407.00
+ORD-00137,1295,deepak mishra,Male,24,Delhi,18-Feb-2024,Electronics,9638.00,5,0,debit card,delivered,48190.00
+ORD-00081,1010,Deepak  Gupta,MALE,22,Bhopal,"January 28, 2024",Clothes,891.00,2,10,COD,Delivered,1603.80
+ORD-00127,1242,  Neha Jain ,Female,37,Indore,14-Feb-2024,books,₹321.00,1,15,UPI,Cancelled,₹272.85
+ORD-00119,1098,vikram sharma,Male,42,pune,10-Feb-2024,ELECTRONICS,"10,911",3,20,Credit Card,DELIVERED,
+ORD-00417,1117,aarav jain,m,19,Bhopal,2024-05-29,Clothing,₹994.00,2,10,Net Banking,delivered,"₹1,789.20"
+ORD-00534,1153,Rahul Verma,Female,23,Mumbai,"July 04, 2024",electronics,10967.00,3,-10,UPI,PENDING,27965.85
+ORD-00387,1052,  Deepak Sharma ,Male,24,Mumbai,13-May-2024,SPORTS,"₹3,295.00",5,10,UPI,Cancelled,14827.50
+ORD-00360,1271,ISHA SHARMA,MALE,43,Indore ,2024-05-04,Books,474.00,2,0,Debit Card,cancelled,948.00
+ORD-00527,1247,manish singh,Male,19,Indore ,2024-07-02,Home&Kitchen,2659.00,3,25,net banking,Delivered,5982.75
+ORD-00096,1227,POOJA SHARMA,Female ,38,bhopal,04-Feb-2024,Clothes,"₹1,122.00",1,0,Debit Card,DELIVERED,1122.00
+ORD-00983,1245,manish singh,M,48,Indore,25-Dec-2024,ELECTRONICS,10010.00,3,0,UPI,pending,30030.00
+ORD-00193,1292,Aditya Sharma,M,28,Mumbai,09-Mar-2024,Beauty,878.00,3,0,UPI,delivered,2634.00
+ORD-00050,1204,sneha verma, Male,33,MUMBAI,2024-01-17,ELECTRONICS,"Rs. 8,870",5,5,Credit Card,SHIPPED,42132.50
+ORD-00741,1201,  Vikram Jain ,Female,38,Indore ,"September 24, 2024",Beauty,563.00,3,10,COD,Cancelled,1520.10
+ORD-00109,1141,Neha  Gupta,Female,41,Indore,"February 07, 2024",Books,242.00,3,20,Debit Card,RETURNED,580.80
+ORD-00270,1170,Karan  Yadav,Male,52,mumbai,,clothing,"1,295",4,10,Upi,Delivered,4662.00
+ORD-00675,1216,vivaan jain,m,39,Bhopal,"August 26, 2024",Clothes,₹916.00,1,25,Cash on Delivery,SHIPPED,₹687.00
+ORD-00205,1032,ANJALI YADAV,Male,19,Indore,14/03/2024,home and kitchen,"1,168",1,,net banking,delivered,1168.00
+ORD-00574,1192,SIMRAN MALVIYA,female,21 yrs,Indore,16-Jul-2024,Home & Kitchen,2591.00,4,5,?,DELIVERED,9845.80
+ORD-00212,NA,Rohan  Yadav,Male,36,indore,16-Mar-2024,Electronics,10998.00,1,-,UPI,Delivered,10448.10
+ORD-00977,1102,pooja singh,Female,38,delhi,23-Dec-2024,electronics,"Rs. 10,609",4,15,Credit Card,CANCELLED,36070.60
+ORD-00125,1287,Neha Sharma,Male,NA,Indore ,2024-02-14,Electronics,6547.00,2,0,credit card,delivered,13094.00
+ORD-00265,1117,  Aarav Jain ,m,19,bhopal,04/04/2024,Home & Kitchen,1743.00,1,0,,Delivered,1743.00
+ORD-00928,1228,AMIT JOSHI,Female,47,bhopal,"December 05, 2024",Beauty,NA,1,25,UPI,Delivered,₹513.00
+ORD-00042,1018,Ritu  Sharma,Female,21,Indore,15/01/2024,Home & Kitchen,"₹2,654.00",1,5,Cash on Delivery,DELIVERED,2521.30
+ORD-00233,1265,SIMRAN YADAV,Female,34,Delhi,23-Mar-2024,ELECTRONICS,6153.00,1,15,Net Banking,PENDING,5230.05
+ORD-00815,1203,  Pooja Joshi ,Female,N/A,Bhopal,18-Oct-2024,home and kitchen,2542.00,2,20,CC,delivered,"₹4,067.20"
+ORD-00006,1248,neha gupta,?,,INDORE,04/01/2024,Sports,1610.00,2,5,UPI,Pending,3059.00
+ORD-00065,,Pooja  Jain,Male,59,Indore,23-Jan-2024,beauty ,₹805.00,4,20,UPI,delivered,2576.00
+ORD-00047,1140,VIVAAN SHARMA,Female ,19,Bangalore,"January 17, 2024",home and kitchen,2382.00,1,20,Net Banking,DELIVERED,1905.60
+ORD-00046,1176,Rahul  Sharma,Male,24,Pune,"January 16, 2024",Sports,"₹1,394.00",,15,Net Banking,DELIVERED,4739.60
+ORD-00781,1294,Kavya  Sharma,Female,37,Bengaluru,2024-10-05,home and kitchen,2694.00,1,5,Upi,pending,2559.30
+ORD-00807,1183,ADITYA JOSHI,f,38,mumbai,"October 15, 2024",Books,,1,0,net banking,Delivered,383.00
+ORD-00401,1039,  Priya Malviya ,Male,21,Bangalore,"May 19, 2024",Clothing,723.00,5,15,Upi,cancelled,3072.75
+ORD-00004,1228,Amit Joshi,F,47,bhopal,03/01/2024,beauty ,853,2,25,UPI,Delivered,"₹1,279.50"
+ORD-00446,1184,pooja patel,Male,46,Indore,05/06/2024,Home & Kitchen,1595.00,2,0,credit card,Delivered,3190.00
+ORD-00264,?,  Simran Jain ,Female ,38,Indore,04-Apr-2024,Books,,2,20,Net Banking,Delivered,614.40
+ORD-00939,1018,ritu sharma,Female,21,Indore,?,NA,₹427.00,2,0,Cash on Delivery,Delivered,854.00
+ORD-00470,1019,ritu mishra,male,30,Bangalore,NA,Books,298.00,N/A,15,UPI,CANCELLED,₹253.30
+ORD-00878,1239,Deepak  Sharma,Male,37,bangalore,14/11/2024,Clothing,977.00,3,5,debit card,Cancelled,2784.45
+ORD-00677,1273,deepak sharma,Male,44,Indore,27/08/2024,Clothing,Rs. 572,4,0,Net Banking,delivered,
+ORD-00196,1180,vivaan jain,-,,Bhopal,2024-03-10,Beauty,904.00,2,10,Upi,Delivered,1627.20
+ORD-00860,1074,,M,52,Delhi,06/11/2024,books,497,NA,0,Credit Card,delivered,₹497.00
+ORD-00875,1072,Neha Gupta,NA,NA,Pune,12/11/2024,beauty ,571,1,0,upi,Delivered,571.00
+ORD-00236,1112,ISHA MALVIYA,Female,29,Bangalore,"March 24, 2024",home and kitchen,2504.00,1,25,UPI,delivered,1878.00
+ORD-00702,1261,  Anjali Verma ,Male,48,Indore,07/09/2024,books,₹371.00,1,25,debit card,Returned,278.25
+ORD-00740,1299,AMIT JAIN,Female,19,bhopal,"September 23, 2024",Sports,3054.00,3,,,Delivered,8703.90
+ORD-00903,1026,Manish Verma,Female,47,New Delhi,2024-11-28,Clothing,1210.00,2,5,credit card,DELIVERED,"₹2,299.00"
+ORD-00529,1177,  Neha Gupta ,Male,54,Delhi,2024-07-03,home and kitchen,"Rs. 2,254",1,10,Credit Card,DELIVERED,2028.60
+ORD-00348,1161,PRIYA VERMA,F,42,bhopal,01/05/2024,Electronics,8388.00,3,0,Cash on Delivery,delivered,"₹25,164.00"
+ORD-00770,1121,ADITYA JOSHI,Female,,bhopal,02/10/2024,books,365.00,4,,COD,CANCELLED,1460.00
+ORD-00444,1280,Manish  Mishra,M,37,indore,04-Jun-2024,beauty ,571.00,1,10,debit card,Delivered,₹513.90
+ORD-00850,1208,Aarav Singh,,34,Indore,"November 04, 2024",Clothes,860.00,2,15,Credit Card,Shipped,1462.00
+ORD-00653,1127,rohan patel,Male,33,Mumbai,"August 16, 2024",home and kitchen,1126.00,4,0,Net Banking,delivered,4504.00
+ORD-00749,1225,RAHUL MALVIYA,M,23,New Delhi,2024-09-26,Electronics,11618.00,1,0,Credit Card,Delivered,11618.00
+ORD-00771,1018,ritu sharma,Female,21,Indore ,03/10/2024,,771.00,4,,Debit Card,delivered,2775.60
+ORD-00165,1088,kavya gupta,f,33,MUMBAI,"February 27, 2024",Clothing,Rs. 672,1,10,Debit Card,Pending,604.80
+ORD-00753,1189,Isha  Jain,FEMALE,-,Bangalore,2024-09-27,SPORTS,1577.00,1,0,,Delivered,1577.00
+ORD-00390,1094,ROHAN PATEL,Female,42,Indore,2024-05-16,sports,3204.00,1,10,Upi,Delivered,2883.60
+ORD-00592,1244,Priya  Joshi,Female,29,INDORE,22-Jul-2024,sports,1351.00,2,5,CC,delivered,2566.90
+ORD-00925,1030,Isha  Singh,Male,42,Bengaluru,"December 05, 2024",ELECTRONICS,"₹8,474.00",2,,Credit Card,Pending,16948.00
+ORD-00079,1241,  Neha Mishra ,Female,36,bangalore,28-Jan-2024,books,343.00,1,10,Net Banking,DELIVERED,308.70
+ORD-00110,1285,sanjay joshi,Female,20 yrs,pune,2024-02-08,Home&Kitchen,1219.00,4,5,credit card,Delivered,4632.20
+ORD-00715,1229,aditya singh,female,45,,15/09/2024,books,₹501.00,4,0,Credit Card,Delivered,"₹2,004.00"
+ORD-00112,1174,Vikram Yadav,male,34,Pune,08-Feb-2024,electronics,4890.00,4,0,UPI,delivered,"₹19,560.00"
+ORD-00302,1050,  Sanjay Verma , Male,30,Bhopal,16/04/2024,Home & Kitchen,2634.00,2,0,COD,,5268.00
+ORD-00379,1262,  Rohan Mishra ,Male,52,Bhopal,08/05/2024,ELECTRONICS,"Rs. 8,286",4,0,Net Banking,Returned,33144.00
+ORD-00392,1057,  Amit Gupta ,Female,19,bhopal,16-May-2024,Clothing,,2,5,Upi,returned,1466.80
+ORD-00103,1133,VIKRAM JOSHI,Female,40,delhi,05/02/2024,Electronics,11546.00,3,0,Cash on Delivery,Delivered,34638.00
+ORD-00467,1107,MANISH GUPTA,Male,29,Indore,12/06/2024,Home&Kitchen,"₹2,503.00",1,20,UPI,DELIVERED,2002.40
+ORD-00701,1008,isha jain,FEMALE,41,Indore,07-Sep-2024,Home & Kitchen,2408.00,1,0,upi,delivered,2408.00
+ORD-00313,1289,Simran Joshi,Male,42 yrs,Delhi,"April 20, 2024",home and kitchen,2487.00,2,0,credit card,Delivered,4974.00
+ORD-00867,1125,  Manish Sharma ,Female,32,Bengaluru,2024-11-09,SPORTS,"2,125",1,5,Credit Card,Delivered,2018.75
+ORD-00743,1036,  Manish Verma ,FEMALE,20,bhopal,24-Sep-2024,Beauty,Rs. 951,3,5,Net Banking,Delivered,2710.35
+ORD-00416,1164,Karan  Sharma,Male,44,bhopal,29/05/2024,Home & Kitchen,2163.00,1,0,UPI,Delivered,2163.00
+ORD-00862,1219,  Amit Yadav ,m,33,Delhi,07-Nov-2024,Electronics,7629.00,1,20,Debit Card,delivered,6103.20
+ORD-00949,1187,Sneha Patel,m,40 yrs,Bhopal,13-Dec-2024,Electronics,5312.00,2,0,net banking,delivered,"₹10,624.00"
+ORD-00382,1120,Priya  Singh,Female ,19,New Delhi,11/05/2024,Books,₹463.00,1,5,UPI,Delivered,439.85
+ORD-00973,1076,  Ritu Malviya ,Male,51,Indore,"December 22, 2024",Clothing,643,1,5,Credit Card,Shipped,610.85
+ORD-00747,1039,PRIYA MALVIYA,M,21,Bangalore,25-Sep-2024,Clothes,1021.00,1,10,Credit Card,Delivered,918.90
+ORD-00926,1186,Priya  Singh,Male,41,MUMBAI,,Books,370,4,0,Upi,Delivered,
+ORD-00215,1275,RAHUL SINGH,f,29,Indore,"March 17, 2024",Electronics,7699.00,1,0,COD,delivered,7699.00
+ORD-00138,1031,  Simran Jain ,F,38,indore,18-Feb-2024,Beauty,Rs. 855,3,15,Net Banking,Delivered,N/A
+ORD-00600,1065,Amit  Singh,,41,Bangalore,25-Jul-2024,Electronics,11537.00,2,0,Credit Card,Cancelled,
+ORD-00692,1071,Vikram  Malviya,Female,19,INDORE,"September 03, 2024",Clothes,656.00,2,15,UPI,DELIVERED,"₹1,115.20"
+ORD-00899,1190,  Anjali Malviya ,Female,35,Bangalore,"November 26, 2024",Home & Kitchen,2259.00,1,0,CC,Pending,2259.00
+ORD-00842,1124,-,Male,,mumbai,2024-10-31,beauty ,946,1,5,Net Banking,Delivered,898.70
+ORD-00666,1073,  Vikram Mishra , Male,30,Bangalore,2024-08-22,Electronics,"Rs. 11,993",2,0,Upi,delivered,"₹23,986.00"
+ORD-00506,1163,  Vikram Malviya ,Female,,Mumbai,24-Jun-2024,beauty ,₹889.00,2,0,,Delivered,1778.00
+ORD-00135,1066,amit joshi, Male,55,bhopal,17-Feb-2024,Clothing,₹624.00,1,10,CC,delivered,561.60
+ORD-00586,1289,  Simran Joshi ,Male,NA,Delhi,"July 19, 2024",Beauty,719.00,1,15,debit card,Delivered,₹611.15
+ORD-00462,1294,KAVYA SHARMA,Female,37,Bengaluru,11-Jun-2024,Home&Kitchen,"Rs. 1,663",1,?,upi,Returned,1496.70
+ORD-00544,1127,  Rohan Patel , Male,,MUMBAI,08/07/2024,Beauty,654,1,15,cod,CANCELLED,555.90
+ORD-00147,1132,  Neha Yadav ,Female ,32,Indore ,21-Feb-2024,Beauty,₹598.00,3,20,Credit Card,Delivered,1435.20
+ORD-00304,1201,Vikram Jain,Female,-5,INDORE,2024-04-17,electronics,"₹11,913.00",4,5,UPI,delivered,45269.40
+ORD-00543,1277,DEEPAK PATEL,female,N/A,N/A,07-Jul-2024,Books,371.00,2,5,UPI,Delivered,704.90
+ORD-00238,1170,KARAN YADAV,Male,52,MUMBAI,25/03/2024,Electronics,9689.00,1,15,,DELIVERED,8235.65
+ORD-00550,1069,Sanjay Sharma,MALE,33,Bhopal,09-Jul-2024,books,502,1,0,Credit Card,delivered,502.00
+ORD-00590,1128,Kavya Verma,Female,44,Bhopal,21-Jul-2024,books,341.00,4,10,CC,DELIVERED,1227.60
+ORD-00515,1049,KARAN SINGH,F,29,mumbai,29-Jun-2024,Clothing,,2,20,?,DELIVERED,1422.40
+ORD-00588,1112,ISHA MALVIYA,?,29,Bengaluru,"July 21, 2024",Home & Kitchen,"2,131",1,5,Cash on Delivery,Delivered,2024.45
+ORD-00786,1043,sanjay jain,Female ,49,Indore,"October 06, 2024",Home & Kitchen,"₹1,465.00",2,10,Cash on Delivery,DELIVERED,2637.00
+ORD-00358,1091,Simran Verma,FEMALE,39 yrs,Indore,03/05/2024,electronics,10997.00,3,10,Credit Card,delivered,29691.90
+ORD-00106,1121,Aditya  Joshi,female,24,bhopal,2024-02-07,Clothing,₹776.00,1,0,debit card,delivered,776.00
+ORD-00164,1139,Pooja Jain,F,22,New Delhi,27-Feb-2024,clothing,"₹1,233.00",2,0,net banking,Delivered,2466.00
+ORD-00559,1149,Deepak Gupta,Male,49,Indore,11/07/2024,Books,316,2,10,Credit Card,Delivered,568.80
+ORD-00943,1296,Deepak Yadav,Male,41 yrs,Indore,2024-12-10,Home & Kitchen,"₹1,951.00",1,15,debit card,Delivered,1658.35
+ORD-00128,1120,Priya  Singh,f,19,New Delhi,15-Feb-2024,Beauty,697.00,1,-,Credit Card,Delivered,627.30
+ORD-00750,1081,  Vikram Singh ,f,36,Delhi,2024-09-26,Clothing,₹626.00,,10,UPI,delivered,563.40
+ORD-00068,1109,VIVAAN SHARMA,Male,29,Bengaluru,25-Jan-2024,?,"Rs. 1,863",2,10,Upi,Delivered,"₹3,353.40"
+ORD-00528,1033,Sneha  Patel,female,39,Bangalore,03-Jul-2024,Electronics,6636.00,3,10,upi,shipped,17917.20
+ORD-00377,1021,  Rohan Jain ,F,42,delhi,"May 08, 2024",Clothing,1189.00,3,25,UPI,DELIVERED,2675.25
+ORD-00847,1158,Karan  Singh,Male,37,bhopal,03/11/2024,Home & Kitchen,2456.00,1,0,UPI,DELIVERED,2456.00
+ORD-00942,1159,  Isha Jain ,Female,36,delhi,"December 10, 2024",ELECTRONICS,79200.00,3,15,Credit Card,delivered,
+ORD-00438,1024,SNEHA MISHRA,,39,bhopal,03-Jun-2024,Books,320.00,4,10,upi,DELIVERED,1152.00
+ORD-00032,1052,Deepak  Sharma,Male,24,Mumbai,12/01/2024,Clothing,"1,268",,0,debit card,DELIVERED,3804.00
+ORD-00624,1088,KAVYA GUPTA,Female,33,Mumbai,"August 06, 2024",Home & Kitchen,"₹1,750.00",3,0,UPI,Delivered,5250.00
+ORD-00775,1202,Priya  Yadav,Female,35,Indore,04/10/2024,Home & Kitchen,"₹1,459.00",,0,Cash on Delivery,Returned,1459.00
+ORD-00952,1036,MANISH VERMA,Female,20,Bhopal,"December 15, 2024",Sports,2357.00,5,10,CC,Delivered,-
+ORD-00654,1145,Rahul Gupta,Male,45,indore,2024-08-18,Clothing,"₹1,087.00",1,10,Upi,Delivered,978.30
+ORD-00113,1275,rahul singh,Female,29 yrs,Indore,09/02/2024,Electronics,"₹7,925.00",2,10,UPI,Delivered,14265.00
+ORD-00801,,DEEPAK YADAV,Male,41 yrs,indore,2024-10-12,books,403.00,2,20,Credit Card,DELIVERED,644.80
+ORD-00133,1197,Anjali Joshi,male,48,Delhi,17/02/2024,ELECTRONICS,10717.00,1,0,net banking,Delivered,10717.00
+ORD-00599,1160,Simran  Jain,F,42,Indore,"July 25, 2024",Books,Rs. 408,2,15,Net Banking,delivered,₹693.60
+ORD-00329,1068,Manish  Patel,Female,31,bhopal,2024-04-27,Clothing,"1,020",4,10,CC,NA,3672.00
+ORD-00756,1104,MANISH YADAV,Male,42,Bhopal,"September 28, 2024",Clothing,819,1,10,UPI,Delivered,737.10
+ORD-00568,1195,RITU VERMA,f,48,Bangalore,2024-07-13,home and kitchen,2221.00,2,15,Upi,Delivered,3775.70
+ORD-00458,1155,PRIYA VERMA,Male,35,Mumbai,10/06/2024,Beauty,514.00,4,,COD,Shipped,"₹2,056.00"
+ORD-00576,1257,Deepak Mishra,male,,Bangalore,16-Jul-2024,Clothes,965,5,0,debit card,Delivered,4825.00
+ORD-00262,1113,Isha  Patel,Male,30,Delhi,04/04/2024,Clothing,Rs. 896,4,10,credit card,delivered,3225.60
+ORD-00295,1283,Ritu  Malviya,Male,41,Bhopal,2024-04-13,beauty ,₹767.00,2,10,cod,Delivered,1380.60
+ORD-00210,1002,Kavya  Gupta,m,31,New Delhi,15/03/2024,Electronics,5213.00,1,0,COD,Delivered,N/A
+ORD-00473,1045,Manish Mishra,Female,34,indore,2024-06-13,Beauty,490.00,1,5,Cash on Delivery,DELIVERED,465.50
+ORD-00720,1144,rohan joshi,Male,33,Indore ,16-Sep-2024,Clothes,652.00,3,20,UPI,DELIVERED,1564.80
+ORD-00388,1291,Vivaan  Mishra,Female,30,delhi,2024-05-14,electronics,11060.00,2,20,Upi,Delivered,"₹17,696.00"
+ORD-00629,1219,Amit  Yadav,Male,?,Delhi,"August 08, 2024",Clothing,₹572.00,1,5,Debit Card,SHIPPED,543.40
+ORD-00160,1136,NEHA SHARMA,male,24 yrs,Indore,2024-02-26,Clothes,649.00,1,15,CC,Cancelled,551.65
+ORD-00466,1015,rahul gupta,Male,36,MUMBAI,12-Jun-2024,home and kitchen,"₹2,361.00",3,5,debit card,Delivered,"₹6,728.85"
+ORD-00625,1099,Priya Verma,Male,37,bhopal,07-Aug-2024,beauty ,₹665.00,3,?,Net Banking,?,1795.50
+ORD-00098,1246,Simran Mishra,m,22,mumbai,"February 04, 2024",Home & Kitchen,1180.00,2,25,Debit Card,Delivered,1770.00
+ORD-00094,1256,VIKRAM JAIN,Male,23,N/A,03-Feb-2024,Home & Kitchen,"₹1,495.00",5,15,credit card,Pending,6353.75
+ORD-00334,1025,  Kavya Jain ,Female ,,delhi,"April 28, 2024",Clothing,"1,258",5,10,Net Banking,delivered,5661.00
+ORD-00453,1085,  Priya Sharma , Male,34,Indore,"June 09, 2024",Clothing,"₹1,276.00",4,0,Cash on Delivery,N/A,5104.00
+ORD-00280,1126,Rohan Gupta,F,24,Bhopal,08-Apr-2024,ELECTRONICS,"₹6,302.00",1,5,Upi,Delivered,"₹5,986.90"
+ORD-00730,1251,Aditya Singh,NA,33,Delhi,20-Sep-2024,Clothing,943,2,10,upi,Delivered,"₹1,697.40"
+ORD-00187,1228,Amit Joshi,Female ,-,Bhopal,07/03/2024,sports,3155.00,2,5,Cash on Delivery,Cancelled,5994.50
+ORD-00986,1296,deepak yadav,Male,41,indore,"December 25, 2024",Home&Kitchen,"1,533",4,0,Cash on Delivery,cancelled,6132.00
+ORD-00795,1103,Pooja  Malviya,Female,32,Mumbai,09/10/2024,books,286.00,1,0,credit card,Delivered,N/A
+ORD-00459,1200,Neha  Patel,Male,23,Pune,11/06/2024,electronics,,1,20,credit card,delivered,"₹4,580.80"
+ORD-00225,1061,Sneha Singh,female,23,Indore,21/03/2024,Clothing,741.00,1,5,net banking,delivered,703.95
+ORD-00015,1049,karan singh,Female,29,mumbai,07-Jan-2024,Electronics,9808.00,1,0,UPI,delivered,9808.00
+ORD-00171,1292,Aditya  Sharma,m,28,Mumbai,2024-03-02,Books,511,1,15,Credit Card,Delivered,434.35
+ORD-00469,1280,?,m,NA,Indore,2024-06-12,Beauty,724,1,,cod,Returned,
+ORD-00411,1188,  Ritu Sharma ,Male,37,Indore,"May 26, 2024",Sports,3229.00,-,0,upi,Pending,"₹6,458.00"
+ORD-00116,1052,Deepak Sharma,Male,24 yrs,Mumbai,09-Feb-2024,Clothes,"₹1,029.00",1,0,Credit Card,shipped,1029.00
+ORD-00890,1041,Simran Gupta,Male,36,Bhopal,22-Nov-2024,Clothing,1096.00,4,10,Upi,DELIVERED,
+ORD-00711,1152,aarav mishra,Female,23,Pune,10/09/2024,Books,Rs. 346,2,0,credit card,Delivered,₹692.00
+ORD-00761,1065,Amit  Singh,Female,41,Bangalore,30/09/2024,electronics,5832.00,2,15,credit card,delivered,9914.40
+ORD-00020,1203,pooja joshi,Female,21,Bhopal,2024-01-08,electronics,"Rs. 9,466",2,0,credit card,delivered,"₹18,932.00"
+ORD-00108,1098,Vikram Sharma,MALE,42,Pune,07-Feb-2024,ELECTRONICS,"121,320",5,0,Credit Card,pending,606600.00
+ORD-00140,1260,POOJA JOSHI,M,31,Bengaluru,18/02/2024,electronics,10372.00,2,10,Credit Card,delivered,"₹18,669.60"
+ORD-00558,1141,Neha Gupta,Female ,41,Indore,,Clothing,₹955.00,3,NA,Cash on Delivery,Shipped,2721.75
+ORD-00237,1256,  Vikram Jain ,male,23,indore,24-Mar-2024,Home & Kitchen,"1,625",2,0,upi,delivered,3250.00
+ORD-00457,1116,  Pooja Mishra , Male,44,delhi,"June 10, 2024",beauty ,636,2,10,Debit Card,DELIVERED,1144.80
+ORD-00356,1212,MANISH JOSHI,Female,23,delhi,"May 03, 2024",Home&Kitchen,2657.00,1,20,Credit Card,Delivered,2125.60
+ORD-00725,1136,Neha  Sharma,Male,24,INDORE,2024-09-17,beauty ,411.00,1,0,debit card,Delivered,₹411.00
+ORD-00966,1274,NA,Female,30,INDORE,2024-12-20,Books,₹459.00,1,5,Upi,Delivered,436.05
+ORD-00234,1264,  Simran Verma ,female,53,INDORE,23/03/2024,Clothing,₹573.00,4,15,COD,Shipped,1948.20
+ORD-00230,1236,ISHA MISHRA,Male,37,Bhopal,2024-03-22,Clothing,₹546.00,,20,cod,Delivered,436.80
+ORD-00407,1186,Priya  Singh,m,41,Mumbai,23-May-2024,Home&Kitchen,"Rs. 2,205",1,0,UPI,Pending,2205.00
+ORD-00424,1212,manish joshi,Female,23,delhi,"May 30, 2024",beauty ,₹740.00,1,5,Cash on Delivery,Cancelled,703.00
+ORD-00632,1213,-,MALE,32,indore,08-Aug-2024,beauty ,Rs. 789,4,5,Debit Card,pending,2998.20
+ORD-00320,1057,Amit  Gupta,female,19,Bhopal,22-Apr-2024,Beauty,Rs. 880,1,25,credit card,delivered,660.00
+ORD-00423,1132,  Neha Yadav ,Female,32,Indore,30-May-2024,Home & Kitchen,2644.00,2,0,upi,Shipped,5288.00
+ORD-00611,1068,Manish Patel,F,31,bhopal,31-Jul-2024,-,"2,985",2,5,net banking,Delivered,"₹5,671.50"
+ORD-00450,1048,Ritu  Malviya,Male,39,delhi,08-Jun-2024,ELECTRONICS,11132.00,2,0,COD,Delivered,22264.00
+ORD-00948,1225,  Rahul Malviya , Male,N/A,Delhi,"December 13, 2024",electronics,"₹11,335.00",1,5,Cash on Delivery,Pending,10768.25
+ORD-00451,1259,  Ritu Sharma ,f,25,MUMBAI,2024-06-09,Clothing,₹586.00,1,15,credit card,Delivered,₹498.10
+ORD-00688,1091,SIMRAN VERMA,F,39,Indore ,"September 01, 2024",sports,1936.00,1,0,net banking,delivered,1936.00
+ORD-00060,1053,manish jain,Female,-,bhopal,21-Jan-2024,Books,510.00,3,20,upi,Cancelled,1224.00
+ORD-00683,1110,Sneha  Yadav,Female,42,INDORE,29/08/2024,SPORTS,"Rs. 2,633",1,10,UPI,Cancelled,2369.70
+ORD-00818,1172,Sanjay Joshi,m,30,Indore,2024-10-20,Clothes,,2,0,Credit Card,Delivered,"₹2,136.00"
+ORD-00813,1253,NEHA GUPTA,Male,,delhi,2024-10-18,Books,271.00,4,20,net banking,Delivered,867.20
+ORD-00905,1236,  Isha Mishra ,MALE,37,bhopal,30/11/2024,Books,368,5,25,Credit Card,shipped,1380.00
+ORD-00117,1241,NEHA MISHRA,Female ,,Bangalore,"February 10, 2024",Sports,2997.00,2,0,UPI,Delivered,"₹5,994.00"
+ORD-00069,1074,Aarav Malviya,Male,52,Delhi,25/01/2024,?,972.00,4,15,debit card,Delivered,
+ORD-00662,1135,SANJAY JOSHI,Male,41,New Delhi,"August 21, 2024",Home & Kitchen,"₹1,680.00",2,10,Debit Card,Delivered,3024.00
+ORD-00820,1299,  Amit Jain ,NA,19,Bhopal,"October 21, 2024",Home & Kitchen,1858.00,2,20,Debit Card,returned,"₹2,972.80"
+ORD-00410,1284,karan malviya,,24,Bangalore,25/05/2024,NA,578,2,10,upi,shipped,
+ORD-00372,1251,Aditya Singh, Male,33,delhi,07-May-2024,Electronics,"Rs. 10,313",3,10,Cash on Delivery,Delivered,27845.10
+ORD-00393,1155,Priya Verma, Male,35,MUMBAI,"May 17, 2024",Books,N/A,5,0,Upi,Returned,"₹1,255.00"
+ORD-00792,1071,Vikram  Malviya,,19,indore,"October 08, 2024",Beauty,809.00,1,5,Debit Card,Delivered,₹768.55
+ORD-00994,1296,deepak yadav,MALE,41,Indore,"December 27, 2024",Sports,"Rs. 1,530",1,10,upi,DELIVERED,1377.00
+ORD-00540,1146,Deepak  Malviya,FEMALE,19,INDORE,"July 06, 2024",Home & Kitchen,1582.00,4,25,Credit Card,Delivered,4746.00
+ORD-00038,1143,Sneha  Yadav,F,24,Indore,"January 14, 2024",clothing,820.00,-2,5,Net Banking,Pending,3116.00
+ORD-00980,1289,simran joshi,MALE,NA,Delhi,"December 23, 2024",electronics,5301.00,N/A,10,UPI,delivered,19083.60
+ORD-00402,1213,Sneha  Verma,Male,,Indore,2024-05-19,Beauty,₹774.00,4,0,Debit Card,Shipped,3096.00
+ORD-00107,1019,Ritu Mishra,M,30 yrs,Bengaluru,07/02/2024,Clothing,592,2,5,CC,delivered,1124.80
+ORD-00448,1011,rahul patel,Male,26,mumbai,07-Jun-2024,Clothing,668.00,4,20,credit card,SHIPPED,2137.60
+ORD-00352,1288,Aarav Patel,male,27,Indore,02/05/2024,home and kitchen,"Rs. 2,232",5,20,credit card,Cancelled,8928.00
+ORD-00357,1164,Karan  Sharma,Male,44,bhopal,03/05/2024,Clothing,"Rs. 1,198",3,0,debit card,CANCELLED,
+ORD-00324,1030,isha singh,Male,42,Bengaluru,"April 24, 2024",books,₹359.00,3,5,Debit Card,Delivered,1023.15
+ORD-00684,1040,  Amit Singh ,Female ,NA,Bangalore,2024-08-31,home and kitchen,1916.00,2,?,UPI,Delivered,3640.40
+ORD-00252,1290,ritu verma,Male,21,indore,2024-03-31,Beauty,654.00,2,10,UPI,DELIVERED,"₹1,177.20"
+ORD-00690,1111,Aditya Gupta,female,49,bhopal,2024-09-03,home and kitchen,"Rs. 1,296",4,5,Debit Card,returned,4924.80
+ORD-00524,1282,pooja verma,f,19,Bhopal,"July 02, 2024",home and kitchen,2009.00,1,10,Cash on Delivery,Delivered,1808.10
+ORD-00709,1250,Simran Gupta,M,34,Bhopal,09/09/2024,Beauty,709.00,3,15,Debit Card,delivered,1807.95
+ORD-00391,1238,sanjay jain,Male,28,Delhi,16/05/2024,SPORTS,"2,188",-1,5,Upi,DELIVERED,2078.60
+ORD-00056,1063,Ritu Joshi,Male,39,INDORE,19-Jan-2024,home and kitchen,"Rs. 1,629",3,5,CC,Delivered,4642.65
+ORD-00216,1169,  Vikram Patel ,MALE,43,bhopal,18-Mar-2024,Sports,"₹1,625.00",2,20,Upi,Shipped,"₹2,600.00"
+ORD-00339,1266,AMIT VERMA,Female,52,Mumbai,29-Apr-2024,Electronics,11983.00,1,,CC,Delivered,10784.70
+ORD-00757,1299,  Amit Jain ,f,19,Bhopal,28-Sep-2024,Home & Kitchen,1226.00,1,0,Credit Card,pending,1226.00
+ORD-00522,1051,deepak verma,FEMALE,48,Mumbai,02-Jul-2024,electronics,"11,541",1,0,Cash on Delivery,DELIVERED,11541.00
+ORD-00057,1032,Anjali  Yadav,M,19,Indore,19/01/2024,electronics,6442.00,2,0,COD,delivered,"₹12,884.00"
+ORD-00579,1091,  Simran Verma ,f,39,Indore,"July 18, 2024",Home & Kitchen,1287.00,3,15,debit card,Pending,3281.85
+ORD-00430,1116,  Pooja Mishra ,Male,44,New Delhi,31/05/2024,Beauty,N/A,1,,Cash on Delivery,delivered,₹861.00
+ORD-00170,1097,Sanjay Patel,Female,21,bhopal,,electronics,8075.00,4,0,UPI,delivered,32300.00
+ORD-00292,1263,Priya Patel,Female,31,Delhi,13-Apr-2024,Electronics,"₹7,781.00",1,0,net banking,Delivered,7781.00
+ORD-00182,1117,  Aarav Jain ,Male,19,Bhopal,05/03/2024,Home & Kitchen,N/A,1,10,UPI,Delivered,1173.60
+ORD-00054,1030,  Isha Singh , Male,42 yrs,Bengaluru,19/01/2024,Home & Kitchen,1196.00,1,0,UPI,Delivered,1196.00
+ORD-00667,1102,  Pooja Singh ,Female,38,Delhi,22/08/2024,Clothing,874.00,2,5,Credit Card,DELIVERED,1660.60
+ORD-00920,1016,pooja malviya,M,52,INDORE,04-Dec-2024,Books,₹462.00,4,5,COD,DELIVERED,1755.60
+ORD-00347,1062,Kavya Gupta,male,40,Indore,"May 01, 2024",Books,462.00,N/A,20,upi,Cancelled,"₹1,108.80"
+ORD-00911,1118,POOJA JAIN,Female,26,pune,2024-12-02,Clothing,Rs. 932,2,0,debit card,Shipped,1864.00
+ORD-00152,1279,  Isha Mishra ,FEMALE,34,Pune,24-Feb-2024,beauty ,576.00,,10,UPI,delivered,518.40
+ORD-00453,1085,  Priya Sharma ,M,34,Indore ,"June 09, 2024",Clothing,"1,276",4,0,Cash on Delivery,Returned,5104.00
+ORD-00231,1281,Rahul  Sharma,Male,38,New Delhi,2024-03-23,books,₹398.00,1,0,Credit Card,cancelled,398.00
+ORD-00555,1180,Vivaan  Jain,MALE,25,Bhopal,2024-07-11,Clothes,741.00,2,20,debit card,DELIVERED,1185.60
+ORD-00821,1265,simran yadav,F,34,Delhi,21/10/2024,Clothing,"₹1,273.00",1,0,Cash on Delivery,Delivered,1273.00
+ORD-00614,1082,SNEHA GUPTA,Female,46,Mumbai,01/08/2024,Electronics,8676.00,3,15,credit card,delivered,22123.80
+ORD-00731,1297,karan yadav,FEMALE,35,Indore,"September 20, 2024",Electronics,5471.00,1,15,Upi,Delivered,4650.35
+ORD-00736,1238,Sanjay  Jain,M,28,New Delhi,22/09/2024,clothing,Rs. 684,2,0,Upi,delivered,"₹1,368.00"
+ORD-00912,1276,Deepak  Patel,Male,43,Indore,03-Dec-2024,ELECTRONICS,"₹11,648.00",2,0,upi,Delivered,23296.00
+ORD-00480,1188,ritu sharma,Male,37,INDORE,15/06/2024,Clothes,"₹1,038.00",4,15,credit card,delivered,3529.20
+ORD-00189,1160,simran jain,F,42,indore,07-Mar-2024,Electronics,"Rs. 5,593",3,0,upi,delivered,"₹16,779.00"
+ORD-00389,1087,  Manish Jain ,female,31 yrs,Bhopal,15/05/2024,clothing,"₹1,255.00",1,5,UPI,Shipped,1192.25
+ORD-00951,1128,Kavya  Verma,Female ,N/A,bhopal,13-Dec-2024,Clothing,708,1,20,upi,Delivered,566.40
+ORD-00833,1102,Pooja Singh,Female,38,delhi,27/10/2024,Sports,N/A,1,0,Upi,Delivered,"₹2,812.00"
+ORD-00889,1083,sneha mishra,Female,31,Delhi,2024-11-21,Clothes,"₹1,044.00",2,5,UPI,Delivered,1983.60
+ORD-00186,1169,Vikram  Patel,Male,43,bhopal,06/03/2024,Home&Kitchen,"Rs. 2,280",1,5,debit card,Pending,2166.00
+ORD-00535,1282,pooja verma,f,19,Bhopal,05-Jul-2024,books,Rs. 371,1,20,upi,Cancelled,
+ORD-00044,1065,Amit Singh,Female,41,Bengaluru,"January 16, 2024",clothing,759.00,1,0,Credit Card,PENDING,759.00
+ORD-00441,1218,Sneha  Verma,F,19,mumbai,2024-06-04,Beauty,893.00,2,0,UPI,shipped,1786.00
+ORD-00752,1182,Karan  Mishra, Male,40,indore,"September 27, 2024",Beauty,₹575.00,1,0,UPI,Delivered,575.00
+ORD-00639,1241,NEHA MISHRA,Female,36,Bangalore,10-Aug-2024,Electronics,"9,879",3,0,,delivered,"₹29,637.00"
+ORD-00143,1174,Vikram Yadav,male,34,pune,21-Feb-2024,Beauty,458,1,15,net banking,Delivered,389.30
+ORD-00996,1029,rahul verma,F,39,Indore,28-Dec-2024,Sports,2797.00,1,0,Debit Card,Delivered,2797.00
+ORD-00794,1083,  Sneha Mishra ,f,31,Delhi,09/10/2024,Clothing,"₹1,230.00",3,10,CC,Delivered,3321.00
+ORD-00840,1059,  Aarav Verma ,Male,31,indore,30/10/2024,Sports,2046.00,1,0,credit card,DELIVERED,2046.00
+ORD-00353,1199,AARAV VERMA,Male,36,Bhopal,"May 02, 2024",Books,369.00,1,5,UPI,Delivered,350.55
+ORD-00318,1042,ROHAN MISHRA,Female,28 yrs,mumbai,"April 22, 2024",SPORTS,"₹1,535.00",3,0,UPI,Shipped,
+ORD-00323,1056,Neha Jain,FEMALE,30,Pune,2024-04-23,home and kitchen,"Rs. 1,107",1,15,net banking,DELIVERED,₹940.95
+ORD-00449,1095,Karan Patel,Male,37 yrs,indore,2024-06-07,home and kitchen,"₹1,756.00",1,,Net Banking,Shipped,1492.60
+ORD-00830,1027,ANJALI GUPTA,Female ,NA,Indore,"October 25, 2024",electronics,7528.00,4,0,cod,Delivered,30112.00
+ORD-00668,1109,  Vivaan Sharma ,Male,29,Bangalore,2024-08-23,Clothes,Rs. 542,250,10,Upi,delivered,121950.00
+ORD-00503,1098,  Vikram Sharma ,M,42,Pune,24/06/2024,Clothing,1154.00,1,10,Cash on Delivery,Shipped,1038.60
+ORD-00754,1282,Pooja  Verma,Female,19,bhopal,"September 27, 2024",Electronics,"Rs. 9,803",2,5,CC,DELIVERED,18625.70
+ORD-00330,1243,POOJA MALVIYA,Female,23,bangalore,"April 27, 2024",Electronics,"5,912",1,5,Credit Card,Delivered,5616.40
+ORD-00819,1110,SNEHA YADAV,f,42,INDORE,"October 20, 2024",Beauty,778.00,1,0,UPI,Shipped,778.00
+ORD-00151,1114,DEEPAK JOSHI,Female,37,Pune,2024-02-23,Electronics,"9,602",3,15,Credit Card,Delivered,24485.10
+ORD-00636,1108,ISHA MALVIYA,Female,30,Delhi,,Clothes,"1,317",1,5,Debit Card,?,1251.15
+ORD-00068,1109,VIVAAN SHARMA,Male,29,Bengaluru,25-Jan-2024,?,"Rs. 1,863",2,10,Upi,Delivered,"₹3,353.40"
+ORD-00798,1080,RAHUL JAIN,female,25,Bhopal,11/10/2024,Home & Kitchen,"Rs. 1,882",3,10,cod,Delivered,"₹5,081.40"
+ORD-00682,1082,,Female,46,mumbai,29/08/2024,Electronics,5826.00,1,25,debit card,DELIVERED,"₹4,369.50"
+ORD-00580,1105,Neha Jain,,40 yrs,Pune,2024-07-18,Sports,"2,011",1,15,Cash on Delivery,DELIVERED,"₹1,709.35"
+ORD-00465,1169,  Vikram Patel ,-,43,Bhopal,12-Jun-2024,home and kitchen,"Rs. 1,640",1,5,CC,Delivered,1558.00
+ORD-00674,1118,POOJA JAIN,?,26 yrs,Pune,2024-08-25,Home & Kitchen,"Rs. 2,235",2,15,upi,delivered,"₹3,799.50"
+ORD-00328,1122,  Vivaan Singh ,M,25,N/A,"April 26, 2024",beauty ,524.00,3,0,UPI,delivered,1572.00
+ORD-00714,1139,pooja jain,FEMALE,22 yrs,Delhi,2024-09-14,Electronics,"₹7,291.00",1,15,Credit Card,pending,"₹6,197.35"
+ORD-00882,1241,NEHA MISHRA,Female,36,Bangalore,17-Nov-2024,Beauty,449.00,2,0,Credit Card,Delivered,898.00
+ORD-00564,1019,  Ritu Mishra ,male,30,Bangalore,"July 12, 2024",beauty ,₹788.00,1,0,Credit Card,delivered,788.00
+ORD-00871,1053,Manish Jain,N/A,19,bhopal,"November 10, 2024",Clothing,Rs. 905,3,20,Net Banking,Returned,"₹2,172.00"
+ORD-00982,1217,Deepak Verma,Male,38 yrs,mumbai,2024-12-24,ELECTRONICS,?,2,15,credit card,DELIVERED,9149.40
+ORD-00695,1018,ritu sharma,Female,21,Indore,2024-09-04,SPORTS,2370.00,4,15,upi,Delivered,"₹8,058.00"
+ORD-00987,1118,Pooja  Jain,Female,26,pune,25/12/2024,Clothing,961.00,5,5,net banking,Delivered,4564.75
+ORD-00356,1212,MANISH JOSHI,Female,23,delhi,"May 03, 2024",Home&Kitchen,2657.00,1,20,Credit Card,Delivered,2125.60
+ORD-00634,1053,Manish  Jain,Female,19,bhopal,09-Aug-2024,clothing,"₹1,069.00",1,0,Debit Card,Delivered,1069.00
+ORD-00956,1151,anjali mishra,MALE,42,delhi,2024-12-16,Home & Kitchen,2115.00,999,20,Net Banking,delivered,"₹1,690,308.00"
+ORD-00132,1039,PRIYA MALVIYA,?,21,Bangalore,2024-02-16,ELECTRONICS,7249.00,1,0,Cash on Delivery,Delivered,"₹7,249.00"
+ORD-00827,1219,AMIT YADAV,Male,33,Delhi,2024-10-23,Books,Rs. 334,1,20,debit card,PENDING,₹267.20
+ORD-00297,1152,Aarav Mishra,FEMALE,23,Pune,2024-04-14,Electronics,"₹8,883.00",1,5,UPI,Shipped,8438.85
+ORD-00284,1239,Deepak Sharma,M,37,Bangalore,09/04/2024,ELECTRONICS,10963.00,5,0,Cash on Delivery,shipped,"₹54,815.00"
+ORD-00883,1191,  Aarav Yadav ,Female,28,INDORE,17-Nov-2024,sports,"Rs. 2,834",3,0,Credit Card,Delivered,8502.00
+ORD-00418,1164,KARAN SHARMA,Male,44,bhopal,2024-05-29,Home & Kitchen,2514.00,4,15,Debit Card,CANCELLED,8547.60
+ORD-00992,1143,sneha yadav,Female,24,Indore ,27-Dec-2024,books,Rs. 275,1,5,UPI,Delivered,261.25
+ORD-00131,1142,kavya gupta,Male,30,delhi,16/02/2024,Electronics,8550.00,4,0,Debit Card,cancelled,34200.00
+ORD-00707,1133,vikram joshi,Female,,New Delhi,08-Sep-2024,Electronics,"Rs. 6,995",4,,Cash on Delivery,Returned,25182.00
+ORD-00782,1080,rahul jain,female,25,bhopal,06/10/2024,Beauty,963.00,1,0,UPI,DELIVERED,₹963.00
+ORD-00115,1278,  Vikram Joshi ,Female,37,bhopal,"February 09, 2024",Electronics,"10,570",1,0,,cancelled,"₹10,570.00"
+ORD-00613,1220,Vivaan  Patel,female,44,delhi,31-Jul-2024,books,408.00,1,15,Net Banking,delivered,346.80
+ORD-00964,1237,sneha gupta,FEMALE,29,Bhopal,19/12/2024,Books,Rs. 524,4,5,debit card,Delivered,1991.20
+ORD-00582,1199,Aarav  Verma,Male,36,bhopal,18/07/2024,Beauty,520.00,2,15,UPI,Shipped,₹884.00
+ORD-00868,1141,NEHA GUPTA,female,41,,"November 09, 2024",Clothing,1066.00,2,10,upi,delivered,"₹1,918.80"
+ORD-00428,1137,Rohan  Yadav,Male,34,Bhopal,31/05/2024,home and kitchen,2412.00,1,0,UPI,Delivered,2412.00
+ORD-00272,1295,Deepak Mishra,Male,24,Delhi,"April 06, 2024",home and kitchen,1796.00,2,0,Cash on Delivery,NA,?
+ORD-00526,1057,AMIT GUPTA,female,19 yrs,bhopal,02-Jul-2024,Clothes,676.00,4,0,UPI,pending,2704.00
+ORD-00314,1157,ADITYA MALVIYA,Female,32,,20/04/2024,clothing,Rs. 629,3,5,UPI,Delivered,1792.65
+ORD-00378,1275,?,Female,29,Indore ,08/05/2024,clothing,856.00,2,10,upi,Delivered,1540.80
+ORD-00519,1231,ISHA VERMA,Female,22,Delhi,30-Jun-2024,Electronics,"Rs. 6,592",-1,0,Upi,DELIVERED,"₹6,592.00"
+ORD-00856,1122,  Vivaan Singh , Male,25,Mumbai,2024-11-06,Clothing,636,5,0,Upi,Cancelled,3180.00
+ORD-00429,1259,RITU SHARMA,Female,NA,Mumbai,2024-05-31,Clothing,715.00,3,15,debit card,cancelled,1823.25
+ORD-00285,1067,  Vivaan Joshi ,f,36,Mumbai,2024-04-09,Sports,2528.00,1,?,upi,Delivered,"₹2,528.00"
+ORD-00130,1176,Rahul Sharma,m,24,pune,16/02/2024,Home & Kitchen,1554.00,2,15,UPI,Delivered,2641.80
+ORD-00396,1290,ritu verma,M,21,Indore,18-May-2024,Electronics,11536.00,3,5,debit card,Cancelled,32877.60
+ORD-00917,1022,ISHA PATEL,m,36,Indore,"December 04, 2024",Electronics,"₹5,898.00",1,0,Net Banking,DELIVERED,5898.00
+ORD-00394,1086,aditya sharma,Female ,25,Pune,17-May-2024,Home & Kitchen,1892.00,5,20,UPI,delivered,"₹7,568.00"
+ORD-00327,1060,Karan  Verma,F,32,mumbai,25/04/2024,Home & Kitchen,28416.00,1,15,upi,returned,24153.60
+ORD-00885,1181,N/A,Male,43,bhopal,2024-11-19,Sports,1689.00,1,10,COD,returned,1520.10
+ORD-00211,1185,  Aarav Jain ,Male,40,indore,"March 15, 2024",sports,3004.00,2,5,Debit Card,Delivered,5707.60
+ORD-00669,1055,Pooja Jain,Male,59,Indore ,2024-08-23,Clothing,1312.00,3,0,UPI,Shipped,"₹3,936.00"
+ORD-00651,1045,Manish Mishra,Female,34,Indore,15/08/2024,Home&Kitchen,1212.00,1,0,Upi,SHIPPED,1212.00
+ORD-00180,1217,Deepak  Verma,m,38,,05/03/2024,books,Rs. 348,3,5,net banking,Delivered,991.80
+ORD-00722,1149,Deepak Gupta,Male,49,indore,17-Sep-2024,Home & Kitchen,"1,941",3,25,UPI,delivered,4367.25
+ORD-00041,1143,SNEHA YADAV,FEMALE,24,INDORE,"January 15, 2024",Clothes,₹923.00,4,15,UPI,delivered,"₹3,138.20"
+ORD-00307,1238,SANJAY JAIN,Male,28,Delhi,18/04/2024,Beauty,₹832.00,1,25,Credit Card,Delivered,624.00
+ORD-00693,1162,sanjay yadav,M,19,bangalore,"September 04, 2024",sports,"2,924",1,?,Credit Card,delivered,2924.00
+ORD-00374,1047,DEEPAK PATEL,Female,28,bangalore,"May 08, 2024",Electronics,"Rs. 7,692",4,0,debit card,delivered,30768.00
+ORD-00616,1034,simran patel,Female,24,Indore,02/08/2024,Sports,2751.00,2,,Credit Card,returned,5226.90
+ORD-00936,1219,Amit Yadav,MALE,33,Delhi,2024-12-08,Beauty,668.00,1,10,Cash on Delivery,Delivered,₹601.20
+ORD-00273,1219,  Amit Yadav ,Male,33,delhi,"April 06, 2024",clothing,"Rs. 1,111",2,0,Credit Card,Cancelled,"₹2,222.00"
+ORD-00009,1048,-, Male,39,New Delhi,05/01/2024,Sports,1346.00,1,0,,SHIPPED,1346.00
+ORD-00627,1057,amit gupta,Female,19,Bhopal,07/08/2024,home and kitchen,1793.00,4,0,,DELIVERED,7172.00
+ORD-00553,1184,Pooja  Patel,M,46 yrs,,10-Jul-2024,SPORTS,1967.00,2,20,Credit Card,Cancelled,3147.20
+ORD-00398,1029,Rahul  Verma,F,39,INDORE,18/05/2024,Home&Kitchen,"1,312",4,0,cod,Shipped,5248.00
+ORD-00967,1240,KAVYA VERMA,Female,30,bhopal,"December 20, 2024",ELECTRONICS,8800.00,1,25,UPI,Cancelled,6600.00
+ORD-00802,1130,rohan joshi,Female,25,Bhopal,13-Oct-2024,clothing,₹754.00,1,15,UPI,Returned,640.90
+ORD-00809,1174,Vikram Yadav,Male,34,pune,"October 17, 2024",Electronics,8060.00,2,15,UPI,Shipped,13702.00
+ORD-00551,1216,  Vivaan Jain ,Male,39,bhopal,09/07/2024,Home & Kitchen,"Rs. 1,347",5,0,UPI,delivered,6735.00
+ORD-00645,1115,  Rahul Verma ,Male,32,mumbai,2024-08-12,Clothing,₹857.00,1,0,credit card,Delivered,857.00
+ORD-00263,1036,MANISH VERMA,FEMALE,20,bhopal,2024-04-04,beauty ,652,1,0,Debit Card,Pending,652.00
+ORD-00492,1105,Neha Jain,Female,40,Pune,20-Jun-2024,books,488.00,5,15,UPI,DELIVERED,"₹2,074.00"
+ORD-00080,1267,rohan malviya,Female,33,New Delhi,28-Jan-2024,ELECTRONICS,"5,449",5,0,UPI,Delivered,NA
+ORD-00593,1111,Aditya Gupta,FEMALE,49,bhopal,23/07/2024,Home&Kitchen,"Rs. 1,415",1,10,debit card,PENDING,1273.50
+ORD-00343,1041,  Simran Gupta ,M,36,bhopal,"April 30, 2024",home and kitchen,"₹1,976.00",3,0,UPI,delivered,5928.00
+ORD-00434,1118,pooja jain,Female,26,Pune,01/06/2024,Home&Kitchen,"2,402",2,15,UPI,Delivered,4083.40
+ORD-00050,1204,SNEHA VERMA,?,33,mumbai,"January 17, 2024",,"8,870",5,5,CC,Shipped,42132.50
+ORD-00251,1024,sneha mishra,female,NA,Bhopal,2024-03-31,Home&Kitchen,2363.00,4,0,Debit Card,delivered,9452.00
+ORD-00143,1174,  Vikram Yadav , Male,34 yrs,Pune,2024-02-21,beauty ,-,1,15,net banking,Delivered,389.30
+ORD-00610,1225,Rahul Malviya,Male,23,New Delhi,"July 30, 2024",Clothing,"₹1,096.00",2,5,Upi,RETURNED,2082.40
+ORD-00136,1058,rahul joshi,FEMALE,31,Pune,2024-02-17,books,₹368.00,999,0,upi,Delivered,367632.00
+ORD-00537,1084,Priya  Verma,Male,-5,Delhi,05/07/2024,beauty ,809.00,1,0,Upi,delivered,809.00
+ORD-00901,1077,  Simran Malviya ,Female,23,pune,"November 26, 2024",Sports,"Rs. 2,347",4,10,upi,Delivered,8449.20
+ORD-00937,1293,sneha yadav,male,34,mumbai,"December 09, 2024",Home & Kitchen,1493.00,4,10,debit card,DELIVERED,5374.80
+ORD-00997,1180,Vivaan  Jain,Male,25,bhopal,2024-12-28,Clothing,1148.00,1,10,CC,Delivered,"₹1,033.20"
+ORD-00383,1238,Sanjay  Jain, Male,28 yrs,New Delhi,11-May-2024,Beauty,582.00,2,15,debit card,cancelled,₹989.40
+ORD-00026,1064,VIVAAN JAIN,Male,19,INDORE,10-Jan-2024,books,262.00,1,15,UPI,Delivered,222.70
+ORD-00048,1059,Aarav  Verma,MALE,31,INDORE,17-Jan-2024,Sports,1521.00,1,10,debit card,Delivered,"₹1,368.90"
+ORD-00768,1285,SANJAY JOSHI,female,20,pune,02-Oct-2024,books,Rs. 227,2,15,COD,Pending,385.90
+ORD-00175,1160,Simran Jain,FEMALE,42,Indore,02-Mar-2024,ELECTRONICS,8809.00,2,,COD,Delivered,17618.00
+ORD-00030,1194,VIVAAN MISHRA,Male,51,Delhi,"January 12, 2024",Clothes,Rs. 828,2,5,Cash on Delivery,delivered,1573.20
+ORD-00154,1280,Manish  Mishra, Male,37,Indore,"February 25, 2024",home and kitchen,-,3,0,Credit Card,Cancelled,6084.00
+ORD-00556,1295,deepak mishra,MALE,24 yrs,Delhi,11-Jul-2024,electronics,"Rs. 5,221",2,5,UPI,Delivered,9919.90
+ORD-00585,1279,isha mishra,,34,Pune,2024-07-19,Sports,1624.00,5,0,CC,DELIVERED,8120.00
+ORD-00998,1124,  Manish Gupta ,MALE,45,MUMBAI,29-Dec-2024,Electronics,"Rs. 6,168",1,5,Credit Card,Delivered,5859.60
+ORD-00162,1171,SANJAY MALVIYA,Male,39,Bhopal,26-Feb-2024,Home & Kitchen,2526.00,1,0,Cash on Delivery,delivered,2526.00
+ORD-00245,1045,MANISH MISHRA,,34,Indore,2024-03-29,beauty ,411.00,3,0,UPI,Delivered,"₹1,233.00"
+ORD-00981,1003,sneha mishra,Female,38,Bangalore,"December 24, 2024",Clothing,940.00,2,10,Debit Card,pending,1692.00
+ORD-00159,1082,Sneha Gupta,Female ,46,mumbai,26/02/2024,Clothing,1064.00,2,15,upi,shipped,1808.80
+ORD-00531,1160,Simran Jain,Female,42,Indore,03-Jul-2024,Home & Kitchen,"Rs. 1,795",2,5,UPI,Delivered,3410.50
+ORD-00502,1114,Deepak Joshi,Female ,37,Pune,23-Jun-2024,Sports,"Rs. 3,038",3,15,upi,Delivered,-
+ORD-00433,1059,Aarav  Verma,Male,31,Indore,01/06/2024,books,₹220.00,1,15,Cash on Delivery,Cancelled,₹187.00
+ORD-00717,1214,Ritu  Mishra,Male,27,Bangalore,16-Sep-2024,Home & Kitchen,1987.00,1,0,upi,Delivered,1987.00
+ORD-00872,1056,Neha  Jain,Female ,30,pune,11/11/2024,Clothing,839.00,1,0,Cash on Delivery,Delivered,839.00
+ORD-00791,1127,  Rohan Patel ,MALE,33,MUMBAI,08/10/2024,Electronics,"Rs. 6,099",2,15,Debit Card,Returned,10368.30
+ORD-00367,1274,Sneha  Joshi,Female,30,INDORE,06/05/2024,home and kitchen,"1,707",1,0,Debit Card,Returned,1707.00
+ORD-00921,1258,Vikram Verma,Male,26,Bengaluru,2024-12-04,SPORTS,3119.00,5,0,UPI,delivered,15595.00
+ORD-00055,1125,  Manish Sharma ,FEMALE,32,Bangalore,"January 19, 2024",electronics,8235.00,4,20,debit card,Delivered,26352.00
+ORD-00670,1053,Manish Jain,Female ,19,Bhopal,2024-08-23,home and kitchen,,1,15,Debit Card,RETURNED,945.20
+ORD-00025,1003,Sneha Mishra,F,38,Bangalore,2024-01-10,Sports,"₹1,518.00",3,5,Upi,Delivered,4326.30
+ORD-00299,1131,MANISH VERMA,F,N/A,indore,15-Apr-2024,SPORTS,2924.00,1,5,upi,Pending,2777.80
+ORD-00557,1006,RAHUL YADAV,M,31,pune,"July 11, 2024",Sports,2884.00,1,5,Debit Card,delivered,2739.80
+ORD-00019,1192,  Simran Malviya ,?,,indore,08-Jan-2024,Electronics,6203.00,1,0,UPI,delivered,6203.00
+ORD-00255,1256,Vikram  Jain,Male,23,Indore,"April 01, 2024",home and kitchen,,5,15,UPI,CANCELLED,6574.75
+ORD-00226,1140,VIVAAN SHARMA,Female,19,bangalore,22-Mar-2024,books,234,2,15,CC,delivered,₹397.80
+ORD-00420,1270,Rahul Sharma,FEMALE,66,Indore,29-May-2024,Clothing,1061.00,1,0,Upi,Delivered,1061.00
+ORD-00630,1229,aditya singh,Female,45,Bhopal,08/08/2024,Clothing,"1,184",1,5,Net Banking,Shipped,1124.80
+ORD-00778,1053,manish jain,Female,-,Bhopal,04-Oct-2024,electronics,6385.00,2,0,Credit Card,,12770.00
+ORD-00223,1072,  Neha Gupta ,Male,,Pune,21/03/2024,Books,₹386.00,4,5,,DELIVERED,"₹1,466.80"
+ORD-00698,1150,Neha  Sharma,Female,37,Mumbai,06-Sep-2024,Sports,"2,930",4,10,debit card,DELIVERED,10548.00
+ORD-00425,1230,Deepak Verma,m,33 yrs,Indore,30/05/2024,Home&Kitchen,1753.00,1,0,Credit Card,Delivered,"₹1,753.00"
+ORD-00219,1101,ANJALI YADAV,m,38,bhopal,19-Mar-2024,Books,487.00,1,15,UPI,Delivered,413.95
+ORD-00848,1193,Aarav  Verma,female,51,Bhopal,2024-11-03,home and kitchen,1555.00,2,0,Cash on Delivery,delivered,3110.00
+ORD-00843,1131,Manish  Verma,Female,40,indore,01-Nov-2024,Electronics,9617.00,2,,UPI,Shipped,18272.30
+ORD-00795,1103,Pooja  Malviya,Female,32,Mumbai,09/10/2024,books,286.00,1,0,credit card,Delivered,N/A
+ORD-00443,1059,,m,31,Indore,04/06/2024,Clothing,710.00,4,5,Net Banking,Delivered,2698.00
+ORD-00657,1175,  Rohan Verma ,m,31,bangalore,18/08/2024,Electronics,"₹7,134.00",1,0,UPI,Delivered,7134.00
+ORD-00287,1021,Rohan  Jain,F,42,Delhi,10-Apr-2024,Home & Kitchen,2402.00,250,0,UPI,Shipped,600500.00
+ORD-00067,1104,manish yadav,MALE,42,Bhopal,24-Jan-2024,electronics,10703.00,1,15,Debit Card,Shipped,9097.55
+ORD-00454,1293,  Sneha Yadav ,m,34,MUMBAI,"June 09, 2024",clothing,"₹1,261.00",2,NA,,delivered,2395.90
+ORD-00989,1107,  Manish Gupta ,Male,29,Indore ,"December 26, 2024",Electronics,11169.00,1,0,Cash on Delivery,Delivered,"₹11,169.00"
+ORD-00072,1108,isha malviya,,30,NA,"January 25, 2024",Clothes,"Rs. 1,078",1,25,COD,shipped,808.50
+ORD-00779,1068,Manish Patel,Female ,31,bhopal,05/10/2024,Home & Kitchen,22032.00,1,5,Upi,Cancelled,"₹20,930.40"
+ORD-00413,1277,,,34,bangalore,26/05/2024,sports,"22,428",5,0,UPI,shipped,112140.00
+ORD-00083,1210,neha joshi,m,34,Indore,29-Jan-2024,Books,437.00,1,5,Net Banking,delivered,415.15
+ORD-00965,1289,Simran Joshi,Male,42,delhi,20-Dec-2024,SPORTS,,1,5,Debit Card,Delivered,1808.80
+ORD-00874,1140,Vivaan  Sharma,F,19,bangalore,11/11/2024,,₹440.00,2,10,cod,Delivered,792.00
+ORD-00016,1095,Karan Patel,Male,37,Indore,07-Jan-2024,beauty ,Rs. 471,N/A,5,CC,Delivered,447.45
+ORD-00774,1205,SIMRAN SHARMA,female,33,Pune,04-Oct-2024,Electronics,8985.00,1,15,UPI,cancelled,7637.25
+ORD-00536,1132,Neha  Yadav,Female,32,,2024-07-05,Clothing,613.00,1,10,,SHIPPED,551.70
+ORD-00832,1119,kavya gupta,Male,26,Bhopal,27-Oct-2024,Clothing,898.00,1,5,Debit Card,Delivered,853.10
+ORD-00452,1062,KAVYA GUPTA,Male,,indore,09-Jun-2024,Beauty,,,5,UPI,Delivered,1464.90
+ORD-00607,1113,ISHA PATEL,MALE,30 yrs,Delhi,2024-07-29,Home&Kitchen,1712.00,1,15,UPI,,1455.20
+ORD-00405,1039,PRIYA MALVIYA,Male,,Bangalore,2024-05-23,beauty ,911.00,2,10,upi,Delivered,"₹1,639.80"
+ORD-00491,1039,Priya Malviya,,21,Bengaluru,19/06/2024,Beauty,642.00,3,0,CC,delivered,1926.00
+ORD-00851,1041,Simran  Gupta,male,36 yrs,bhopal,04-Nov-2024,Clothing,1188.00,?,,Credit Card,cancelled,950.40
+ORD-00896,1068,Manish Patel,Female,31 yrs,bhopal,25-Nov-2024,Home & Kitchen,"₹2,550.00",4,5,upi,Delivered,9690.00
+ORD-00365,1229,aditya singh,Female,45,Bhopal,05/05/2024,beauty ,651.00,1,20,debit card,DELIVERED,520.80
+ORD-00460,1281,Rahul  Sharma,Male,38,New Delhi,"June 11, 2024",Home & Kitchen,"Rs. 1,696",4,10,upi,Delivered,"₹6,105.60"
+ORD-00105,1063,Ritu  Joshi,male,39,indore,06-Feb-2024,electronics,"9,240",4,10,UPI,delivered,33264.00
+ORD-00269,1074,  Aarav Malviya ,Male,NA,New Delhi,"April 05, 2024",Electronics,"Rs. 11,345",1,5,CC,Delivered,10777.75
+ORD-00908,1235,ROHAN YADAV,Male,28,Bangalore,2024-12-02,electronics,9044.00,2,5,upi,DELIVERED,17183.60
+ORD-00716,1025,kavya jain,f,28,New Delhi,"September 15, 2024",ELECTRONICS,"₹6,293.00",2,10,UPI,pending,11327.40
+ORD-00242,1049,Karan Singh,Female,29,MUMBAI,"March 27, 2024",Books,428.00,4,0,Upi,Delivered,"₹1,712.00"
+ORD-00431,1084,PRIYA VERMA,Male,19,delhi,31/05/2024,Electronics,"₹8,648.00",1,10,,DELIVERED,7783.20
+ORD-00927,1162,SANJAY YADAV,male,19 yrs,,05-Dec-2024,Books,216.00,2,0,Debit Card,Delivered,432.00
+ORD-00204,1118,POOJA JAIN,Female,26,pune,13-Mar-2024,Clothing,Rs. 954,3,0,Credit Card,Delivered,2862.00
+ORD-00990,1192,Simran  Malviya,Female,21,Indore,26/12/2024,Electronics,6060.00,3,5,Debit Card,Delivered,17271.00
+ORD-00596,1221,Vikram Patel,Female,45,N/A,24-Jul-2024,ELECTRONICS,"4,945",4,5,Cash on Delivery,delivered,"₹18,791.00"
+ORD-00097,1032,ANJALI YADAV,Male,19,INDORE,04/02/2024,Clothing,₹578.00,1,10,UPI,Delivered,520.20
+ORD-00468,1047,Deepak Patel,Female,28,Bengaluru,"June 12, 2024",Home & Kitchen,"Rs. 1,602",1,0,CC,Delivered,-
+ORD-00649,1249,  Aditya Patel ,FEMALE,34,indore,"August 14, 2024",clothing,894.00,2,5,UPI,Delivered,1698.60
+ORD-00493,1034,Simran Patel,Female,24,?,21-Jun-2024,NA,"₹1,475.00",2,NA,debit card,Delivered,2950.00
+ORD-00167,1106,  Neha Jain ,Female,47,Bhopal,2024-02-29,Electronics,"Rs. 7,855",1,10,Upi,Delivered,7069.50
+ORD-00679,1053,  Manish Jain ,Female,19,Bhopal,"August 28, 2024",Sports,"Rs. 3,002",3,0,UPI,DELIVERED,9006.00
+ORD-00936,1219,Amit Yadav,MALE,33,Delhi,2024-12-08,Beauty,668.00,1,10,Cash on Delivery,Delivered,₹601.20
+ORD-00898,1255,Neha Malviya,Male,50 yrs,Indore,26-Nov-2024,Clothing,1117.00,1,25,Debit Card,Delivered,837.75
+ORD-00316,1065,Amit Singh,Female,41,bangalore,21/04/2024,Sports,2322.00,3,0,upi,Delivered,6966.00
+ORD-00362,1014,Sneha  Mishra,Male,22,Mumbai,2024-05-04,ELECTRONICS,"₹10,286.00",1,0,Debit Card,Delivered,"₹10,286.00"
+ORD-00139,1240,KAVYA VERMA,FEMALE,,Bhopal,2024-02-18,Beauty,735.00,4,15,debit card,DELIVERED,2499.00
+ORD-00277,1281,RAHUL SHARMA,m,38,New Delhi,07/04/2024,Clothing,1147.00,1,20,Cash on Delivery,Shipped,917.60
+ORD-00385,1297,karan yadav,Female,35,,"May 11, 2024",Electronics,"₹5,425.00",1,0,Cash on Delivery,PENDING,5425.00
+ORD-00569,1225,rahul malviya,Male,23,delhi,2024-07-13,Home & Kitchen,1207.00,1,5,Credit Card,pending,1146.65
+ORD-00845,1223,rahul singh,Male,,Mumbai,03-Nov-2024,beauty ,652.00,,0,Credit Card,SHIPPED,652.00
+ORD-00089,1138,SNEHA GUPTA,MALE,32,Indore ,2024-02-01,electronics,"₹8,378.00",2,0,debit card,DELIVERED,"₹16,756.00"
+ORD-00847,1158,Karan  Singh,Male,37,bhopal,03/11/2024,Home & Kitchen,2456.00,1,0,UPI,DELIVERED,2456.00
+ORD-00281,1039,priya malviya,male,21,Bengaluru,"April 08, 2024",Home&Kitchen,"1,887",2,15,,Delivered,3207.90
+ORD-00461,1262,Rohan Mishra,Male,52,Bhopal,11/06/2024,Home & Kitchen,,1,15,COD,Delivered,1711.05
+ORD-00661,1062,Kavya  Gupta,male,40,?,"August 20, 2024",Electronics,8163.00,2,0,Credit Card,Delivered,16326.00
+ORD-00924,1092,Pooja Singh,Male,29 yrs,Indore,05-Dec-2024,electronics,7877.00,1,15,UPI,Pending,6695.45
+ORD-00578,1190,ANJALI MALVIYA,female,35,Bengaluru,17-Jul-2024,books,512.00,1,20,credit card,Delivered,₹409.60
+ORD-00203,1255,neha malviya,Male,50,Indore,13-Mar-2024,Sports,"19,020",1,15,Cash on Delivery,shipped,16167.00
+ORD-00403,1163,vikram malviya,Female ,19,Mumbai,2024-05-20,Beauty,582.00,1,15,UPI,shipped,494.70
+ORD-00341,1108,  Isha Malviya ,,30,Delhi,"April 29, 2024",Clothing,1230.00,1,5,Upi,delivered,1168.50
+ORD-00366,1252,Vikram Mishra,Male,46,Indore,2024-05-05,Home & Kitchen,1602.00,4,0,credit card,DELIVERED,6408.00
+ORD-00024,1001,vivaan jain,Female,,INDORE,09/01/2024,ELECTRONICS,8532.00,3,5,COD,Delivered,
+ORD-00346,1011,Rahul Patel,male,26,mumbai,"May 01, 2024",clothing,Rs. 777,1,10,UPI,Delivered,699.30
+ORD-00993,1022,Isha  Patel,M,36,Indore ,27/12/2024,sports,"Rs. 2,916",1,5,UPI,Returned,"₹2,770.20"
+ORD-00335,1175,Rohan Verma,M,31,Bengaluru,28-Apr-2024,Clothing,722,2,10,Credit Card,Returned,1299.60
+ORD-00311,1175,ROHAN VERMA,male,31,bangalore,20/04/2024,Clothing,"Rs. 1,160",1,10,upi,DELIVERED,1044.00
+ORD-00957,1202,Priya  Yadav,Female ,35,Indore ,16/12/2024,Books,288,3,10,Credit Card,DELIVERED,777.60
+ORD-00641,1117,  Aarav Jain ,Male,19,,"August 10, 2024",Clothing,769.00,3,15,Net Banking,Shipped,1960.95
+ORD-00354,1013,Manish Singh,M,50,Bangalore,02/05/2024,books,495.00,1,0,-,DELIVERED,495.00
+ORD-00134,1097,sanjay patel,Female,21 yrs,Bhopal,2024-02-17,Books,260.00,2,20,Cash on Delivery,Pending,416.00
+ORD-00241,1202,PRIYA YADAV,Female,35,Indore,26-Mar-2024,Home & Kitchen,"₹2,411.00",1,5,cod,delivered,2290.45
+ORD-00319,1173,Simran  Malviya,Male,25,Bangalore,22/04/2024,Sports,1624.00,3,0,UPI,Shipped,4872.00
+ORD-00784,1274,  Sneha Joshi ,f,30,INDORE,2024-10-06,clothing,Rs. 605,3,25,Net Banking,delivered,1361.25
+ORD-00263,1036,Manish Verma,Female,20,bhopal,2024-04-04,Beauty,652,1,0,Debit Card,PENDING,₹652.00
+ORD-00099,1208,Aarav  Singh,,34,Indore,04-Feb-2024,Clothing,561.00,1,0,Cash on Delivery,Shipped,561.00
+ORD-00892,1284,Karan  Malviya,MALE,0 yrs,Bengaluru,"November 22, 2024",sports,"1,904",2,10,upi,Delivered,3427.20
+ORD-00950,1087,Manish  Jain,Female,31,Bhopal,13/12/2024,Sports,2213.00,2,0,upi,Delivered,4426.00
+ORD-00922,1261,Anjali Verma,Male,48,indore,04-Dec-2024,Clothing,"1,132",1,0,Credit Card,Delivered,1132.00
+ORD-00090,1186,  Priya Singh ,Male,41 yrs,Mumbai,02-Feb-2024,Electronics,"8,250",2,0,UPI,Cancelled,16500.00
+ORD-00516,1131,Manish Verma,Female,NA,Indore,2024-06-29,Electronics,10702.00,1,15,CC,PENDING,9096.70
+ORD-00332,1293,,Male,34,Mumbai,28/04/2024,Home & Kitchen,2520.00,1,25,Cash on Delivery,cancelled,1890.00
+ORD-00724,1123,Sanjay  Sharma,Male,32,Delhi,"September 17, 2024",Home & Kitchen,,3,0,Credit Card,delivered,5718.00
+ORD-00434,1118,POOJA JAIN,Female,26,pune,"June 01, 2024",Home & Kitchen,2402.00,2,15,UPI,Delivered,4083.40
+ORD-00972,1204,Sneha Verma,Male,33,Mumbai,21/12/2024,Sports,2757.00,300,0,Upi,Delivered,827100.00
+ORD-00772,1251,ADITYA SINGH,Male,33,Delhi,"October 03, 2024",Home & Kitchen,1221.00,4,5,Net Banking,Delivered,4639.80
+ORD-00487,1196,ISHA VERMA,Female,37,?,"June 18, 2024",Electronics,"₹7,850.00",3,0,UPI,Delivered,23550.00
+ORD-00659,1033,  Sneha Patel ,Female,39,Bangalore,"August 20, 2024",Home & Kitchen,"₹1,497.00",1,15,Upi,Delivered,1272.45
+ORD-00681,1056,Neha  Jain,Female,30,Pune,2024-08-28,ELECTRONICS,"₹6,634.00",5,0,debit card,Delivered,33170.00
+ORD-00985,1048,Ritu  Malviya,MALE,,delhi,25/12/2024,books,₹473.00,3,5,credit card,CANCELLED,1348.05
+ORD-00800,1129,KAVYA VERMA,Male,24,bhopal,12/10/2024,electronics,"₹5,963.00",3,15,UPI,Pending,15205.65
+ORD-00261,1174,VIKRAM YADAV,M,34,Pune,04-Apr-2024,Clothes,"1,323",1,0,Cash on Delivery,Delivered,1323.00
+ORD-00306,1114,Deepak  Joshi,Female,37,Pune,2024-04-17,clothing,"Rs. 1,284",1,0,UPI,Shipped,1284.00
+ORD-00945,1014,  Sneha Mishra ,Male,22,Mumbai,2024-12-11,Electronics,"₹8,213.00",1,0,Credit Card,Cancelled,8213.00
+ORD-00197,1032,Anjali  Yadav,Male,19,Indore ,10-Mar-2024,Clothing,1198.00,2,15,Debit Card,Delivered,2036.60
+ORD-00141,1010,  Deepak Gupta ,M,22,bhopal,19/02/2024,ELECTRONICS,"₹7,628.00",4,0,Debit Card,Delivered,30512.00
+ORD-00595,1014,  Sneha Mishra ,Male,22,MUMBAI,2024-07-23,home and kitchen,1369.00,2,10,upi,Delivered,2464.20
+ORD-00123,1087,manish jain,Female,31,bhopal,2024-02-13,Clothes,₹763.00,5,15,Net Banking,Cancelled,3242.75
+ORD-00495,1142,  Kavya Gupta ,Male,30,delhi,22-Jun-2024,Beauty,790.00,1,15,UPI,delivered,671.50
+ORD-00111,NA,Manish Verma,Female,999,New Delhi,"February 08, 2024",Sports,1936.00,1,0,Debit Card,DELIVERED,1936.00
+ORD-00085,1226,VIKRAM YADAV,Male,37,Pune,30-Jan-2024,Clothing,₹938.00,2,10,net banking,Delivered,1688.40
+ORD-00718,1005,  Karan Sharma ,Female ,22,Pune,"September 16, 2024",Books,379.00,1,15,-,Delivered,322.15
+ORD-00514,1202,priya yadav,Female,35 yrs,N/A,"June 28, 2024",clothing,1229.00,1,0,credit card,DELIVERED,1229.00
+ORD-00483,1153,RAHUL VERMA,f,23,mumbai,16-Jun-2024,clothing,1026.00,1,0,UPI,Delivered,1026.00
+ORD-00944,1224,PRIYA YADAV,Female,26,Indore,11-Dec-2024,Clothing,895,2,5,net banking,DELIVERED,1700.50
+ORD-00981,1003,sneha mishra,Female,38,Bangalore,"December 24, 2024",Clothing,940.00,2,10,Debit Card,pending,1692.00
+ORD-00075,1279,isha mishra,FEMALE,34,pune,2024-01-27,books,240.00,1,5,Upi,Delivered,?
+ORD-00497,1123,Sanjay  Sharma,Male,,New Delhi,22-Jun-2024,Home & Kitchen,"₹1,328.00",1,5,CC,DELIVERED,1261.60
+ORD-00891,1008,isha jain,Female,41,Indore,"November 22, 2024",electronics,"₹11,317.00",4,0,Upi,Cancelled,45268.00
+ORD-00274,1183,aditya joshi,Female ,38,Mumbai,06-Apr-2024,Electronics,10836.00,3,5,Cash on Delivery,Delivered,30882.60
+ORD-00397,1060,  Karan Verma ,Female,32,Mumbai,2024-05-18,,"Rs. 4,829",1,10,UPI,Returned,4346.10
+ORD-00155,1220,  Vivaan Patel ,Female,44 yrs,Delhi,25/02/2024,Beauty,739.00,5,20,N/A,pending,2956.00
+ORD-00192,1249,Aditya  Patel,F,34,?,"March 09, 2024",home and kitchen,1192.00,3,10,UPI,Delivered,3218.40
+ORD-00974,1157,Aditya  Malviya,Female,32,pune,22-Dec-2024,Home&Kitchen,"₹2,213.00",1,15,Debit Card,,1881.05
+ORD-00188,1227,Pooja Sharma,FEMALE,38,bhopal,"March 07, 2024",Clothing,₹601.00,1,0,Cash on Delivery,Delivered,601.00
+ORD-00051,1009,rahul verma,Male,54,indore,2024-01-18,Clothing,575.00,1,0,upi,Delivered,575.00
+ORD-00039,1253,NEHA GUPTA,Male,19,New Delhi,14-Jan-2024,Home&Kitchen,"₹2,379.00",N/A,0,Net Banking,delivered,2379.00
+ORD-00419,1290,RITU VERMA,Male,21,INDORE,"May 29, 2024",clothing,"₹1,085.00",1,15,Credit Card,CANCELLED,₹922.25
+ORD-00934,1282,Pooja Verma,Female,19,Bhopal,2024-12-08,Sports,"Rs. 1,386",1,0,Cash on Delivery,DELIVERED,1386.00
+ORD-00209,1294,Kavya Sharma,Female,37,Bangalore,15/03/2024,Home & Kitchen,"Rs. 2,355",1,25,UPI,Pending,1766.25
+ORD-00376,1161,Priya  Verma,Female,,Bhopal,2024-05-08,Electronics,"₹11,389.00",3,15,Credit Card,Delivered,29041.95
+ORD-00464,1071,Vikram  Malviya,Female,19,Indore,11/06/2024,,780.00,1,5,Credit Card,Cancelled,741.00
+ORD-00471,1045,manish mishra,Female,34,Indore,13-Jun-2024,Clothes,583,4,5,credit card,returned,2215.40
+ORD-00518,1069,Sanjay Sharma,M,33,bhopal,29/06/2024,beauty ,953.00,4,10,Upi,Delivered,?
+ORD-00076,1184,Pooja  Patel,Male,46,Indore ,2024-01-27,Clothing,₹694.00,4,0,COD,Cancelled,2776.00
+ORD-00249,1073,vikram mishra,,30,Bangalore,30/03/2024,Electronics,?,2,-10,debit card,Pending,20334.60
+ORD-00560,1270,RAHUL SHARMA,Female ,66,Indore,11/07/2024,beauty ,₹777.00,1,5,Cash on Delivery,returned,738.15
+ORD-00303,1188,Ritu  Sharma,m,37,Indore,2024-04-16,Clothes,"Rs. 1,113",2,5,UPI,Delivered,2114.70
+ORD-00583,1234,Rohan Joshi,Female,32,bangalore,2024-07-18,Electronics,7138.00,1,10,upi,Delivered,"₹6,424.20"
+ORD-00788,1204,SNEHA VERMA, Male,33,Mumbai,07-Oct-2024,Books,240,1,10,Debit Card,Delivered,216.00
+ORD-00972,1204,  Sneha Verma ,Male,33,Mumbai,21-Dec-2024,Sports,2757.00,300,0,Upi,delivered,827100.00
+ORD-00012,1082,Sneha Gupta,female,46,MUMBAI,06-Jan-2024,Clothes,₹762.00,1,0,Credit Card,Delivered,762.00
+ORD-00296,1157,aditya malviya,Female,32,pune,14/04/2024,Clothing,1122.00,1,20,,Delivered,897.60
+ORD-00486,1186,Priya Singh,Male,41,Mumbai,18-Jun-2024,beauty ,₹830.00,1,15,Credit Card,delivered,705.50
+ORD-00463,1013,  Manish Singh ,Male,50,Bangalore,2024-06-11,Clothing,1035.00,1,20,UPI,Delivered,828.00
+ORD-00539,1030,isha singh,MALE,42,Bengaluru,06-Jul-2024,electronics,"11,110",2,25,CC,Delivered,16665.00
+ORD-00628,1265,Simran  Yadav,Female,34,New Delhi,07/08/2024,home and kitchen,2191.00,1,20,Upi,Delivered,1752.80
+ORD-00282,1036,Manish Verma,F,20,Bhopal,08-Apr-2024,sports,"₹2,485.00",2,0,UPI,cancelled,4970.00
+ORD-00254,1257,Deepak  Mishra,Male,30,Bangalore,01/04/2024,Electronics,4848.00,1,0,debit card,delivered,4848.00
+ORD-00708,1267,  Rohan Malviya ,Female ,?,Delhi,"September 08, 2024",Clothes,960.00,3,15,UPI,CANCELLED,2448.00
+ORD-00316,1065,Amit Singh,Female,41,bangalore,21/04/2024,Sports,2322.00,3,0,upi,Delivered,6966.00
+ORD-00762,1051,  Deepak Verma ,Female ,48,Mumbai,2024-09-30,Home&Kitchen,"Rs. 2,625",2,5,COD,DELIVERED,"₹4,987.50"
+ORD-00970,1221,Vikram Patel,Female ,45,Pune,20/12/2024,Electronics,9509.00,2,5,net banking,Delivered,18067.10
+ORD-00578,1190,ANJALI MALVIYA,female,35,Bengaluru,17-Jul-2024,books,512.00,1,20,credit card,Delivered,₹409.60
+ORD-00976,1057,amit gupta,female,19,bhopal,"December 22, 2024",ELECTRONICS,"11,415",1,0,UPI,DELIVERED,"₹11,415.00"
+ORD-00220,1224,Priya Yadav,F,26,Indore,-,home and kitchen,"2,577",1,20,Credit Card,delivered,2061.60
+ORD-00426,1145,  Rahul Gupta ,Male,45,INDORE,31/05/2024,Home & Kitchen,2034.00,2,0,Cash on Delivery,delivered,4068.00
+ORD-00370,1018,ritu sharma,Female,21,Indore,"May 07, 2024",ELECTRONICS,"₹10,166.00",2,20,net banking,delivered,16265.60
+ORD-00737,1021,ROHAN JAIN,Female,42,New Delhi,22-Sep-2024,Clothing,1254.00,4,0,cod,DELIVERED,5016.00
+ORD-00070,1017,VIVAAN JOSHI,m,19,INDORE,25/01/2024,Beauty,579.00,1,-,debit card,Delivered,579.00
+ORD-00868,1141,NEHA GUPTA,female,41,,"November 09, 2024",Clothing,1066.00,2,10,upi,delivered,"₹1,918.80"
+ORD-00581,1131,MANISH VERMA,Female,40,Indore,2024-07-18,Clothing,1105.00,3,5,Cash on Delivery,Delivered,"₹3,149.25"
+ORD-00022,1020,Neha Singh,Female ,29 yrs,MUMBAI,"January 09, 2024",Clothes,₹896.00,5,15,Net Banking,Delivered,"₹3,808.00"
+ORD-00078,1062,kavya gupta,Male,40,indore,27-Jan-2024,Beauty,-,4,15,credit card,shipped,2577.20
+ORD-00548,1178,VIKRAM YADAV,f,52,Delhi,08/07/2024,Beauty,543.00,2,0,COD,DELIVERED,1086.00
+ORD-00557,1006,RAHUL YADAV,M,31,pune,"July 11, 2024",Sports,2884.00,1,5,Debit Card,delivered,2739.80
+ORD-00319,1173,SIMRAN MALVIYA,Male,25,Bangalore,2024-04-22,SPORTS,1624.00,3,0,upi,SHIPPED,
+ORD-00793,1289,simran joshi,Male,42,delhi,"October 08, 2024",Home & Kitchen,"₹1,659.00",3,0,net banking,CANCELLED,4977.00
+ORD-00126,1115,Rahul Verma,Male,32,Mumbai,14-Feb-2024,Clothing,₹837.00,4,5,Debit Card,DELIVERED,3180.60
+ORD-00229,1171,SANJAY MALVIYA,male,0,Bhopal,2024-03-22,,312,1,0,Upi,delivered,312.00
+ORD-00043,1103,POOJA MALVIYA,Female,32,Mumbai,2024-01-16,Beauty,₹714.00,1,-,upi,DELIVERED,714.00
+ORD-00517,1243,Pooja Malviya,female,23,Bangalore,"June 29, 2024",Books,₹462.00,?,20,Upi,Delivered,369.60
+ORD-00573,1137,Rohan Yadav,Male,,bhopal,16/07/2024,ELECTRONICS,10820.00,5,25,upi,delivered,40575.00
+ORD-00577,1232,Isha Gupta,f,31,bhopal,17/07/2024,Books,₹502.00,4,N/A,credit card,Returned,1706.80
+ORD-00855,1196,Isha  Verma,FEMALE,37,indore,,beauty ,₹733.00,1,5,,shipped,696.35
+ORD-00622,1060,Karan Verma,F,32,mumbai,"August 06, 2024",Clothes,Rs. 925,2,10,credit card,Returned,1665.00
+ORD-00744,1267,Rohan Malviya,Female,33,Delhi,"September 24, 2024",Electronics,11599.00,1,5,UPI,Cancelled,"₹11,019.05"
+ORD-00375,1217,DEEPAK VERMA,Male,38,MUMBAI,"May 08, 2024",ELECTRONICS,10002.00,5,15,Upi,SHIPPED,42508.50
+ORD-00206,1278,vikram joshi,Female,37,bhopal,"March 14, 2024",Home & Kitchen,1565.00,1,15,Credit Card,Delivered,1330.25
+ORD-00317,1135,Sanjay Joshi,Male,41,New Delhi,22/04/2024,ELECTRONICS,"Rs. 7,913",2,20,Net Banking,delivered,"₹12,660.80"
+ORD-00645,1115,  Rahul Verma ,Male,32,mumbai,2024-08-12,Clothing,₹857.00,1,0,credit card,Delivered,857.00
+ORD-00007,1105,NEHA JAIN,Female,40,,04/01/2024,Electronics,10185.00,1,5,UPI,,9675.75
+ORD-00494,1028,POOJA SHARMA,F,28,Pune,2024-06-21,clothing,1005.00,1,0,net banking,Delivered,1005.00
+ORD-00758,1168,Pooja  Mishra,FEMALE,35,mumbai,2024-09-29,Clothing,943.00,1,15,Credit Card,delivered,801.55
+ORD-00930,1039,priya malviya,Male,21,Bangalore,"December 06, 2024",Beauty,805.00,1,0,debit card,SHIPPED,805.00
+ORD-00819,1110,sneha yadav,Female,42,Indore ,20/10/2024,Beauty,Rs. 778,1,0,upi,Shipped,778.00
+ORD-00785,1231,isha verma,FEMALE,22,New Delhi,2024-10-06,home and kitchen,1604.00,1,20,CC,PENDING,"₹1,283.20"
+ORD-00260,1264,Simran  Verma,Female,53,Indore,03-Apr-2024,Home & Kitchen,"₹1,583.00",5,-,Net Banking,shipped,7519.25
+ORD-00283,1265,simran yadav,f,34,New Delhi,08-Apr-2024,Clothes,₹542.00,4,10,debit card,Returned,1951.20
+ORD-00635,1226,  Vikram Yadav , Male,37 yrs,Pune,2024-08-09,Clothes,"1,033",2,10,Upi,Delivered,1859.40
+ORD-00591,1189,ISHA JAIN,Female,19,bangalore,22-Jul-2024,beauty ,550.00,3,5,upi,Delivered,"₹1,567.50"
+ORD-00940,,Simran Verma,f,53,INDORE,10/12/2024,Beauty,645.00,4,20,debit card,Pending,2064.00
+ORD-00475,1110,Sneha  Yadav,female,42,Indore,14/06/2024,Home & Kitchen,1869.00,3,10,Cash on Delivery,Pending,"₹5,046.30"
+ORD-00456,1066,Amit  Joshi, Male,55,bhopal,"June 10, 2024",Home & Kitchen,"₹1,470.00",2,0,upi,DELIVERED,2940.00
+ORD-00321,1148,Rahul  Joshi,Female,25,Bangalore,23/04/2024,Home&Kitchen,"₹1,865.00",2,15,upi,Delivered,3170.50
+ORD-00435,1035,vivaan gupta,Male,36,bhopal,,beauty ,493,1,5,Upi,shipped,468.35
+ORD-00664,1247,Manish  Singh,?,19,Indore,"August 21, 2024",Electronics,"Rs. 5,603",3,150,credit card,Delivered,"₹16,809.00"
+ORD-00300,1208,  Aarav Singh ,f,34,Indore,"April 15, 2024",home and kitchen,2184.00,3,15,credit card,DELIVERED,5569.20
+ORD-00919,1157,ADITYA MALVIYA,f,999,pune,2024-12-04,electronics,"99,012",1,0,Credit Card,delivered,99012.00
+ORD-00437,1218,  Sneha Verma ,Female,19,Mumbai,02/06/2024,beauty ,₹832.00,5,0,UPI,DELIVERED,4160.00
+ORD-00676,1073,VIKRAM MISHRA,M,30,Bengaluru,27/08/2024,home and kitchen,"2,659",4,5,Net Banking,DELIVERED,10104.20
+ORD-00866,1030,  Isha Singh ,M,42,Bangalore,09/11/2024,Beauty,407.00,5,15,cod,Returned,1729.75
+ORD-00439,1171,  Sanjay Malviya ,Male,,Bhopal,03-Jun-2024,beauty ,618.00,1,0,upi,DELIVERED,₹618.00
+ORD-00326,1285,Sanjay Joshi,f,20,Pune,"April 25, 2024",Sports,"Rs. 2,716",2,15,Credit Card,DELIVERED,"₹4,617.20"
+ORD-00404,1250,Simran  Gupta,Male,34,Bhopal,22/05/2024,Home & Kitchen,"2,076",3,0,Credit Card,Delivered,"₹6,228.00"
+ORD-00266,1244,priya joshi,Female,29,indore,04/04/2024,clothing,988,2,10,UPI,delivered,"₹1,778.40"
+ORD-00565,1241,neha mishra,,36,Bangalore,13-Jul-2024,ELECTRONICS,"10,688",2,5,net banking,RETURNED,20307.20
+ORD-00603,1105,NEHA JAIN,Female,40 yrs,pune,2024-07-27,beauty ,Rs. 470,,0,UPI,DELIVERED,1410.00
+ORD-00869,1040,amit singh,Female,41,Bangalore,"November 09, 2024",Home & Kitchen,"Rs. 2,010",1,N/A,net banking,Delivered,"₹1,909.50"
+ORD-00279,,Priya  Malviya,m,21,Bengaluru,2024-04-08,Beauty,826.00,1,0,debit card,Delivered,826.00
+ORD-00656,1235,Rohan Yadav,Male,28,Bangalore,2024-08-18,Clothing,"₹1,309.00",3,10,Credit Card,Shipped,3534.30
+ORD-00812,1251,Aditya Singh,Male,33,Delhi,18-Oct-2024,Clothing,720,4,25,net banking,DELIVERED,2160.00
+ORD-00733,1214,ritu mishra,Male,27,,2024-09-21,Clothes,Rs. 690,1,10,CC,Delivered,621.00
+ORD-00712,1238,Sanjay  Jain,male,28,Delhi,2024-09-13,Sports,1751.00,1,5,Cash on Delivery,Delivered,1663.45
+ORD-00554,1016,POOJA MALVIYA,m,52,Indore,10/07/2024,Electronics,"Rs. 5,436",5,15,Net Banking,Delivered,23103.00
+ORD-00803,1210,  Neha Joshi ,M,34,Indore ,13-Oct-2024,beauty ,₹491.00,2,15,net banking,SHIPPED,834.70
+ORD-00946,1247,MANISH SINGH,m,19,Indore,12/12/2024,Electronics,"8,982",1,5,COD,Delivered,"₹8,532.90"
+ORD-00954,1072,NEHA GUPTA,M,36 yrs,Pune,2024-12-16,Electronics,10992.00,1,0,Credit Card,DELIVERED,10992.00
+ORD-00232,1100,priya yadav,m,58 yrs,Delhi,"March 23, 2024",Sports,1843.00,1,0,Credit Card,CANCELLED,"₹1,843.00"
+ORD-00246,1149,deepak gupta,male,49,Indore ,29-Mar-2024,Home & Kitchen,2685.00,2,20,Debit Card,RETURNED,4296.00
+ORD-00168,1167,priya mishra,f,19,Bhopal,"February 29, 2024",Beauty,396.00,3,0,upi,Delivered,1188.00
+ORD-00503,1098,  Vikram Sharma ,M,42,Pune,24/06/2024,Clothing,1154.00,1,10,Cash on Delivery,Shipped,1038.60
+ORD-00333,1074,Aarav Malviya,Male,,Delhi,2024-04-28,Clothes,981.00,1,5,Upi,delivered,₹931.95
+ORD-00870,1061,Sneha Singh,Female,23,Indore,10/11/2024,Home & Kitchen,,1,0,UPI,Returned,1333.00
+ORD-00836,1112,Isha  Malviya,F,29,bangalore,28/10/2024,Books,361.00,1,5,Net Banking,Cancelled,₹342.95
+ORD-00776,1058,rahul joshi,Female,31,Pune,04/10/2024,ELECTRONICS,"Rs. 7,479",1,10,UPI,Shipped,6731.10
+ORD-00427,1137,Rohan  Yadav,Male,34,bhopal,31-May-2024,Clothing,590.00,500,10,UPI,?,"₹265,500.00"
+ORD-00542,1144,rohan joshi, Male,33,Indore,07-Jul-2024,clothing,609.00,1,,Upi,Pending,609.00
+ORD-00751,1247,MANISH SINGH,Male,19,Indore,"September 26, 2024",SPORTS,2104.00,3,,Net Banking,Cancelled,6312.00
+ORD-00763,1068,MANISH PATEL,Female,,Bhopal,01/10/2024,Books,Rs. 256,1,0,UPI,Delivered,256.00
+ORD-00163,1116,pooja mishra,MALE,44 yrs,Delhi,26-Feb-2024,Clothes,569.00,1,,UPI,Pending,426.75
+ORD-00150,1190,Anjali  Malviya,Female,35,Bengaluru,22/02/2024,Sports,"2,662",2,5,credit card,Delivered,5057.80
+ORD-00227,1136,  Neha Sharma ,Male,24,indore,22-Mar-2024,sports,,2,0,Upi,DELIVERED,4866.00
+ORD-00686,1132,NEHA YADAV,Female,32,Indore,01/09/2024,Sports,"₹3,151.00",3,0,UPI,Delivered,9453.00
+ORD-00095,1289,Simran Joshi,male,42,Delhi,03-Feb-2024,Home & Kitchen,"₹2,699.00",1,0,Upi,DELIVERED,"₹2,699.00"
+ORD-00769,1230,Deepak Verma,Male,33,Indore,02/10/2024,books,-,1,0,UPI,Returned,254.00
+ORD-00222,1256,Vikram Jain, Male,23,Indore ,20/03/2024,Beauty,Rs. 719,1,5,Credit Card,PENDING,683.05
+ORD-00598,1138,sneha gupta,Male,?,Indore,2024-07-24,clothing,"1,080",2,15,Credit Card,Shipped,1836.00
+ORD-00700,1193,Aarav  Verma,Female,-,Bhopal,2024-09-07,sports,2403.00,3,N/A,Net Banking,delivered,7209.00
+ORD-00474,1171,SANJAY MALVIYA,M,39,bhopal,13-Jun-2024,ELECTRONICS,"Rs. 7,865",3,0,Credit Card,Delivered,23595.00
+ORD-00505,1038,  Kavya Gupta ,F,26,Delhi,24-Jun-2024,Electronics,10231.00,4,10,Debit Card,Delivered,36831.60
+ORD-00602,1224,Priya Yadav,FEMALE,26,indore,26-Jul-2024,electronics,"8,888",2,-10,UPI,Delivered,16887.20
+ORD-00931,1037,Pooja  Verma,Male,38,INDORE,07-Dec-2024,Clothing,1185.00,4,5,,delivered,"₹4,503.00"
+ORD-00035,1029,RAHUL VERMA,f,39,indore,13-Jan-2024,Clothing,Rs. 783,2,0,Cash on Delivery,PENDING,1566.00
+ORD-00218,1008,Isha  Jain,Female,41,Indore,19/03/2024,ELECTRONICS,"₹5,422.00",1,25,UPI,Returned,
+ORD-00073,1103,Pooja  Malviya,F,,MUMBAI,"January 26, 2024",electronics,"5,042",0,0,UPI,Delivered,5042.00
+ORD-00221,1046,Sneha Mishra,Female,37,pune,"March 20, 2024",books,₹469.00,1,-,N/A,cancelled,422.10
+ORD-00214,1205,  Simran Sharma ,female,33,pune,16-Mar-2024,books,Rs. 418,2,15,debit card,delivered,710.60
+ORD-00916,1255,  Neha Malviya , Male,50 yrs,Indore,04/12/2024,electronics,11975.00,NA,0,UPI,cancelled,23950.00
+ORD-00395,1060,  Karan Verma ,Female,32,Mumbai,"May 18, 2024",books,279.00,3,20,upi,Delivered,669.60
+ORD-00547,1221,Vikram  Patel,FEMALE,45,Pune,2024-07-08,Beauty,Rs. 591,2,10,UPI,Cancelled,"₹1,063.80"
+ORD-00368,1036,Manish  Verma,Female,20,Bhopal,06/05/2024,books,468,4,25,Credit Card,CANCELLED,1404.00
+ORD-00013,1040,AMIT SINGH,Female,41,bangalore,06/01/2024,Home&Kitchen,"Rs. 2,395",1,10,Upi,DELIVERED,2155.50
+ORD-00904,1049,KARAN SINGH,Female,29,mumbai,2024-11-29,Books,453.00,3,0,Debit Card,Cancelled,"₹1,359.00"
+ORD-00344,1130,ROHAN JOSHI,Female,,bhopal,30/04/2024,home and kitchen,1637.00,1,5,COD,Delivered,1555.15
+ORD-00199,1298,priya mishra,Female,N/A,mumbai,11/03/2024,clothing,744.00,1,0,Upi,DELIVERED,744.00
+ORD-00726,1171,SANJAY MALVIYA, Male,39,Bhopal,"September 18, 2024",books,367.00,2,0,debit card,Delivered,734.00
+ORD-00697,1110,  Sneha Yadav ,Female,42,Indore,05-Sep-2024,Home & Kitchen,2163.00,2,20,cod,DELIVERED,3460.80
+ORD-00235,1297,KARAN YADAV,F,?,Indore,23/03/2024,Home&Kitchen,1670.00,4,15,COD,Delivered,N/A
+ORD-00696,1280,manish mishra,Male,37,Indore,05-Sep-2024,clothing,₹843.00,3,5,Credit Card,Returned,2402.55
+ORD-00421,1065,Amit Singh,Female,41,Bangalore,"May 30, 2024",-,694.00,1,0,Debit Card,pending,694.00
+ORD-00884,1080,,Female ,25,Bhopal,18-Nov-2024,Beauty,879.00,1,10,cod,Delivered,791.10
+ORD-00933,1048,ritu malviya,Male,39,Delhi,"December 08, 2024",Electronics,"-8,609",2,0,debit card,DELIVERED,
+ORD-00609,1035,VIVAAN GUPTA,Male,-5,Bhopal,"July 30, 2024",home and kitchen,"₹1,533.00",2,0,Upi,-,3066.00
+ORD-00838,1057,AMIT GUPTA,Female,19,Bhopal,"October 29, 2024",home and kitchen,1471.00,1,5,Upi,SHIPPED,1397.45
+ORD-00298,NA,Vivaan Sharma,Female,19,bangalore,2024-04-14,sports,"Rs. 2,303",2,0,Net Banking,returned,4606.00
+ORD-00064,1259,Ritu Sharma,female,25,mumbai,"January 23, 2024",books,412.00,4,15,Credit Card,DELIVERED,1400.80
+ORD-00735,1060,karan verma,Female,32,mumbai,2024-09-21,Electronics,"₹9,180.00",5,15,Credit Card,Delivered,"₹39,015.00"
+ORD-00608,1189,isha jain,F,19,Bengaluru,30-Jul-2024,Clothes,-887.00,1,0,Debit Card,Delivered,₹887.00
+ORD-00014,1157,Aditya Malviya,Female,32,Pune,2024-01-07,Clothing,"1,156",-,0,Credit Card,Delivered,1156.00
+ORD-00436,1027,ANJALI GUPTA,Female,28,,"June 02, 2024",Clothing,₹582.00,1,10,Debit Card,Delivered,523.80
+ORD-00018,1170,Karan Yadav, Male,-,Mumbai,"January 08, 2024",books,₹423.00,2,0,CC,delivered,846.00
+ORD-00765,1225,rahul malviya,N/A,23,delhi,2024-10-01,Sports,"1,710",4,25,Net Banking,Delivered,5130.00
+ORD-00879,1064,Vivaan  Jain,Male,19,Indore,"November 16, 2024",Home & Kitchen,2080.00,2,0,upi,DELIVERED,4160.00
+ORD-00759,1185,aarav jain,Male,40,Indore,29/09/2024,Clothing,₹668.00,1,-10,upi,pending,668.00
+ORD-00780,1244,PRIYA JOSHI,Female,29,Indore,2024-10-05,Electronics,"₹11,931.00",4,25,Upi,Delivered,35793.00
+ORD-00349,1111,ADITYA GUPTA,Female,49,Bhopal,02/05/2024,Clothing,1290.00,3,0,UPI,Delivered,3870.00
+ORD-00208,1174,vikram yadav,Male,0,pune,14-Mar-2024,clothing,"₹1,042.00",2,0,credit card,DELIVERED,"₹2,084.00"
+ORD-00091,1123,Sanjay Sharma,Male,32,Delhi,02-Feb-2024,Books,218,3,0,Net Banking,DELIVERED,654.00
+ORD-00308,1186,Priya Singh,Male,41,mumbai,2024-04-18,Electronics,110256.00,NA,0,debit card,pending,
+ORD-00342,1129,Kavya  Verma,M,24,bhopal,30/04/2024,Home&Kitchen,"₹2,479.00",1,0,Cash on Delivery,Cancelled,"₹2,479.00"
+ORD-00381,1213,sneha verma,Male,32,Indore,2024-05-11,clothing,777.00,,10,Credit Card,DELIVERED,2797.20
+ORD-00345,1110,sneha yadav,Female,42,Indore,30/04/2024,Sports,2348.00,3,0,upi,Delivered,7044.00
+ORD-00472,1059,Aarav  Verma,M,31,Indore,,beauty ,822.00,5,,debit card,Returned,"₹3,288.00"
+ORD-00858,1278,Vikram Joshi,female,37,Bhopal,2024-11-06,clothing,,2,5,debit card,Delivered,1459.20
+ORD-00897,1121,  Aditya Joshi ,female,24,Bhopal,"November 25, 2024",books,Rs. 240,2,25,UPI,delivered,360.00
+ORD-00552,1192,simran malviya,Female,21 yrs,INDORE,"July 09, 2024",Books,Rs. 521,2,N/A,UPI,DELIVERED,"₹1,042.00"
+ORD-00599,1160,SIMRAN JAIN,Female,42 yrs,N/A,25-Jul-2024,books,408.00,2,15,Net Banking,Delivered,693.60
+ORD-00694,1229,  Aditya Singh ,female,45 yrs,Bhopal,2024-09-04,Electronics,"9,875",1,0,debit card,CANCELLED,9875.00
+ORD-00033,1252,Vikram  Mishra,Male,46,Indore,"January 12, 2024",electronics,8853.00,4,0,UPI,delivered,"₹35,412.00"
+ORD-00999,1185,aarav jain,MALE,40,Indore,30-Dec-2024,electronics,5244.00,5,0,Upi,delivered,"₹26,220.00"
+ORD-00658,1225,  Rahul Malviya , Male,23,delhi,19/08/2024,Clothing,Rs. 997,1,15,Credit Card,Delivered,847.45
+ORD-00671,1070,Priya  Gupta,Female,40,Mumbai,"August 23, 2024",electronics,7814.00,1,0,UPI,CANCELLED,7814.00
+ORD-00173,1022,ISHA PATEL,Male,36,indore,02-Mar-2024,Clothes,"Rs. 1,242",1,10,Cash on Delivery,Delivered,1117.80
+ORD-00906,1192,Simran  Malviya,Female ,21,indore,01/12/2024,Home & Kitchen,2324.00,1,5,Cash on Delivery,DELIVERED,2207.80
+ORD-00929,1181,deepak mishra,Male,43,bhopal,06-Dec-2024,Electronics,10963.00,1,0,UPI,Delivered,10963.00
+ORD-00409,1109,VIVAAN SHARMA,m,29,Bangalore,2024-05-24,beauty ,483.00,2,15,COD,Delivered,821.10
+ORD-00886,1083,  Sneha Mishra ,Female ,31,delhi,19-Nov-2024,Home & Kitchen,"₹1,435.00",5,25,Debit Card,Delivered,5381.25
+ORD-00961,1258,vikram verma,Male,26,Bangalore,19/12/2024,Home & Kitchen,1824.00,1,10,UPI,Delivered,1641.60
+ORD-00201,1197,  Anjali Joshi ,Male,48,Delhi,"March 12, 2024",SPORTS,"₹1,520.00",1,15,upi,delivered,1292.00
+ORD-00293,1020,Neha Singh,FEMALE,29,Mumbai,"April 13, 2024",books,390,2,5,upi,shipped,₹741.00
+ORD-00861,1298,Priya Mishra,,19,Mumbai,"November 07, 2024",Clothing,Rs. 687,2,0,debit card,Returned,1374.00
+ORD-00584,1202,Priya  Yadav,female,35,Indore,19-Jul-2024,Books,Rs. 217,1,0,debit card,Delivered,217.00
+ORD-00923,1163,vikram malviya,-,19,Mumbai,05-Dec-2024,Sports,"₹2,561.00",1,10,Debit Card,cancelled,2304.90
+ORD-00511,1056,neha jain,female,30,pune,"June 28, 2024",Home&Kitchen,1850.00,1,0,Credit Card,Delivered,"₹1,850.00"
+ORD-00144,1108,Isha  Malviya,Female,30,Delhi,21-Feb-2024,clothing,Rs. 571,3,10,Cash on Delivery,returned,1541.70
+ORD-00900,1120,priya singh,Female,19,Delhi,,electronics,NA,2,5,Upi,DELIVERED,21641.00
+ORD-00938,1133,Vikram  Joshi,Female,40,Delhi,09/12/2024,Books,220.00,4,15,Upi,Delivered,₹748.00
+ORD-00917,1022,ISHA PATEL,m,36,Indore,"December 04, 2024",Electronics,"₹5,898.00",1,0,Net Banking,DELIVERED,5898.00
+ORD-00503,1098,Vikram  Sharma,Male,42 yrs,pune,24/06/2024,Clothing,1154.00,1,10,Cash on Delivery,Shipped,1038.60
+ORD-00490,1285,sanjay joshi,Female,20,Pune,19/06/2024,Clothes,₹560.00,2,20,Debit Card,delivered,896.00
+ORD-00864,1227,Pooja Sharma,female,38,Bhopal,08/11/2024,beauty ,Rs. 636,2,0,UPI,delivered,"₹1,272.00"
+ORD-00935,1032,Anjali  Yadav,Male,19,Indore,2024-12-08,Electronics,7558.00,5,10,upi,delivered,34011.00
+ORD-00930,1039,PRIYA MALVIYA,Male,21,Bengaluru,06/12/2024,Beauty,805.00,,0,debit card,shipped,805.00
+ORD-00134,1097,Sanjay Patel,FEMALE,21,bhopal,17/02/2024,Books,Rs. 260,2,20,cod,PENDING,416.00
+ORD-00061,1024,sneha mishra,Female,39,Bhopal,21/01/2024,NA,Rs. 472,3,5,UPI,Delivered,1345.20
+ORD-00691,1271,  Isha Sharma ,Male,43,Indore ,03-Sep-2024,clothing,696.00,3,0,net banking,Delivered,2088.00
+ORD-00027,1180,  Vivaan Jain ,M,25,Bhopal,"January 10, 2024",Beauty,Rs. 468,1,10,UPI,Shipped,421.20
+ORD-00101,1043,sanjay jain,Female,49,-,2024-02-05,Beauty,432.00,2,0,Debit Card,delivered,864.00
+ORD-00532,1156,Kavya  Singh,Male,39,bhopal,"July 04, 2024",Electronics,"Rs. 6,321",1,15,CC,delivered,5372.85
+ORD-00589,1180,VIVAAN JAIN,Male,25,Bhopal,"July 21, 2024",Clothes,1170.00,2,20,upi,PENDING,1872.00
+ORD-00665,1084,priya verma,m,19,Delhi,21-Aug-2024,clothing,637.00,2,0,UPI,Delivered,"₹1,274.00"
+ORD-00777,1222,  Aditya Gupta ,Male,44,pune,2024-10-04,Clothing,598,1,5,debit card,DELIVERED,568.10
+ORD-00789,1300,Sanjay Singh,Female,34,Indore ,08-Oct-2024,Clothing,907.00,,15,Upi,DELIVERED,1541.90
+ORD-00521,1271,ISHA SHARMA,MALE,43,Indore,"July 01, 2024",beauty ,₹833.00,2,0,credit card,delivered,"₹1,666.00"
+ORD-00364,1281,Rahul  Sharma,,38,delhi,05/05/2024,books,NA,1,5,Debit Card,DELIVERED,291.65
+ORD-00310,1013,?,Male,50 yrs,Bangalore,2024-04-19,Home&Kitchen,1960.00,3,?,UPI,delivered,
+ORD-00796,1290,  Ritu Verma ,male,21,indore,10-Oct-2024,Electronics,8676.00,1,,Cash on Delivery,shipped,8676.00
+ORD-00829,1231,  Isha Verma ,female,22,Delhi,25-Oct-2024,Electronics,"₹10,897.00",1,0,debit card,Delivered,10897.00
+ORD-00605,1117,Aarav Jain,Male,19,bhopal,27-Jul-2024,Electronics,"Rs. 5,243",5,15,UPI,Delivered,
+ORD-00253,1238,  Sanjay Jain , Male,28,NA,31-Mar-2024,Books,₹459.00,2,0,Debit Card,delivered,918.00
+ORD-00545,1292,aditya sharma, Male,28,MUMBAI,08/07/2024,Electronics,"₹10,209.00",2,15,Net Banking,Pending,17355.30
+ORD-00482,1061,sneha singh,Female,23,Indore,15-Jun-2024,Sports,1397.00,2,5,Credit Card,DELIVERED,"₹2,654.30"
+ORD-00442,1134,Sneha Patel,,34,Delhi,"June 04, 2024",sports,"₹1,909.00",4,20,debit card,pending,"₹6,108.80"
+ORD-00648,1166,RAHUL PATEL,Female,24 yrs,bangalore,14-Aug-2024,books,Rs. 463,2,10,Upi,Delivered,833.40
+ORD-00477,1079,Aditya  Joshi,M,37,INDORE,14-Jun-2024,Books,240.00,1,0,UPI,Pending,240.00
+ORD-00023,1109,vivaan sharma,Male,29,Bangalore,"January 09, 2024",Books,245.00,?,20,CC,delivered,196.00
+ORD-00063,1196,ISHA VERMA,Female,37,indore,"January 22, 2024",Home & Kitchen,"2,044",2,20,UPI,Cancelled,3270.40
+ORD-00149,1241,Neha Mishra,Female,999,Bangalore,2024-02-22,Home & Kitchen,1859.00,1,5,Net Banking,Delivered,1766.05
+ORD-00484,1241,Neha Mishra,FEMALE,36,,"June 17, 2024",Beauty,444.00,3,5,Cash on Delivery,Delivered,1265.40
+ORD-00728,1166,  Rahul Patel ,Female,24,Bangalore,19-Sep-2024,Clothing,818,1,0,Net Banking,Delivered,818.00
+ORD-00959,1152,Aarav  Mishra,f,23,Pune,18-Dec-2024,Electronics,7710.00,3,5,UPI,Returned,21973.50
+ORD-00787,1090,SIMRAN JOSHI,female,19,Pune,07/10/2024,home and kitchen,"₹1,103.00",1,5,Cash on Delivery,Delivered,"₹1,047.85"
+ORD-00258,1179,rohan mishra,F,45,New Delhi,"April 03, 2024",Beauty,Rs. 753,1,15,UPI,Delivered,640.05
+ORD-00053,1268,AMIT VERMA,Male,35,bhopal,19-Jan-2024,Sports,2698.00,0,10,,Pending,9712.80
+ORD-00243,1131,Manish  Verma,Female,40,Indore,"March 28, 2024",books,Rs. 386,5,10,UPI,Delivered,1737.00
+ORD-00174,1114,deepak joshi,Female,37,pune,02/03/2024,Electronics,"11,441",1,15,Debit Card,Cancelled,9724.85
+ORD-00036,1141,Neha Gupta,Female,41,indore,"January 13, 2024",clothing,633.00,3,5,upi,delivered,1804.05
+ORD-00179,1151,Anjali Mishra,Male,42,Delhi,"March 04, 2024",electronics,"₹11,601.00",1,0,UPI,Delivered,11601.00
+ORD-00680,1095,KARAN PATEL,Male,37,indore,"August 28, 2024",ELECTRONICS,11488.00,1,15,debit card,Shipped,9764.80
+ORD-00739,1232,ISHA GUPTA,F,31,Bhopal,23-Sep-2024,beauty ,₹443.00,3,10,debit card,DELIVERED,1196.10
+ORD-00121,1160,SIMRAN JAIN,F,42,indore,12/02/2024,Home & Kitchen,"Rs. 1,441",5,0,upi,Delivered,"₹7,205.00"
+ORD-00975,1240,Kavya Verma,Female,30,Bhopal,"December 22, 2024",Electronics,8287.00,3,10,Upi,Delivered,?
+ORD-00276,1128,KAVYA VERMA,Female,44,Bhopal,06-Apr-2024,Beauty,Rs. 799,4,20,net banking,DELIVERED,"₹2,556.80"
+ORD-00045,1143,Sneha  Yadav,Female,24,Indore,16/01/2024,Home & Kitchen,"Rs. 1,872",2,-,UPI,delivered,"₹3,182.40"
+ORD-00301,1174,Vikram Yadav,male,34,Pune,16/04/2024,Home & Kitchen,"1,530",1,10,Credit Card,Delivered,1377.00
+ORD-00837,1071,  Vikram Malviya ,NA,19,Indore,"October 29, 2024",SPORTS,"Rs. 1,834",5,5,net banking,Delivered,
+ORD-00077,1126,ROHAN GUPTA,female,-,Bhopal,27/01/2024,Electronics,"9,399",1,0,Credit Card,cancelled,9399.00
+ORD-00721,1141,NEHA GUPTA,FEMALE,41,Indore,2024-09-16,books,₹497.00,1,0,Net Banking,Delivered,497.00
+ORD-00369,1085,Priya  Sharma,Male,34,INDORE,07/05/2024,Beauty,540.00,1,10,Cash on Delivery,Delivered,₹486.00
+ORD-00907,1131,MANISH VERMA,Female,40,INDORE,"December 01, 2024",Home & Kitchen,1514.00,5,15,Cash on Delivery,Cancelled,6434.50
+ORD-00213,1281,Rahul  Sharma,MALE,38,Delhi,"March 16, 2024",Electronics,"Rs. 7,264",1,5,CC,delivered,6900.80
+ORD-00268,1145,Rahul Gupta, Male,45,Indore,"April 05, 2024",ELECTRONICS,"₹129,024.00",2,0,Cash on Delivery,DELIVERED,258048.00
+ORD-00312,1139,Pooja  Jain,Female,22,Delhi,20-Apr-2024,Electronics,8550.00,1,5,Net Banking,Delivered,8122.50
+ORD-00729,1193,Aarav Verma,Female ,51,bhopal,20-Sep-2024,Electronics,9474.00,3,5,Credit Card,DELIVERED,27000.90
+ORD-00445,1251,Aditya Singh,-,33,New Delhi,05/06/2024,books,274.00,1,5,Credit Card,Delivered,260.30
+ORD-00504,1232,Isha  Gupta,f,31,Bhopal,"June 24, 2024",Clothing,1344.00,2,25,UPI,delivered,2016.00
+ORD-00496,1068,Manish Patel,Female,31,Bhopal,22/06/2024,Books,-,1,5,CC,DELIVERED,217.55
+ORD-00034,1268,AMIT VERMA,Male,35,Bhopal,13-Jan-2024,clothing,"₹1,285.00",2,0,upi,Shipped,2570.00
+ORD-00010,1116,Pooja  Mishra,Male,44,Delhi,2024-01-05,SPORTS,"₹1,876.00",5,-10,,Delivered,9380.00
+ORD-00689,1259,Ritu  Sharma,Female,25,mumbai,2024-09-03,Clothing,864.00,2,15,-,Delivered,1468.80
+ORD-00161,1291,vivaan mishra,Female,30 yrs,Delhi,2024-02-26,home and kitchen,"Rs. 1,794",2,0,Debit Card,-,3588.00
+ORD-00286,1252,Vikram Mishra,Male,46,INDORE,2024-04-10,Beauty,466.00,1,20,COD,Cancelled,372.80
+ORD-00296,1157,aditya malviya,Female,32,pune,14/04/2024,Clothing,1122.00,1,20,,Delivered,897.60
+ORD-00617,1030,Isha Singh,Male,,Bengaluru,02/08/2024,books,382,2,0,Credit Card,DELIVERED,764.00
+ORD-00825,1270,Rahul Sharma,Female,66 yrs,Indore,N/A,Clothing,982,2,0,upi,,"₹1,964.00"
+ORD-00626,1159,isha jain,Female,36,Delhi,2024-08-07,books,301,1,5,credit card,Delivered,285.95
+ORD-00278,1111,Aditya  Gupta,female,49,Bhopal,07/04/2024,Beauty,Rs. 786,3,20,UPI,Delivered,"₹1,886.40"
+ORD-00962,1119,Kavya Gupta,m,26,bhopal,19/12/2024,sports,3225.00,3,25,Credit Card,Returned,7256.25
+ORD-00604,1040,AMIT SINGH,f,41,Bengaluru,2024-07-27,Books,₹388.00,2,10,UPI,SHIPPED,₹698.40
+ORD-00485,1259,Ritu Sharma,Female,25,MUMBAI,2024-06-17,sports,2394.00,4,20,Cash on Delivery,DELIVERED,7660.80
+ORD-00497,1123,sanjay sharma,N/A,32,Delhi,22-Jun-2024,Home&Kitchen,"Rs. 1,328",1,5,CC,NA,1261.60
+ORD-00183,1259,Ritu  Sharma,Female,25,mumbai,2024-03-05,Books,₹430.00,3,-,debit card,delivered,1225.50
+ORD-00828,1243,Pooja Malviya,Female,23,Bangalore,"October 24, 2024",Home & Kitchen,1588.00,4,20,,DELIVERED,5081.60
+ORD-00346,1011,Rahul Patel,Male,26,mumbai,01-May-2024,Clothing,Rs. 777,1,10,Upi,Delivered,₹699.30
+ORD-00685,1005,karan sharma,Female,22,Pune,2024-09-01,Home&Kitchen,1928.00,1,15,UPI,Delivered,1638.80
+ORD-00745,1049,  Karan Singh ,Female ,29,Mumbai,"September 24, 2024",Sports,"₹2,736.00",5,0,debit card,Delivered,13680.00
+ORD-00909,1049,Karan  Singh,f,29,Mumbai,02-Dec-2024,books,₹483.00,3,0,Debit Card,Delivered,"₹1,449.00"
+ORD-00037,1250,  Simran Gupta ,M,34,Bhopal,2024-01-14,Electronics,8805.00,,10,UPI,Returned,7924.50
+ORD-00157,1232,Isha Gupta,f,31,Bhopal,25-Feb-2024,Books,₹314.00,1,25,UPI,delivered,235.50
+ORD-00003,1078,Sneha  Singh, Male,40,?,03-Jan-2024,Home & Kitchen,2216.00,1,0,Debit Card,Shipped,2216.00
+ORD-00755,1130,ROHAN JOSHI,F,25,bhopal,27-Sep-2024,home and kitchen,1524.00,999,?,upi,SHIPPED,1522476.00
+ORD-00509,1185,Aarav Jain,MALE,40,INDORE,"June 27, 2024",sports,2908.00,2,25,cod,pending,4362.00
+ORD-00498,1132,neha yadav,Female ,,?,22-Jun-2024,beauty ,N/A,0,20,upi,delivered,467.20
+ORD-00309,1041,SIMRAN GUPTA,male,36,Bhopal,19-Apr-2024,Clothes,679,1,0,debit card,Delivered,679.00
+ORD-00290,1092,Pooja  Singh,MALE,29,INDORE,,beauty ,₹619.00,4,0,UPI,Delivered,"₹2,476.00"
+ORD-00958,1152,  Aarav Mishra ,f,,pune,"December 17, 2024",Electronics,4940.00,NA,10,debit card,Delivered,"₹4,446.00"
+ORD-00561,1085,priya sharma,Male,34,Indore,2024-07-11,Sports,2569.00,3,15,upi,delivered,"₹6,550.95"
+ORD-00415,1091,Simran Verma,Female,39,indore,2024-05-28,Sports,"2,974",4,10,credit card,delivered,"₹10,706.40"
+ORD-00422,1292,  Aditya Sharma ,Male,28,Mumbai,2024-05-30,ELECTRONICS,5566.00,1,5,debit card,Delivered,5287.70
+ORD-00142,1177,Neha Gupta,Male,54,Delhi,20-Feb-2024,electronics,"5,037",1,20,cod,Delivered,4029.60
+ORD-00224,1149,Deepak Gupta,MALE,49,Indore,21/03/2024,Home&Kitchen,"Rs. 2,675",4,10,UPI,Shipped,9630.00
+ORD-00865,1291,VIVAAN MISHRA,Female,30 yrs,New Delhi,08-Nov-2024,Books,265.00,2,0,Credit Card,delivered,₹530.00
+ORD-00184,1065,Amit Singh,Female ,41,Bangalore,2024-03-06,clothing,"1,329",2,25,upi,Delivered,1993.50
+ORD-00844,1144,  Rohan Joshi ,Male,33,Indore,01-Nov-2024,home and kitchen,1966.00,2,?,UPI,Cancelled,3342.20
+ORD-01000,1263,PRIYA PATEL,FEMALE,31,Delhi,30/12/2024,Electronics,8031.00,1,0,Upi,delivered,8031.00
+ORD-00979,1137,ROHAN YADAV,male,34,Bhopal,"December 23, 2024",beauty ,-468,2,0,UPI,delivered,936.00
+ORD-00673,1104,  Manish Yadav ,Male,42,bhopal,25-Aug-2024,electronics,11385.00,2,0,debit card,?,"₹22,770.00"
+ORD-00849,1222,ADITYA GUPTA,,,Pune,2024-11-04,electronics,,2,10,UPI,delivered,20997.00
+ORD-00512,1196,isha verma,Female,37,indore,28-Jun-2024,Home & Kitchen,2114.00,2,15,UPI,delivered,3593.80
+ORD-00913,1185,aarav jain,Male,0,Indore,03/12/2024,Clothing,1187.00,1,5,UPI,DELIVERED,1127.65
+ORD-00732,1033,  Sneha Patel ,,39 yrs,bangalore,20-Sep-2024,Sports,"1,465",4,,Debit Card,Delivered,5274.00
+ORD-00612,1269,, Male,38,Bhopal,2024-07-31,Clothes,1162.00,3,10,debit card,Delivered,"₹3,137.40"
+ORD-00893,1155,Priya Verma,M,35,Mumbai,23-Nov-2024,Electronics,9543.00,1,0,UPI,Delivered,"₹9,543.00"
+ORD-00748,1121,Aditya  Joshi,Female,24,bhopal,26/09/2024,Electronics,"₹11,921.00",4,5,UPI,DELIVERED,"₹45,299.80"
+ORD-00971,1087,MANISH JAIN,N/A,31 yrs,Bhopal,"December 20, 2024",home and kitchen,2536.00,2,5,UPI,Delivered,4818.40
+ORD-00369,1085,priya sharma,male,34,indore,?,beauty ,,1,10,cod,delivered,486.00
+ORD-00118,1294,KAVYA SHARMA,female,37,Bangalore,10-Feb-2024,Clothes,869,1,10,COD,Returned,782.10
+ORD-00854,1124,Manish Gupta,Male,45,Mumbai,2024-11-05,Clothes,₹671.00,1,0,UPI,Delivered,671.00
+ORD-00002,1126,  Rohan Gupta ,Female,24,Bhopal,02/01/2024,Sports,"₹2,016.00",3,5,upi,Delivered,5745.60
+ORD-00114,1242,neha jain,Female,37,INDORE,09/02/2024,Clothing,1113.00,2,20,cod,DELIVERED,1780.80
+ORD-00601,1180,vivaan jain,Male,25,bhopal,26-Jul-2024,Electronics,"10,547",2,-,COD,Delivered,17929.90
+ORD-00687,1211,SIMRAN SINGH,M,32,,2024-09-01,ELECTRONICS,9265.00,2,,upi,Delivered,"₹15,750.50"
+ORD-00766,1018,ritu sharma,Female,21 yrs,Indore ,01/10/2024,home and kitchen,1204.00,2,25,Credit Card,SHIPPED,1806.00
+ORD-00166,1198,ISHA MISHRA,f,34,Indore ,2024-02-29,clothing,951.00,2,10,UPI,DELIVERED,1711.80
+ORD-00968,1075,Deepak Sharma,M,32,Bhopal,"December 20, 2024",beauty ,748.00,1,15,UPI,DELIVERED,635.80
+ORD-00198,1201,Vikram  Jain,Female,38,Indore ,10-Mar-2024,Home&Kitchen,,4,5,Net Banking,Returned,7280.80
+ORD-00185,1235,ROHAN YADAV,Male,?,Bengaluru,06/03/2024,ELECTRONICS,"5,004",3,5,upi,SHIPPED,14261.40
+ORD-00678,1226,  Vikram Yadav ,M,37,pune,"August 27, 2024",electronics,"₹11,906.00",1,0,Credit Card,delivered,11906.00
+ORD-00960,1175,ROHAN VERMA,Male,31,Bengaluru,"December 18, 2024",Electronics,"8,663",1,0,credit card,Delivered,8663.00
+ORD-00373,1282,POOJA VERMA,Female,19,bhopal,07-May-2024,Beauty,853,3,5,debit card,Pending,2431.05
+ORD-00275,1274,Sneha Joshi,Female,30 yrs,indore,06-Apr-2024,Clothes,Rs. 996,1,5,Debit Card,Shipped,?
+ORD-00705,1142,Kavya  Gupta,Male,30,Delhi,"September 08, 2024",Books,332.00,5,0,debit card,Pending,1660.00
+ORD-00001,1087,MANISH JAIN,Female,31,Bhopal,"January 01, 2024",ELECTRONICS,"5,487",1,0,Cash on Delivery,DELIVERED,5487.00
+ORD-00567,1216,VIVAAN JAIN,M,39,Bhopal,13/07/2024,Clothing,938,1,0,N/A,Delivered,938.00
+ORD-00888,1077,Simran Malviya,Female,?,Pune,2024-11-21,electronics,"Rs. 9,056",3,0,Credit Card,delivered,"₹27,168.00"
+ORD-00541,1154,  Priya Joshi ,MALE,-,Indore,"July 07, 2024",Electronics,-,1,25,Debit Card,Pending,4681.50
+ORD-00501,1255,NEHA MALVIYA,Male,50,indore,"June 23, 2024",home and kitchen,2269.00,1,10,UPI,DELIVERED,2042.10
+ORD-00719,1175,Rohan Verma,Male,NA,Bangalore,16-Sep-2024,Home&Kitchen,,2,15,N/A,DELIVERED,4117.40
+ORD-00384,1134,sneha patel,Female,34,Delhi,11-May-2024,books,464.00,3,10,credit card,Pending,1252.80
+ORD-00406,1293,sneha yadav,M,34 yrs,Mumbai,"May 23, 2024",Clothes,"Rs. 1,028",1,10,net banking,,925.20
+ORD-00562,1143,Sneha  Yadav,female,24 yrs,indore,12/07/2024,ELECTRONICS,"Rs. 11,567",2,15,upi,delivered,19663.90
+ORD-00863,1027,  Anjali Gupta ,Female,28,INDORE,08-Nov-2024,sports,"2,601",1,0,UPI,delivered,2601.00
+ORD-00021,1254,Rahul Malviya,f,38,bangalore,09/01/2024,books,362.00,1,0,CC,Returned,362.00
+ORD-00806,1233,  Aarav Yadav ,Male,NA,delhi,14/10/2024,Clothing,998.00,1,0,,Delivered,998.00
+ORD-00177,1092,POOJA SINGH,,29,Indore,"March 03, 2024",Books,N/A,4,15,Cash on Delivery,SHIPPED,1448.40
+ORD-00336,1196,ISHA VERMA,Female,37,N/A,29/04/2024,Home & Kitchen,"Rs. 1,615",1,10,UPI,DELIVERED,1453.50
+ORD-00380,1171,  Sanjay Malviya ,M,39,Bhopal,09-May-2024,home and kitchen,"₹2,343.00",2,5,Cash on Delivery,Delivered,N/A
+ORD-00546,1021,rohan jain,Female,42 yrs,New Delhi,2024-07-08,Beauty,Rs. 662,5,0,Credit Card,DELIVERED,3310.00
+ORD-00172,1104,MANISH YADAV,,42,Bhopal,"March 02, 2024",Beauty,558,2,0,debit card,delivered,"₹1,116.00"
+ORD-00105,1063,  Ritu Joshi ,NA,39,Indore,06-Feb-2024,Electronics,9240.00,4,10,UPI,Delivered,"₹33,264.00"
+ORD-00520,1217,  Deepak Verma ,m,38,MUMBAI,"July 01, 2024",clothing,1115.00,2,20,Cash on Delivery,Delivered,1784.00
+ORD-00831,1043,Sanjay  Jain,Female,49,Indore,27-Oct-2024,Home & Kitchen,"Rs. 2,411",3,5,Net Banking,PENDING,6871.35
+ORD-00508,1055,Pooja  Jain,m,59,indore,25/06/2024,Home & Kitchen,"Rs. 2,263",1,15,Debit Card,Delivered,1923.55
+ORD-00153,1241,  Neha Mishra ,F,36,NA,24/02/2024,electronics,7293.00,2,0,debit card,SHIPPED,14586.00
+ORD-00619,1241,neha mishra,f,36,Bangalore,"August 04, 2024",Clothing,806.00,2,0,Cash on Delivery,delivered,1612.00
+ORD-00414,1239,Deepak Sharma,MALE,37,bangalore,2024-05-27,Clothes,905.00,2,10,UPI,Delivered,1629.00
+ORD-00623,1119,  Kavya Gupta ,m,26,Bhopal,06-Aug-2024,Home & Kitchen,2086.00,1,0,Debit Card,Delivered,"₹2,086.00"
+ORD-00873,1122,VIVAAN SINGH,Male,25,MUMBAI,2024-11-11,electronics,"Rs. 6,774",2,,Cash on Delivery,DELIVERED,13548.00
+ORD-00859,1022,Isha  Patel,Male,36 yrs,Indore,06/11/2024,ELECTRONICS,"9,806",1,0,net banking,Delivered,9806.00
+ORD-00642,1083,SNEHA MISHRA,Female,31,Delhi,11/08/2024,Clothing,883,1,25,Net Banking,delivered,662.25
+ORD-00259,1289,SIMRAN JOSHI,m,42,Delhi,"April 03, 2024",Home & Kitchen,1568.00,3,0,debit card,Delivered,"₹4,704.00"
+ORD-00835,1047,,f,28,Bangalore,28-Oct-2024,Clothing,1289.00,1,25,UPI,Delivered,966.75
+ORD-00663,1132,Neha  Yadav,Female,32,Indore,21/08/2024,Home & Kitchen,1410.00,1,0,CC,Delivered,1410.00
+ORD-00338,1262,rohan mishra,m,,Bhopal,29/04/2024,sports,"2,271",5,25,Upi,Delivered,8516.25
+ORD-00399,1203,Pooja Joshi,female,,Bhopal,18/05/2024,Clothing,₹740.00,1,10,UPI,delivered,666.00
+ORD-00606,1060,  Karan Verma ,Female,999,Mumbai,2024-07-28,Electronics,"Rs. 7,902",2,5,CC,Delivered,15013.80
+ORD-00481,1239,  Deepak Sharma ,M,37,Bangalore,15/06/2024,Home & Kitchen,"Rs. 1,698",3,20,Credit Card,delivered,"₹4,075.20"
+ORD-00918,1069,  Sanjay Sharma ,male,33,Bhopal,04-Dec-2024,Home&Kitchen,1920.00,2,0,,DELIVERED,"₹3,840.00"
+ORD-00007,1105,neha jain,female,40,pune,"January 04, 2024",Electronics,"₹10,185.00",1,5,UPI,DELIVERED,9675.75
+ORD-00876,1087,Manish  Jain,F,31,Bhopal,12/11/2024,books,380.00,5,0,debit card,DELIVERED,"₹1,900.00"
+ORD-00660,1245,Manish Singh,Male,48,indore,20-Aug-2024,sports,2548.00,2,0,Debit Card,Delivered,5096.00
+ORD-00473,1045,Manish Mishra,FEMALE,34,Indore,"June 13, 2024",Beauty,490,1,5,cod,DELIVERED,465.50
+ORD-00790,1245,MANISH SINGH,,48,indore,"October 08, 2024",Sports,"Rs. 1,993",1,NA,cod,Delivered,"₹1,594.40"
+ORD-00257,1280,manish mishra,MALE,37,Indore,"April 01, 2024",books,₹460.00,1,?,Cash on Delivery,Delivered,₹391.00
+ORD-00969,1233,  Aarav Yadav ,m,36,Delhi,"December 20, 2024",Clothing,"₹1,339.00",1,N/A,Net Banking,delivered,"₹1,272.05"
+ORD-00953,1297,KARAN YADAV,Female,,Indore,"December 16, 2024",SPORTS,"1,875",5,10,Credit Card,DELIVERED,8437.50
